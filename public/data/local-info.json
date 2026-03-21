@@ -1,0 +1,56 @@
+{
+  "events": [
+    {
+      "id": "greek-festival",
+      "name": "Newport News Greek Festival",
+      "category": "Events",
+      "date": "June 4-7, 2026",
+      "location": "Saints Constantine and Helen Greek Orthodox Church",
+      "target": "Everyone",
+      "description": "Experience authentic Greek food, music, dancing, and culture at this beloved annual community festival. The festival features a wide variety of traditional dishes, from moussaka to souvlaki, and a plethora of honey-drenched desserts. Join us for a weekend of celebration and community spirit in the heart of Newport News.",
+      "link": "#"
+    },
+    {
+      "id": "summer-concerts",
+      "name": "Summer Concert Series at Port Warwick",
+      "category": "Events",
+      "date": "Every Wednesday",
+      "location": "Port Warwick",
+      "target": "Music Lovers",
+      "description": "Enjoy free live music outdoors! Bring your chairs and blankets for a wonderful evening under the stars. The Summer Concert Series features a diverse lineup of talented artists playing everything from jazz and blues to pop and rock. It's the perfect midweek escape for families and friends.",
+      "link": "#"
+    },
+    {
+      "id": "fall-festival",
+      "name": "Fall Festival at Newport News Park",
+      "category": "Events",
+      "date": "October 3-4, 2026",
+      "location": "Newport News Park",
+      "target": "Families",
+      "description": "One of the largest festivals in the area, featuring traditional crafts, food, and family entertainment. With over 200 vendors, the Fall Festival offers something for everyone, including heritage craft demonstrations, live folk music, and children's activities. Don't miss the beautiful autumn scenery of Newport News Park.",
+      "link": "#"
+    }
+  ],
+  "benefits": [
+    {
+      "id": "homeownership-assistance",
+      "name": "Homeownership Assistance Program",
+      "category": "Local Benefits",
+      "date": "Ongoing",
+      "location": "Newport News Housing Office",
+      "target": "First-time Buyers",
+      "description": "First-time buyers in Newport News may be eligible for up to $5,000 in down payment and closing cost assistance. This program aims to make homeownership more accessible for local residents by providing financial support for those who qualify based on income and residency requirements.",
+      "link": "#"
+    },
+    {
+      "id": "senior-tax-relief",
+      "name": "Virginia Senior Tax Relief Program",
+      "category": "Resources",
+      "date": "Annual Filing",
+      "location": "City Hall / Online",
+      "target": "Seniors (65+)",
+      "description": "Property tax exemptions are available for seniors (65+) and individuals with disabilities meeting certain criteria. This state-mandated program provides significant savings for eligible homeowners in Newport News, helping them remain in their homes comfortably.",
+      "link": "#"
+    }
+  ]
+}
