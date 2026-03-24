@@ -8,7 +8,7 @@ export default function BlogPage() {
     <div className="max-w-4xl mx-auto px-4 py-12">
       <h1 className="text-4xl font-bold mb-8 text-blue-900 border-b pb-4">Blog</h1>
       {posts.length === 0 ? (
-        <p className="text-gray-500">아직 작성된 블로그 글이 없습니다.</p>
+        <p className="text-gray-500">No blog posts published yet.</p>
       ) : (
         <div className="grid gap-8">
           {posts.map((post) => (
