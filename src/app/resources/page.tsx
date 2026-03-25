@@ -3,7 +3,7 @@ export default function ResourcesPage() {
     {
       title: "Virginia Tax Relief",
       description: "Information on property tax exemptions for veterans and elderly residents in Newport News.",
-      link: "https://www.nnva.gov/tax-relief",
+      link: "https://www.nnva.gov/734/Tax-Relief-Deferral-Exemption-Abatement",
       icon: "⚖️"
     },
     {
