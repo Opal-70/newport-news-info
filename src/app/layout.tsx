@@ -63,6 +63,27 @@ export default function RootLayout({
             crossOrigin="anonymous"
           />
         )}
+
+        {/* Google Analytics (GA4) */}
+        {process.env.NEXT_PUBLIC_GA_ID && 
+         process.env.NEXT_PUBLIC_GA_ID !== "나중에_입력" && (
+          <>
+            <script
+              async
+              src={`https://www.googletagmanager.com/gtag/js?id=${process.env.NEXT_PUBLIC_GA_ID}`}
+            />
+            <script
+              dangerouslySetInnerHTML={{
+                __html: `
+                  window.dataLayer = window.dataLayer || [];
+                  function gtag(){dataLayer.push(arguments);}
+                  gtag('js', new Date());
+                  gtag('config', '${process.env.NEXT_PUBLIC_GA_ID}');
+                `,
+              }}
+            />
+          </>
+        )}
       </head>
       <body className={`${inter.className} bg-slate-50 text-slate-900 min-h-screen flex flex-col`}>
         <nav className="bg-blue-900 text-white sticky top-0 z-50 shadow-md">
