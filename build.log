@@ -1,0 +1,44 @@
+
+> newport-news-info@0.1.0 build
+> next build
+
+▲ Next.js 16.2.1 (Turbopack)
+- Environments: .env.local
+
+  Creating an optimized production build ...
+✓ Compiled successfully in 1009ms
+  Running TypeScript ...
+  Finished TypeScript in 771ms ...
+  Collecting page data using 9 workers ...
+  Generating static pages using 9 workers (0/23) ...
+⚠ metadataBase property in metadata export is not set for resolving social open graph or twitter images, using "http://localhost:3000". See https://nextjs.org/docs/app/api-reference/functions/generate-metadata#metadatabase
+  Generating static pages using 9 workers (5/23) 
+  Generating static pages using 9 workers (11/23) 
+  Generating static pages using 9 workers (17/23) 
+✓ Generating static pages using 9 workers (23/23) in 189ms
+  Finalizing page optimization ...
+
+Route (app)
+┌ ○ /
+├ ○ /_not-found
+├ ○ /about
+├ ○ /blog
+├ ● /blog/[slug]
+│ ├ /blog/2026-03-26-CapeHenryMemorial
+│ ├ /blog/2026-03-25-spring-walking-trails
+│ ├ /blog/2026-03-24-senior-social-games
+│ └ [+3 more paths]
+├ ● /events/[id]
+│ ├ /events/greek-festival
+│ ├ /events/summer-concerts
+│ ├ /events/fall-festival
+│ └ [+4 more paths]
+├ ○ /guides
+├ ○ /resources
+├ ○ /robots.txt
+└ ○ /sitemap.xml
+
+
+○  (Static)  prerendered as static content
+●  (SSG)     prerendered as static HTML (uses generateStaticParams)
+

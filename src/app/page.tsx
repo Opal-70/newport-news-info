@@ -2,6 +2,7 @@
 
 import { useEffect, useState } from "react";
 import Link from "next/link";
+import AdBanner from "@/components/AdBanner";
 
 interface LocalItem {
   id: string;
@@ -128,16 +129,50 @@ export default function HomePage() {
       </section>
 
       {/* Ad Space (Middle) */}
-      <div className="bg-white py-24 text-center px-6">
-        <span className="text-[10px] font-bold text-gray-300 uppercase tracking-widest mb-6 block">Continue Reading Below</span>
-        <div className="max-w-4xl mx-auto h-48 bg-oyster-gray border border-gray-100 flex items-center justify-center text-gray-400 font-display font-medium italic text-xs tracking-widest">
-          Google AdSense - Content In-feed Placement
-        </div>
-      </div>
+      <section className="bg-white py-12 text-center px-6">
+        <AdBanner dataAdSlot="home_page_middle" />
+      </section>
 
       {/* Resources Section - White Background */}
       <section id="benefits" className="bg-white py-40 px-6">
         <div className="max-w-7xl mx-auto px-6 sm:px-12">
+          {/* JSON-LD for Events and Benefits */}
+          {data && (
+            <script
+              type="application/ld+json"
+              dangerouslySetInnerHTML={{
+                __html: JSON.stringify([
+                  ...data.events.map(event => ({
+                    "@context": "https://schema.org",
+                    "@type": "Event",
+                    "name": event.name,
+                    "startDate": event.date,
+                    "location": {
+                      "@type": "Place",
+                      "name": event.location,
+                      "address": {
+                        "@type": "PostalAddress",
+                        "addressLocality": "Newport News",
+                        "addressRegion": "VA"
+                      }
+                    },
+                    "description": event.description
+                  })),
+                  ...data.benefits.map(benefit => ({
+                    "@context": "https://schema.org",
+                    "@type": "GovernmentService",
+                    "name": benefit.name,
+                    "description": benefit.description,
+                    "provider": {
+                      "@type": "GovernmentOrganization",
+                      "name": "City of Newport News"
+                    }
+                  }))
+                ])
+              }}
+            />
+          )}
+
           <div className="text-center mb-24">
             <h2 className="text-4xl font-display font-bold text-oyster-navy tracking-tight uppercase mb-6">Resource Hub</h2>
             <div className="w-20 h-1 bg-oyster-gold mx-auto mb-8"></div>

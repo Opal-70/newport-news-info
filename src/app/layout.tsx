@@ -6,16 +6,19 @@ const inter = Inter({ subsets: ["latin"], variable: "--font-inter" });
 const montserrat = Montserrat({ subsets: ["latin"], variable: "--font-montserrat" });
 
 export const metadata: Metadata = {
-  title: "Newport News Local Hub | Your Community Connect",
-  description: "Stay updated with Newport News events, city news, and local guides. Powered by AI for the Hampton Roads community.",
+  title: {
+    default: "Newport News Local Hub | Local Info, Events & Benefits",
+    template: "%s | Newport News Local Hub"
+  },
+  description: "Daily updates on local events, festivals, benefits, and community information for Newport News residents.",
   openGraph: {
     title: "Newport News Local Hub",
-    description: "Your daily hub for events, news, and guides in Newport News, VA.",
-    url: "https://newportnews.info",
-    siteName: "NN Local Hub",
+    description: "Daily updates on local events, festivals, benefits, and community information for Newport News residents.",
+    url: "https://newport-news-local.com",
+    siteName: "Newport News Local Hub",
     images: [
       {
-        url: "/og-image.png", // Replace with a real image path later
+        url: "/og-image.png",
         width: 1200,
         height: 630,
       },
@@ -26,7 +29,7 @@ export const metadata: Metadata = {
   twitter: {
     card: "summary_large_image",
     title: "Newport News Local Hub",
-    description: "Your daily hub for events, news, and guides in Newport News, VA.",
+    description: "Daily updates on local events, festivals, benefits, and community information for Newport News residents.",
     images: ["/og-image.png"],
   },
 };
@@ -38,6 +41,29 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" className={`${inter.variable} ${montserrat.variable} scroll-smooth`}>
+      <head>
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              "@context": "https://schema.org",
+              "@type": "WebSite",
+              "name": "Newport News Local Hub",
+              "url": "https://newport-news-local.com",
+              "description": "Local events, festivals, benefits, and community information for Newport News residents."
+            })
+          }}
+        />
+        {/* Google AdSense */}
+        {process.env.NEXT_PUBLIC_ADSENSE_ID && 
+         process.env.NEXT_PUBLIC_ADSENSE_ID !== "나중에_입력" && (
+          <script
+            async
+            src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${process.env.NEXT_PUBLIC_ADSENSE_ID}`}
+            crossOrigin="anonymous"
+          />
+        )}
+      </head>
       <body className={`${inter.className} bg-slate-50 text-slate-900 min-h-screen flex flex-col`}>
         <nav className="bg-blue-900 text-white sticky top-0 z-50 shadow-md">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
@@ -51,6 +77,7 @@ export default function RootLayout({
                   <a href="/guides" className="hover:text-yellow-400 px-3 py-2 rounded-md text-sm font-medium transition-colors">Local Guides</a>
                   <a href="/resources" className="hover:text-yellow-400 px-3 py-2 rounded-md text-sm font-medium transition-colors">Resources</a>
                   <a href="/blog" className="hover:text-yellow-400 px-3 py-2 rounded-md text-sm font-medium transition-colors">Blog</a>
+                  <a href="/about" className="hover:text-yellow-400 px-3 py-2 rounded-md text-sm font-medium transition-colors border-l border-blue-800 ml-2 pl-4">About</a>
                 </div>
               </div>
             </div>
