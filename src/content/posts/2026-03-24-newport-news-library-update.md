@@ -1,31 +1,57 @@
 ---
-title: "드디어! 덴바이에 최첨단 도서관이 들어섭니다 🏛️"
+title: "Finally! A Cutting-Edge Library Is Coming to Denbigh 🏛️"
 date: 2026-03-24
-summary: "뉴포트 뉴스 시가 셔우드 쇼핑센터를 허물고 4,000만 달러 규모의 최신 도서관을 2028년 완공 목표로 건설한다는 소식을 전합니다."
-category: 지역 정보
-tags: [뉴포트뉴스, 버지니아, 생활정보]
+summary: "Newport News announces the demolition of Sherwood Shopping Center to build a $40M state-of-the-art library, set to open in summer 2028."
+category: Local Info
+tags: [NewportNews, Virginia, LocalEvents]
 ---
 
-안녕하세요, 뉴포트 뉴스 이웃 여러분! 😊
+Hello, Newport News neighbors! 😊
 
-오늘은 우리 동네에 아주 반가운 소식이 하나 날아왔습니다. 오랫동안 우리 지역 주민들의 친구가 되어준 그리솜 도서관(Grissom Library)이 드디어 새 옷으로 갈아입게 되었답니다!
+We have some wonderful news to share with our community today. The Virgil I. "Gus" Grissom Library, a staple of our neighborhood for decades, is finally getting a complete transformation!
 
-## 셔우드 쇼핑센터가 사라지고, 새 도서관이 온다!
+## Goodbye Sherwood, Hello Grissom Library!
 
-뉴포트 뉴스 시는 오래전부터 비어 있던 셔우드 쇼핑센터(Sherwood Shopping Center) 건물을 철거하기 시작한다고 공식 발표했습니다. 이 자리에 들어설 것은 바로 새로운 「버질 I. '거스' 그리솜 도서관(Virgil I. 'Gus' Grissom Library)」입니다!
+The City of Newport News has officially announced the start of demolition for the long-vacant Sherwood Shopping Center. In its place, the city will construct the brand-new **Virgil I. "Gus" Grissom Library**.
 
-지금의 그리솜 도서관은 무려 1977년에 처음 문을 열었어요. 무려 45년이 넘는 세월 동안 우리 지역 주민들의 공부와 여가를 책임져 온 고마운 곳이지요. 하지만 이제 건물이 많이 낡아서 시설 확장과 현대화가 꼭 필요한 시점이 된 것 같습니다.
+The current Grissom Library first opened its doors back in 1977. For over 45 years, it has served as a center for learning and recreation for our residents. However, as our community grows and technology evolves, a modernized and expanded facility has become a top priority.
 
-## 새 도서관은 얼마나 크고 좋아질까요?
+## What to Expect from the New Library
 
-새로운 도서관의 규모를 보면 정말 깜짝 놀라실 거예요.
+The scale of the new facility is truly impressive:
 
-- **크기**: 기존 도서관(약 16,635 평방피트)의 **3배가 넘는 51,144 평방피트** 규모로 지어집니다.
-- **투자 금액**: 무려 **4,000만 달러(약 540억 원)** 가 투입되는 대형 사업입니다.
-- **공사 일정**: 2026년 5월 착공 예정이며, **2028년 여름 완공**을 목표로 하고 있습니다.
-- **시설 내용**: 모든 연령대를 위한 교육 자료, 최신 기술 장비, 그리고 다양한 커뮤니티 모임 공간이 들어선다고 합니다.
+- **Size**: The new library will span **51,144 square feet**, which is more than **three times the size** of the existing building (approx. 16,635 sq. ft.).
+- **Investment**: This is a major **$40 million** project aimed at revitalizing our community infrastructure.
+- **Timeline**: Construction is slated to begin in May 2026, with a grand **opening targeted for summer 2028**.
+- **Features**: State-of-the-art educational resources, modern technology labs, and flexible spaces for community gatherings.
 
-지금은 철거 작업이 진행 중이어서 그 주변을 지나시다 보면 공사 차량들이 많이 다니는 것이 보이실 수 있어요. 혹시 불편하시더라도 조금만 이해해 주시길 부탁드립니다!
+As demolition begins, residents may notice increased construction traffic around the site. We ask for your patience as we work toward this exciting new addition to our neighborhood!
+
+---
+
+## Why This Project Matters to Our Residents
+
+### 📚 An Investment in Our Children's Future
+A library is more than just a place to borrow books; it's a sanctuary for learning, discovery, and growth. By tripling our library's capacity and integrating the latest technology, we are providing our children and grandchildren with the tools they need to succeed in the 21st century.
+
+### 🏘️ A Catalyst for Denbigh's Revitalization
+This isn't just a new building—it's an economic anchor. As the city has highlighted, the new library will serve as a **centerpiece for economic development and revitalization in the Denbigh area**, potentially attracting new businesses and improved amenities to our neighborhood.
+
+### 🤝 A Modern Space for Community Connection
+For our adult residents, the new facility will offer significantly expanded **community meeting spaces**. Whether for social clubs, hobby groups, or educational workshops, this library will become a vital hub for neighbors to connect and share experiences.
+
+---
+
+## What Happens During Construction?
+
+Rest assured, the current Grissom Library will **remain open at its location on Deshazor Drive** until the new facility is complete. Nearby community staples, like the North Precinct and Training Facility, will also continue their normal operations throughout the project.
+
+For continuous updates on the project, please visit the City of Newport News official website at [nnva.gov](https://www.nnva.gov).
+
+---
+
+We look forward to meeting you at our stunning new library in summer 2028! Together, we're building a stronger Newport News. 💙
+시더라도 조금만 이해해 주시길 부탁드립니다!
 
 ---
 
