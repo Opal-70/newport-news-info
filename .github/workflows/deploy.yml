@@ -4,6 +4,12 @@ on:
   push:
     branches:
       - main
+  schedule:
+    - cron: '0 11 * * *' # 매일 UTC 11:00 (Virginia 아침 7:00)
+  workflow_dispatch: # 수동 실행 가능
+
+permissions:
+  contents: write
 
 jobs:
   deploy:
@@ -21,11 +27,33 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
+      - name: Run data collection and blog generation
+        if: github.event_name != 'push'
+        run: |
+          node scripts/fetch-public-data.js
+          node scripts/generate-blog-post.js
+        env:
+          PUBLIC_DATA_API_KEY: ${{ secrets.PUBLIC_DATA_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+
+      - name: Commit and push changes
+        if: github.event_name != 'push'
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add .
+          if ! git diff-index --quiet HEAD; then
+            git commit -m "자동 업데이트: 공공데이터 수집 및 블로그 글 생성"
+            git push
+          else
+            echo "No changes to commit"
+          fi
+
       - name: Build project
         run: npm run build
 
       - name: Deploy to Cloudflare Pages
-        run: npx wrangler pages deploy out --project-name=my-local-info
+        run: npx wrangler pages deploy out --project-name=newport-news-info
         env:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
