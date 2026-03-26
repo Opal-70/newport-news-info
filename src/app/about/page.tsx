@@ -16,36 +16,36 @@ export default function AboutPage() {
       <div className="space-y-12 text-slate-700 leading-relaxed">
         <section className="bg-white p-8 rounded-2xl shadow-sm border border-slate-100">
           <h2 className="text-2xl font-bold text-blue-800 mb-4 flex items-center gap-2">
-            🎯 Our Mission (사이트 운영 목적)
+            🎯 Our Mission
           </h2>
           <p>
-            우리의 미션은 단순합니다: <strong>뉴포트 뉴스 주민들에게 가장 유익하고 시의적절한 생활 정보와 지역 소식을 빠짐없이 전달하는 것</strong>입니다. 
-            행사, 혜택, 공공 서비스 등 일상에 꼭 필요한 정보를 누구나 쉽게 찾아볼 수 있는 디지털 허브를 지향합니다.
+            Our mission is simple: <strong>to provide Newport News residents with the most useful and timely local information and community news.</strong> 
+            We strive to be a digital hub where anyone can easily discover essential information about local events, benefits, and public services in their daily lives.
           </p>
         </section>
 
         <section className="bg-white p-8 rounded-2xl shadow-sm border border-slate-100">
           <h2 className="text-2xl font-bold text-blue-800 mb-4 flex items-center gap-2">
-            📊 Data Sources (데이터 출처)
+            📊 Data Sources
           </h2>
           <p className="mb-4">
-            우리는 정보의 정확성과 신뢰성을 최우선으로 합니다. 이를 위해 검증된 공식 기관의 데이터를 활용합니다:
+            We prioritize accuracy and reliability. To achieve this, we utilize data from verified official agencies:
           </p>
           <ul className="list-disc list-inside space-y-2 ml-4">
-            <li><strong>City of Newport News Open Data Portal:</strong> 도시 운영 전반에 관한 최신 데이터</li>
-            <li><strong>Virginia.gov:</strong> 버지니아 주 정부의 공식 서비스 및 혜택 정보</li>
-            <li><strong>National Park Service (NPS):</strong> 지역 공원 및 역사 유적지 정보</li>
+            <li><strong>City of Newport News Open Data Portal:</strong> Up-to-date data on city operations</li>
+            <li><strong>Virginia.gov:</strong> Official service and benefit information from the Commonwealth of Virginia</li>
+            <li><strong>National Park Service (NPS):</strong> Information on local parks and historical sites</li>
           </ul>
         </section>
 
         <section className="bg-white p-8 rounded-2xl shadow-sm border border-slate-100">
           <h2 className="text-2xl font-bold text-blue-800 mb-4 flex items-center gap-2">
-            🤖 How It Works (콘텐츠 생성 방식)
+            🤖 How It Works
           </h2>
           <p>
-            Newport News Local Hub는 최신 <strong>인공지능(AI) 기술</strong>을 활용하여 방대한 공공데이터를 실시간으로 분석합니다. 
-            단순히 정보를 나열하는 것에 그치지 않고, 우리 지역 주민들이 읽기 쉽고 이해하기 편하도록 친절한 말투로 재구성하여 제공합니다. 
-            모든 AI 생성 콘텐츠는 일관된 가이드라인에 따라 관리됩니다.
+            Newport News Local Hub uses advanced <strong>Artificial Intelligence (AI) technology</strong> to analyze vast amounts of public data. 
+            Beyond simply listing facts, we reorganize the information in a friendly and easy-to-read format for our neighbors. 
+            All AI-generated content is managed according to strict editorial guidelines.
           </p>
         </section>
 

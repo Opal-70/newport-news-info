@@ -57,25 +57,30 @@ async function generateBlogPost() {
     // [2단계] Gemini AI로 블로그 글 생성
     const geminiUrl = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=${GEMINI_API_KEY}`;
     
-    const prompt = `너는 버지니아주 뉴포트 뉴스 지역 소식을 전하는 친절한 블로거야. 아래 공공데이터를 바탕으로 블로그 글을 작성해줘.
+    const prompt = `You are a friendly and professional local blogger for Newport News, Virginia. Your goal is to write helpful community updates for local residents. Based on the provided public data, write a blog post in English.
+    
+Information: ${JSON.stringify(latestItem)}
 
-정보: ${JSON.stringify(latestItem)}
-
-## 아래 형식으로 출력해줘. 반드시 이 형식만 출력하고 다른 텍스트는 없이:
+## Output Requirements (Strictly in English):
+1. Title: Engaging and friendly for Newport News residents.
+2. Summary: One-line summary of the core information.
+3. Body: At least 800 characters, insightful and community-focused. Include 3 reasons why locals should care, tips for visiting/using the service, and a friendly closing.
+4. Format: Strictly use the following markdown structure without any extra commentary.
 
 ---
-title: (뉴포트 뉴스 주민들이 좋아할 만한 친근하고 흥미로운 한글 제목)
+title: (Your English Title)
 date: ${new Date().toISOString().split('T')[0]}
-summary: (글의 핵심 내용을 담은 한 줄 요약)
+summary: (Your English Summary)
 category: Local Info
 tags: [NewportNews, Virginia, LocalEvents]
+link: ${latestItem.link || latestItem.url || ""}
 ---
 
 ---
 
-(본문 내용: 800자 이상, '선생님' 같은 친근한 말투, 버지니아 지역 주민들에게 추천하는 이유 3가지 포함, 방문 방법이나 이용 팁 안내. 한국어와 영문 고유명사를 적절히 섞어서 작성해줘.)
+(Body Content: Engaging and strictly in English.)
 
-마지막 줄에 FILENAME: YYYY-MM-DD-keyword 형식으로 파일명도 출력해줘. 키워드는 영문으로.`;
+At the very end, include a line: FILENAME: YYYY-MM-DD-short-english-keyword`;
 
     const response = await fetch(geminiUrl, {
       method: 'POST',

@@ -174,7 +174,7 @@ export default function HomePage() {
           )}
 
           <div className="text-center mb-24">
-            <h2 className="text-4xl font-display font-bold text-oyster-navy tracking-tight uppercase mb-6">Resource Hub</h2>
+            <h2 className="text-4xl font-display font-bold text-oyster-navy tracking-tight uppercase mb-6">Local Benefits & Programs</h2>
             <div className="w-20 h-1 bg-oyster-gold mx-auto mb-8"></div>
             <p className="text-gray-400 font-light max-w-xl mx-auto italic tracking-wide">
               Official assistance programs and community relief initiatives for Newport News residents.
