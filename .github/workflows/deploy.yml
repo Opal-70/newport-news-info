@@ -51,6 +51,10 @@ jobs:
 
       - name: Build project
         run: npm run build
+        env:
+          NEXT_PUBLIC_ADSENSE_ID: ${{ secrets.NEXT_PUBLIC_ADSENSE_ID }}
+          NEXT_PUBLIC_GA_ID: ${{ secrets.NEXT_PUBLIC_GA_ID }}
+          NEXT_PUBLIC_AMAZON_AFFILIATE_ID: ${{ secrets.NEXT_PUBLIC_AMAZON_AFFILIATE_ID }}
 
       - name: Deploy to Cloudflare Pages
         run: npx wrangler pages deploy out --project-name=newport-news-info
