@@ -66,7 +66,7 @@ async function fetchPublicData() {
 
     // [3단계] Gemini AI로 새 항목 1개만 가공
     // 버지니아주 공공데이터를 영문/한글 혼용 블로그 형식으로 변환 요청
-    const geminiUrl = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=${GEMINI_API_KEY}`;
+    const geminiUrl = `https://generativelanguage.googleapis.com/v1beta/models/gemini-flash-lite-latest:generateContent?key=${GEMINI_API_KEY}`;
     
     const prompt = `버지니아주 공공데이터 1건을 분석해서 영문/한글 혼용 JSON 객체로 변환해줘. 
 형식: {id: 숫자, name: '영문명 | 한글명', category: 'Park' 또는 'Event', startDate: 'YYYY-MM-DD', endDate: 'YYYY-MM-DD', location: '도시명, VA', target: '대상층', summary: '영문 요약 | 한글 요약', link: '상세URL'}
