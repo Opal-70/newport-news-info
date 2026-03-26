@@ -64,7 +64,7 @@ export default function RootLayout({
           />
         )}
 
-        {/* Google Analytics (GA4) - Tracking Enabled */}
+        {/* Google Analytics (GA4) - Final Deployment Trigger */}
         {process.env.NEXT_PUBLIC_GA_ID && 
          process.env.NEXT_PUBLIC_GA_ID !== "나중에_입력" && (
           <>
