@@ -21,12 +21,8 @@ async function fetchPublicData() {
     // [1단계] 미국 국립공원 서비스(NPS) API에서 데이터 가져오기
     // 엔드포인트: https://developer.nps.gov/api/v1/parks
     const url = `https://developer.nps.gov/api/v1/parks?stateCode=VA&limit=10&api_key=${PUBLIC_DATA_API_KEY}`;
-    console.log("Calling URL:", url.replace(PUBLIC_DATA_API_KEY, "HIDDEN"));
     const response = await fetch(url);
     const result = await response.json();
-    console.log("Status:", response.status);
-    console.log("Full Result keys:", Object.keys(result));
-    if (result.error) console.log("Error from API:", result.error);
 
     if (!result.data || result.data.length === 0) {
       console.log("데이터를 가져오지 못했습니다.");
@@ -86,10 +82,6 @@ summary는 한국어와 영어를 같이 넣어줘.
     });
 
     const geminiData = await geminiResponse.json();
-    if (geminiData.error) {
-      console.error("Gemini API Error:", JSON.stringify(geminiData.error, null, 2));
-      return;
-    }
     
     if (!geminiData.candidates || !geminiData.candidates[0]) {
       throw new Error("Gemini API 응답이 올바르지 않습니다.");
