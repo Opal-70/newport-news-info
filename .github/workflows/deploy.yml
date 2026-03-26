@@ -6,7 +6,7 @@ on:
       - main
   schedule:
     - cron: '0 11 * * *' # 매일 UTC 11:00 (Virginia 아침 7:00)
-  workflow_dispatch: # 수동 실행 가능
+  workflow_dispatch: # 수동 실행 버튼 활성화
 
 permissions:
   contents: write
