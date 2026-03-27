@@ -142,9 +142,9 @@ export default function HomePage() {
                     {benefit.description}
                   </p>
                   <div className="mt-auto border-t border-slate-50 pt-4">
-                    <Link href={`/events/${benefit.id}`} className="text-sm font-bold text-sky-600 hover:text-sky-800 transition-colors flex items-center gap-1">
+                    <a href={benefit.link} target="_blank" rel="noopener noreferrer" className="text-sm font-bold text-sky-600 hover:text-sky-800 transition-colors flex items-center gap-1">
                       Request Information <span>→</span>
-                    </Link>
+                    </a>
                   </div>
                 </div>
               ))}

@@ -50,7 +50,7 @@
       "location": "Newport News Housing Office",
       "target": "First-time Buyers",
       "description": "First-time buyers in Newport News may be eligible for up to $5,000 in down payment and closing cost assistance. This program aims to make homeownership more accessible for local residents by providing financial support for those who qualify based on income and residency requirements.",
-      "link": "#"
+      "link": "https://www.nnva.gov/"
     },
     {
       "id": "senior-tax-relief",
@@ -60,7 +60,7 @@
       "location": "City Hall / Online",
       "target": "Seniors (65+)",
       "description": "Property tax exemptions are available for seniors (65+) and individuals with disabilities meeting certain criteria. This state-mandated program provides significant savings for eligible homeowners in Newport News, helping them remain in their homes comfortably.",
-      "link": "#"
+      "link": "https://www.nnva.gov/658/Real-Estate-Tax-Relief"
     },
     {
       "id": "nps-1774490130839",
@@ -100,7 +100,7 @@
       "location": "Downtown Newport News",
       "target": "All Residents",
       "description": "Newport News has successfully expanded its free community Wi-Fi spots across the downtown area and major city parks. This initiative provides high-speed internet access to help students, remote workers, and families stay connected. Look for the 'NN-Free-Wifi' network in participating public spaces.",
-      "link": "#"
+      "link": "https://www.nnva.gov/"
     }
   ]
 }
