@@ -54,22 +54,22 @@
     },
     {
       "id": "nps-1774490130839",
-      "name": "Cape Henry Memorial | 케이프 헨리 기념지",
+      "name": "Cape Henry Memorial",
       "category": "Resources",
       "date": "2024-05-24",
       "location": "Fort Story, VA",
       "target": "General Public (Military access restricted)",
-      "description": "Commemorates the site where English colonists first landed in 1607 and a key location during the Revolutionary War naval battle. | 1607년 영국 식민지 개척자들이 처음 상륙한 장소와 독립 전쟁 해전의 주요 지점을 기념하는 곳입니다.",
+      "description": "Commemorates the site where English colonists first landed in 1607 and a key location during the Revolutionary War naval battle.",
       "link": "https://www.nps.gov/came/index.htm"
     },
     {
       "id": "nps-1774490677657",
-      "name": "Cape Henry Memorial | 케이프 헨리 기념지",
+      "name": "Cape Henry Memorial",
       "category": "Resources",
       "date": "2024-05-23",
       "location": "Fort Story, VA",
-      "target": "General Public (Military ID required for access) | 일반 대중 (접근 시 군 신분증 필요)",
-      "description": "The Cape Henry Memorial marks the approximate site of the first landing of Jamestown settlers in Virginia in 1607 and commemorates the naval battle crucial to the American victory at Yorktown. | 케이프 헨리 기념지는 1607년 제임스타운 정착민들이 버지니아에 처음 상륙한 대략적인 장소를 표시하며, 요크타운에서의 미국 승리에 결정적이었던 해전(Battle of the Capes)을 기념합니다.",
+      "target": "General Public (Military ID required for access)",
+      "description": "The Cape Henry Memorial marks the approximate site of the first landing of Jamestown settlers in Virginia in 1607 and commemorates the naval battle crucial to the American victory at Yorktown.",
       "link": "https://www.nps.gov/came/index.htm"
     }
   ]

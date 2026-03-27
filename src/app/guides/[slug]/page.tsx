@@ -76,14 +76,14 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
                 {
                   "@type": "ListItem",
                   "position": 2,
-                  "name": "Blog",
-                  "item": "https://newport-news-local.com/blog"
+                  "name": "Guides",
+                  "item": "https://newport-news-local.com/guides"
                 },
                 {
                   "@type": "ListItem",
                   "position": 3,
                   "name": post.title,
-                  "item": `https://newport-news-local.com/blog/${slug}`
+                  "item": `https://newport-news-local.com/guides/${slug}`
                 }
               ]
             }
