@@ -1,5 +1,5 @@
 ---
-title: Uncover Local History: A Visit to Cape Henry Memorial Near Newport News!
+title: "Uncover Local History: A Visit to Cape Henry Memorial Near Newport News!"
 date: 2026-03-27
 summary: Cape Henry Memorial, located at Fort Story, marks the first landing spot of English colonists in 1607 and a pivotal Revolutionary War naval battle site.
 category: Local Info

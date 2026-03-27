@@ -98,29 +98,23 @@ export default function HomePage() {
           
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-16">
             {data?.events.map((event, idx) => (
-              <div key={idx} className="bg-white border-b-4 border-transparent hover:border-oyster-gold hover:shadow-hover transition-all duration-500 overflow-hidden flex flex-col h-full group">
-                <div className="relative h-64 bg-gray-100 mb-8 grayscale hover:grayscale-0 transition-all duration-700">
-                  {/* Decorative Square/Sharp placeholder */}
-                  <div className="w-full h-full flex items-center justify-center text-gray-200 uppercase font-display font-black text-4xl">
-                    {event.name.charAt(0)}
-                  </div>
-                  <div className="absolute top-6 left-6 bg-oyster-navy text-white px-4 py-1 text-[10px] font-display font-bold uppercase tracking-widest">
+              <div key={idx} className="bg-white border border-gray-200 rounded-2xl shadow-sm hover:shadow-lg transition-shadow duration-300 p-8 flex flex-col h-full group">
+                <div className="flex justify-between items-start mb-6">
+                  <span className="bg-oyster-navy text-white px-3 py-1 rounded-full text-[10px] font-bold uppercase tracking-widest">
                     {event.category}
-                  </div>
+                  </span>
+                  <p className="text-[10px] font-bold text-gray-400 uppercase tracking-widest">{event.date}</p>
                 </div>
-                <div className="p-2 flex flex-col flex-grow">
-                  <p className="text-[10px] font-bold text-oyster-gold uppercase tracking-[0.3em] mb-4">{event.date}</p>
-                  <h3 className="text-2xl font-display font-bold text-oyster-navy mb-6 tracking-tight group-hover:text-black leading-snug">
-                    {event.name}
-                  </h3>
-                  <p className="text-sm text-gray-500 mb-10 leading-relaxed font-light line-clamp-3 italic">
-                    {event.description}
-                  </p>
-                  <div className="mt-auto pt-6 border-t border-gray-50">
-                    <Link href={`/events/${event.id}`} className="inline-flex items-center font-display font-bold text-[10px] text-oyster-navy uppercase tracking-[0.4em] group-hover:tracking-[0.5em] transition-all">
-                      Details <span>→</span>
-                    </Link>
-                  </div>
+                <h3 className="text-3xl font-bold text-slate-800 mb-4 tracking-tight group-hover:text-oyster-navy transition-colors">
+                  {event.name}
+                </h3>
+                <p className="text-base text-gray-600 mb-8 leading-relaxed font-normal line-clamp-3 flex-grow">
+                  {event.description}
+                </p>
+                <div className="mt-auto border-t border-gray-100 pt-6">
+                  <Link href={`/events/${event.id}`} className="inline-flex items-center font-bold text-xs text-oyster-navy hover:text-oyster-gold transition-colors uppercase tracking-widest">
+                    Details <span>→</span>
+                  </Link>
                 </div>
               </div>
             ))}
@@ -182,19 +176,23 @@ export default function HomePage() {
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-20">
             {data?.benefits.map((benefit, idx) => (
-              <div key={idx} className="bg-oyster-gray p-16 hover:bg-white border border-transparent hover:border-gray-100 hover:shadow-hover transition-all duration-700 group">
-                <span className="text-[10px] font-bold text-oyster-gold uppercase tracking-[0.4em] mb-10 inline-block">
-                  Ref {idx + 10} / {benefit.category}
-                </span>
-                <h3 className="text-3xl font-display font-bold text-oyster-navy mb-8 tracking-tight uppercase leading-snug">
+              <div key={idx} className="bg-white border border-gray-200 rounded-2xl shadow-sm hover:shadow-lg transition-shadow duration-300 p-8 flex flex-col h-full group">
+                <div className="flex justify-between items-start mb-6">
+                  <span className="bg-oyster-gold/20 text-oyster-gold px-3 py-1 rounded-full text-[10px] font-bold uppercase tracking-widest">
+                    {benefit.category}
+                  </span>
+                </div>
+                <h3 className="text-3xl font-bold text-slate-800 mb-4 tracking-tight group-hover:text-oyster-gold transition-colors">
                   {benefit.name}
                 </h3>
-                <p className="text-gray-500 mb-12 leading-relaxed text-lg font-light italic">
+                <p className="text-base text-gray-600 mb-8 leading-relaxed font-normal line-clamp-3 flex-grow">
                   {benefit.description}
                 </p>
-                <Link href={`/events/${benefit.id}`} className="bg-oyster-navy text-white px-12 py-5 text-[10px] font-display font-bold uppercase tracking-[0.3em] hover:bg-black transition-all inline-block shadow-lg shadow-oyster-navy/10">
-                  Request Information
-                </Link>
+                <div className="mt-auto border-t border-gray-100 pt-6">
+                  <Link href={`/events/${benefit.id}`} className="inline-flex items-center font-bold text-xs text-oyster-gold hover:text-oyster-navy transition-colors uppercase tracking-widest">
+                    Request Information <span>→</span>
+                  </Link>
+                </div>
               </div>
             ))}
           </div>
