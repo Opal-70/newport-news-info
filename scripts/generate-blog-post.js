@@ -34,19 +34,28 @@ async function generateBlogPost() {
     const latestItem = allItems[allItems.length - 1];
     const itemName = latestItem.name;
 
-    // 중복 확인: src/content/blog/ 폴더 내 파일 내용 확인
-    const postsDir = path.join(process.cwd(), 'src/content/blog');
-    const existingPosts = fs.readdirSync(postsDir);
+    // 중복 확인: src/content/blog 및 src/content/guides 폴더 내 파일 내용 확인
+    const contentDirs = [
+      path.join(process.cwd(), 'src/content/blog'),
+      path.join(process.cwd(), 'src/content/guides')
+    ];
+    
     let isDuplicate = false;
 
-    for (const file of existingPosts) {
-      if (file.endsWith('.md')) {
-        const content = fs.readFileSync(path.join(postsDir, file), 'utf8');
-        if (content.includes(itemName)) {
-          isDuplicate = true;
-          break;
+    for (const dir of contentDirs) {
+      if (!fs.existsSync(dir)) continue;
+      
+      const existingPosts = fs.readdirSync(dir);
+      for (const file of existingPosts) {
+        if (file.endsWith('.md')) {
+          const content = fs.readFileSync(path.join(dir, file), 'utf8');
+          if (content.includes(itemName)) {
+            isDuplicate = true;
+            break;
+          }
         }
       }
+      if (isDuplicate) break;
     }
 
     if (isDuplicate) {
@@ -121,8 +130,9 @@ At the very end, include a line: FILENAME: YYYY-MM-DD-short-english-keyword`;
       fileName = `${dateStr}-local-update.md`;
     }
 
-    // [3단계] 파일 저장
-    const filePath = path.join(postsDir, fileName);
+    // [3단계] 파일 저장 (기본 목적지는 blog 폴더)
+    const blogDir = path.join(process.cwd(), 'src/content/blog');
+    const filePath = path.join(blogDir, fileName);
     fs.writeFileSync(filePath, finalContent, 'utf8');
     
     console.log(`성공적으로 생성됨: ${fileName}`);

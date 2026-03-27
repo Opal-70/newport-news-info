@@ -29,6 +29,16 @@
       "target": "Families",
       "description": "One of the largest festivals in the area, featuring traditional crafts, food, and family entertainment. With over 200 vendors, the Fall Festival offers something for everyone, including heritage craft demonstrations, live folk music, and children's activities. Don't miss the beautiful autumn scenery of Newport News Park.",
       "link": "#"
+    },
+    {
+      "id": "spring-arts-festival",
+      "name": "Newport News Spring Arts & Crafts Festival",
+      "category": "Events",
+      "date": "April 18-19, 2026",
+      "location": "Huntington Park",
+      "target": "Families & Art Lovers",
+      "description": "Welcome spring with our annual Spring Arts & Crafts Festival at Huntington Park! Enjoy stunning local artwork, live acoustic performances, delicious food trucks, and interactive craft workshops for kids. It's the perfect way to spend a sunny weekend outdoors supporting local artists.",
+      "link": "#"
     }
   ],
   "benefits": [
@@ -74,13 +84,23 @@
     },
     {
       "id": "nps-1774621985803",
-      "name": "Cape Henry Memorial | 케이프 헨리 기념지",
+      "name": "Cape Henry Memorial",
       "category": "Resources",
       "date": "2023-10-27",
       "location": "Fort Story, VA",
       "target": "General Public (Military Access Required)",
-      "description": "This site marks the first landing spot of English colonists in April 1607 and commemorates the pivotal naval battle of the Revolutionary War. | 이곳은 1607년 4월 영국 식민지 개척자들이 처음 상륙한 장소를 표시하며, 독립 전쟁의 결정적인 해전이 일어났던 곳을 기념합니다.",
+      "description": "This site marks the first landing spot of English colonists in April 1607 and commemorates the pivotal naval battle of the Revolutionary War.",
       "link": "https://www.nps.gov/came/index.htm"
+    },
+    {
+      "id": "community-wifi",
+      "name": "Free Community Wi-Fi Expansion",
+      "category": "Resources",
+      "date": "2026-03-27",
+      "location": "Downtown Newport News",
+      "target": "All Residents",
+      "description": "Newport News has successfully expanded its free community Wi-Fi spots across the downtown area and major city parks. This initiative provides high-speed internet access to help students, remote workers, and families stay connected. Look for the 'NN-Free-Wifi' network in participating public spaces.",
+      "link": "#"
     }
   ]
 }
