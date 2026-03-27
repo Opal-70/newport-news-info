@@ -2,8 +2,6 @@ import fs from 'fs';
 import path from 'path';
 import matter from 'gray-matter';
 
-const postsDirectory = path.join(process.cwd(), 'src/content/posts');
-
 export interface PostData {
   slug: string;
   title: string;
@@ -15,17 +13,19 @@ export interface PostData {
   link?: string;
 }
 
-export function getSortedPostsData(): PostData[] {
-  if (!fs.existsSync(postsDirectory)) {
+export function getSortedPostsData(contentType: 'blog' | 'guides' = 'blog'): PostData[] {
+  const contentDirectory = path.join(process.cwd(), `src/content/${contentType}`);
+  
+  if (!fs.existsSync(contentDirectory)) {
     return [];
   }
 
-  const fileNames = fs.readdirSync(postsDirectory);
+  const fileNames = fs.readdirSync(contentDirectory);
   const allPostsData = fileNames
     .filter((fileName) => fileName.endsWith('.md'))
     .map((fileName) => {
       const slug = fileName.replace(/\.md$/, '');
-      const fullPath = path.join(postsDirectory, fileName);
+      const fullPath = path.join(contentDirectory, fileName);
       const fileContents = fs.readFileSync(fullPath, 'utf8');
       
       const matterResult = matter(fileContents);
@@ -61,8 +61,10 @@ export function getSortedPostsData(): PostData[] {
   });
 }
 
-export function getPostData(slug: string): PostData | null {
-  const fullPath = path.join(postsDirectory, `${slug}.md`);
+export function getPostData(slug: string, contentType: 'blog' | 'guides' = 'blog'): PostData | null {
+  const contentDirectory = path.join(process.cwd(), `src/content/${contentType}`);
+  const fullPath = path.join(contentDirectory, `${slug}.md`);
+  
   if (!fs.existsSync(fullPath)) {
     return null;
   }

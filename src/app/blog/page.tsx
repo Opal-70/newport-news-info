@@ -1,21 +1,21 @@
 import Link from 'next/link';
 import { getSortedPostsData } from '@/lib/posts';
 
-export default function GuidesPage() {
-  const posts = getSortedPostsData('guides');
+export default function BlogPage() {
+  const posts = getSortedPostsData('blog');
 
   return (
     <div className="max-w-4xl mx-auto px-4 py-12">
-      <h1 className="text-4xl font-bold mb-8 text-blue-900 border-b pb-4">Local Guides</h1>
+      <h1 className="text-4xl font-bold mb-8 text-blue-900 border-b pb-4">Blog</h1>
       {posts.length === 0 ? (
-        <p className="text-gray-500">No guides published yet.</p>
+        <p className="text-gray-500">No blog posts published yet.</p>
       ) : (
         <div className="grid gap-8">
           {posts.map((post) => (
             <article key={post.slug} className="bg-white p-6 rounded-lg shadow-sm border border-slate-100 hover:shadow-md transition-shadow">
               <div className="flex flex-col sm:flex-row sm:items-baseline gap-2 mb-2">
                 <h2 className="text-2xl font-bold text-slate-800 hover:text-blue-900 transition-colors">
-                  <Link href={`/guides/${post.slug}`}>{post.title}</Link>
+                  <Link href={`/blog/${post.slug}`}>{post.title}</Link>
                 </h2>
                 <time className="text-sm text-slate-500">{post.date}</time>
               </div>

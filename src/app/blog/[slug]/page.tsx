@@ -7,7 +7,7 @@ import AmazonBanner from '@/components/AmazonBanner';
 
 export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }) {
   const slug = (await params).slug;
-  const post = getPostData(slug, 'guides');
+  const post = getPostData(slug, 'blog');
   
   if (!post) return {};
 
@@ -24,7 +24,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
 }
 
 export async function generateStaticParams() {
-  const posts = getSortedPostsData('guides');
+  const posts = getSortedPostsData('blog');
   return posts.map((post) => ({
     slug: post.slug,
   }));
@@ -32,7 +32,7 @@ export async function generateStaticParams() {
 
 export default async function BlogPostPage({ params }: { params: Promise<{ slug: string }> }) {
   const slug = (await params).slug;
-  const post = getPostData(slug, 'guides');
+  const post = getPostData(slug, 'blog');
 
   if (!post) {
     notFound();
@@ -76,14 +76,14 @@ export default async function BlogPostPage({ params }: { params: Promise<{ slug:
                 {
                   "@type": "ListItem",
                   "position": 2,
-                  "name": "Guides",
-                  "item": "https://newport-news-local.com/guides"
+                  "name": "Blog",
+                  "item": "https://newport-news-local.com/blog"
                 },
                 {
                   "@type": "ListItem",
                   "position": 3,
                   "name": post.title,
-                  "item": `https://newport-news-local.com/guides/${slug}`
+                  "item": `https://newport-news-local.com/blog/${slug}`
                 }
               ]
             }

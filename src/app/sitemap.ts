@@ -7,7 +7,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
   const baseUrl = 'https://newport-news-local.com';
   
   // 기본 페이지들
-  const routes = ['', '/resources', '/guides', '/about'].map((route) => ({
+  const routes = ['', '/blog', '/resources', '/guides', '/about'].map((route) => ({
     url: `${baseUrl}${route}`,
     lastModified: new Date().toISOString().split('T')[0],
     changeFrequency: 'daily' as const,
@@ -15,13 +15,22 @@ export default function sitemap(): MetadataRoute.Sitemap {
   }));
 
   // 가이드 포스트들
-  const posts = getSortedPostsData();
-  const postRoutes = posts.map((post) => ({
+  const guidePosts = getSortedPostsData('guides');
+  const guideRoutes = guidePosts.map((post) => ({
     url: `${baseUrl}/guides/${post.slug}`,
     lastModified: post.date,
     changeFrequency: 'weekly' as const,
     priority: 0.6,
   }));
 
-  return [...routes, ...postRoutes];
+  // 블로그 포스트들
+  const blogPosts = getSortedPostsData('blog');
+  const blogRoutes = blogPosts.map((post) => ({
+    url: `${baseUrl}/blog/${post.slug}`,
+    lastModified: post.date,
+    changeFrequency: 'weekly' as const,
+    priority: 0.6,
+  }));
+
+  return [...routes, ...guideRoutes, ...blogRoutes];
 }

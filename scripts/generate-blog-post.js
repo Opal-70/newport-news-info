@@ -34,8 +34,8 @@ async function generateBlogPost() {
     const latestItem = allItems[allItems.length - 1];
     const itemName = latestItem.name;
 
-    // 중복 확인: src/content/posts/ 폴더 내 파일 내용 확인
-    const postsDir = path.join(process.cwd(), 'src/content/posts');
+    // 중복 확인: src/content/blog/ 폴더 내 파일 내용 확인
+    const postsDir = path.join(process.cwd(), 'src/content/blog');
     const existingPosts = fs.readdirSync(postsDir);
     let isDuplicate = false;
 

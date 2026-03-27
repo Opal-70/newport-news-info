@@ -95,6 +95,7 @@ export default function RootLayout({
               <div className="hidden md:block">
                 <div className="ml-10 flex items-baseline space-x-4">
                   <a href="/" className="hover:text-yellow-400 px-3 py-2 rounded-md text-sm font-medium transition-colors">Home</a>
+                  <a href="/blog" className="hover:text-yellow-400 px-3 py-2 rounded-md text-sm font-medium transition-colors">Blog</a>
                   <a href="/guides" className="hover:text-yellow-400 px-3 py-2 rounded-md text-sm font-medium transition-colors">Local Guides</a>
                   <a href="/resources" className="hover:text-yellow-400 px-3 py-2 rounded-md text-sm font-medium transition-colors">Resources</a>
                   <a href="/about" className="hover:text-yellow-400 px-3 py-2 rounded-md text-sm font-medium transition-colors border-l border-blue-800 ml-2 pl-4">About</a>
