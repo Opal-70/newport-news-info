@@ -101,6 +101,16 @@
       "target": "All Residents",
       "description": "Newport News has successfully expanded its free community Wi-Fi spots across the downtown area and major city parks. This initiative provides high-speed internet access to help students, remote workers, and families stay connected. Look for the 'NN-Free-Wifi' network in participating public spaces.",
       "link": "https://www.nnva.gov/"
+    },
+    {
+      "id": "nps-1774698843743",
+      "name": "Cape Henry Memorial | 케이프 헨리 기념관",
+      "category": "Resources",
+      "date": "2024-05-22",
+      "location": "Fort Story, VA",
+      "target": "General Public (Access restricted to those with military ID)",
+      "description": "Site where English colonists first landed in 1607 and a key location during the Battle of the Capes in 1781. | 1607년 영국 식민지 개척자들이 처음 상륙한 장소이며, 1781년 버지니아 곶 해전의 주요 지점입니다.",
+      "link": "https://www.nps.gov/came/index.htm"
     }
   ]
 }
