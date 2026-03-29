@@ -111,6 +111,16 @@
       "target": "General Public (Access restricted to those with military ID)",
       "description": "Site where English colonists first landed in 1607 and a key location during the Battle of the Capes in 1781. | 1607년 영국 식민지 개척자들이 처음 상륙한 장소이며, 1781년 버지니아 곶 해전의 주요 지점입니다.",
       "link": "https://www.nps.gov/came/index.htm"
+    },
+    {
+      "id": "nps-1774785284247",
+      "name": "Cape Henry Memorial | 케이프 헨리 기념지",
+      "category": "Resources",
+      "date": "2024-05-29",
+      "location": "Fort Story, VA",
+      "target": "General Public (Military access required)",
+      "description": "Site of the first English landing in Virginia in 1607 and a key location for the Battle of the Capes during the Revolutionary War. | 1607년 버지니아에 영국인이 처음 상륙한 장소이자, 독립전쟁 중 케이프 해전의 주요 지점입니다.",
+      "link": "https://www.nps.gov/came/index.htm"
     }
   ]
 }
