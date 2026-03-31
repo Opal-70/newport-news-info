@@ -1,5 +1,5 @@
 ---
-title: Exploring Our Roots: Cape Henry Memorial (Important Access Info for Locals!)
+title: "Exploring Our Roots: Cape Henry Memorial (Important Access Info for Locals!)"
 date: 2026-03-30
 summary: Learn about the historic Cape Henry Memorial, a pivotal site in Virginia's past, and understand current access requirements for visitors.
 category: Local Info
