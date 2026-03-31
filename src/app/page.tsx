@@ -81,9 +81,9 @@ export default function HomePage() {
           
           {/* Content Body */}
           <div className="p-6 bg-slate-50">
-            <div className="flex overflow-x-auto gap-6 pb-4 snap-x snap-mandatory hide-scrollbar">
+            <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
               {data?.events.map((event, idx) => (
-                <div key={idx} className="min-w-[280px] sm:min-w-[320px] max-w-[320px] shrink-0 bg-white rounded-xl border border-slate-200 p-6 flex flex-col h-full shadow-sm hover:shadow-md transition-shadow snap-start">
+                <div key={idx} className="w-full bg-white rounded-xl border border-slate-200 p-6 flex flex-col h-full shadow-sm hover:shadow-md transition-shadow">
                   <div className="flex justify-between items-start mb-4">
                     <span className="bg-blue-100 text-blue-800 px-3 py-1 rounded-full text-xs font-bold">
                       {event.category}
@@ -93,7 +93,7 @@ export default function HomePage() {
                   <h3 className="text-xl font-bold text-slate-800 mb-3 line-clamp-2">
                     {event.name}
                   </h3>
-                  <p className="text-sm text-slate-600 mb-6 flex-grow line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-slate-600 mb-6 flex-grow line-clamp-4 leading-relaxed">
                     {event.description}
                   </p>
                   <div className="mt-auto border-t border-slate-50 pt-4">
@@ -126,9 +126,9 @@ export default function HomePage() {
           
           {/* Content Body */}
           <div className="p-6 bg-slate-50">
-            <div className="flex overflow-x-auto gap-6 pb-4 snap-x snap-mandatory hide-scrollbar">
+            <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
               {data?.benefits.map((benefit, idx) => (
-                <div key={idx} className="min-w-[280px] sm:min-w-[320px] max-w-[320px] shrink-0 bg-white rounded-xl border border-slate-200 p-6 flex flex-col h-full shadow-sm hover:shadow-md transition-shadow snap-start">
+                <div key={idx} className="w-full bg-white rounded-xl border border-slate-200 p-6 flex flex-col h-full shadow-sm hover:shadow-md transition-shadow">
                   <div className="flex justify-between items-start mb-4">
                     <span className="bg-sky-100 text-sky-800 px-3 py-1 rounded-full text-xs font-bold">
                       {benefit.category}
@@ -138,7 +138,7 @@ export default function HomePage() {
                   <h3 className="text-xl font-bold text-slate-800 mb-3">
                     {benefit.name}
                   </h3>
-                  <p className="text-sm text-slate-600 mb-6 flex-grow line-clamp-3 leading-relaxed">
+                  <p className="text-sm text-slate-600 mb-6 flex-grow line-clamp-4 leading-relaxed">
                     {benefit.description}
                   </p>
                   <div className="mt-auto border-t border-slate-50 pt-4">
