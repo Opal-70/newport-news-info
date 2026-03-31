@@ -30,11 +30,16 @@ async function sync() {
       link: item.link
     }));
 
-  // Simple merge logic: avoid duplicates by ID
+  // Simple merge logic: avoid duplicates by ID or Title
   const existingEventIds = new Set(localInfo.events.map((e: any) => e.id));
+  const existingEventNames = new Set(localInfo.events.map((e: any) => e.name));
+  const existingBenefitNames = new Set(localInfo.benefits.map((b: any) => b.name));
+
   newEvents.forEach(event => {
-    if (!existingEventIds.has(event.id)) {
+    if (!existingEventIds.has(event.id) && !existingEventNames.has(event.name) && !existingBenefitNames.has(event.name)) {
       localInfo.events.unshift(event);
+    } else {
+      console.log(`Skipping data entry: "${event.name}" already exists in local-info.json.`);
     }
   });
 
@@ -46,14 +51,36 @@ async function sync() {
 
   // 2. Generate Daily Blog Post (if enough data)
   if (rawData.length > 0) {
-    console.log('Generating daily blog post with Gemini...');
-    const blogBody = await generateBlogPost(rawData.slice(0, 5));
-    if (blogBody) {
-      const dateStr = new Date().toISOString().split('T')[0];
-      const slug = `daily-update-${dateStr}`;
-      const title = `Newport News Daily Update: ${new Date().toLocaleDateString()}`;
-      
-      const blogContent = `---
+    const latestItem = rawData[0];
+    const itemName = latestItem.title;
+    
+    // Check for duplicates in blog posts (Titles)
+    const blogDir = path.join(process.cwd(), 'src/content/blog');
+    const existingBlogFiles = fs.existsSync(blogDir) ? fs.readdirSync(blogDir) : [];
+    let isAlreadyBlogged = false;
+    
+    for (const file of existingBlogFiles) {
+      if (file.endsWith('.md')) {
+        const content = fs.readFileSync(path.join(blogDir, file), 'utf8');
+        // Check if title or ID is in the content
+        if (content.includes(itemName) || (latestItem.id && content.includes(String(latestItem.id)))) {
+          isAlreadyBlogged = true;
+          break;
+        }
+      }
+    }
+
+    if (isAlreadyBlogged) {
+      console.log(`Skipping blog generation: "${itemName}" is already published.`);
+    } else {
+      console.log(`Generating daily blog post for: "${itemName}"...`);
+      const blogBody = await generateBlogPost(rawData.slice(0, 5));
+      if (blogBody) {
+        const dateStr = new Date().toISOString().split('T')[0];
+        const slug = `daily-update-${dateStr}`;
+        const title = `Newport News Daily Update: ${new Date().toLocaleDateString()}`;
+        
+        const blogContent = `---
 title: ${title}
 date: ${dateStr}
 summary: Latest community news and events for Newport News.
@@ -63,13 +90,13 @@ tags: [NewportNews, LocalNews, Events]
 
 ${blogBody}
 `;
-      
-      const blogDir = path.join(process.cwd(), 'src/content/blog');
-      if (!fs.existsSync(blogDir)) fs.mkdirSync(blogDir, { recursive: true });
-      
-      const blogFilePath = path.join(blogDir, `${slug}.md`);
-      fs.writeFileSync(blogFilePath, blogContent);
-      console.log(`Blog post saved to ${blogFilePath}`);
+        
+        if (!fs.existsSync(blogDir)) fs.mkdirSync(blogDir, { recursive: true });
+        
+        const blogFilePath = path.join(blogDir, `${slug}.md`);
+        fs.writeFileSync(blogFilePath, blogContent);
+        console.log(`Blog post saved to ${blogFilePath}`);
+      }
     }
   }
 
