@@ -81,9 +81,9 @@ export default function HomePage() {
           
           {/* Content Body */}
           <div className="p-6 bg-slate-50">
-            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+            <div className="flex overflow-x-auto gap-6 pb-4 snap-x snap-mandatory hide-scrollbar">
               {data?.events.map((event, idx) => (
-                <div key={idx} className="bg-white rounded-xl border border-slate-100 p-6 flex flex-col h-full shadow-sm hover:shadow-md transition-shadow">
+                <div key={idx} className="min-w-[280px] sm:min-w-[320px] max-w-[320px] shrink-0 bg-white rounded-xl border border-slate-200 p-6 flex flex-col h-full shadow-sm hover:shadow-md transition-shadow snap-start">
                   <div className="flex justify-between items-start mb-4">
                     <span className="bg-blue-100 text-blue-800 px-3 py-1 rounded-full text-xs font-bold">
                       {event.category}
@@ -97,9 +97,9 @@ export default function HomePage() {
                     {event.description}
                   </p>
                   <div className="mt-auto border-t border-slate-50 pt-4">
-                    <Link href={`/events/${event.id}`} className="text-sm font-bold text-blue-600 hover:text-blue-800 transition-colors flex items-center gap-1">
+                    <a href={event.link} target="_blank" rel="noopener noreferrer" className="text-sm font-bold text-blue-600 hover:text-blue-800 transition-colors flex items-center gap-1">
                       Details <span>→</span>
-                    </Link>
+                    </a>
                   </div>
                 </div>
               ))}
@@ -126,9 +126,9 @@ export default function HomePage() {
           
           {/* Content Body */}
           <div className="p-6 bg-slate-50">
-            <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+            <div className="flex overflow-x-auto gap-6 pb-4 snap-x snap-mandatory hide-scrollbar">
               {data?.benefits.map((benefit, idx) => (
-                <div key={idx} className="bg-white rounded-xl border border-slate-100 p-6 flex flex-col h-full shadow-sm hover:shadow-md transition-shadow">
+                <div key={idx} className="min-w-[280px] sm:min-w-[320px] max-w-[320px] shrink-0 bg-white rounded-xl border border-slate-200 p-6 flex flex-col h-full shadow-sm hover:shadow-md transition-shadow snap-start">
                   <div className="flex justify-between items-start mb-4">
                     <span className="bg-sky-100 text-sky-800 px-3 py-1 rounded-full text-xs font-bold">
                       {benefit.category}

@@ -29,11 +29,8 @@ jobs:
 
       - name: Run data collection and blog generation
         if: github.event_name != 'push'
-        run: |
-          node scripts/fetch-public-data.js
-          node scripts/generate-blog-post.js
+        run: npm run sync
         env:
-          PUBLIC_DATA_API_KEY: ${{ secrets.PUBLIC_DATA_API_KEY }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
 
       - name: Commit and push changes
@@ -54,7 +51,7 @@ jobs:
         env:
           NEXT_PUBLIC_ADSENSE_ID: ${{ secrets.NEXT_PUBLIC_ADSENSE_ID }}
           NEXT_PUBLIC_GA_ID: ${{ secrets.NEXT_PUBLIC_GA_ID }}
-          NEXT_PUBLIC_AMAZON_AFFILIATE_ID: ${{ secrets.NEXT_PUBLIC_AMAZON_AFFILIATE_ID }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
 
       - name: Deploy to Cloudflare Pages
         run: npx wrangler pages deploy out --project-name=newport-news-info
