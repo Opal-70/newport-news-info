@@ -19,6 +19,15 @@
       "link": "https://www.nnva.gov/Calendar.aspx?EID=2235"
     },
     {
+      "id": "https://www.nnva.gov/Calendar.aspx?EID=3580/639106449020000000",
+      "name": "Introduction to Wheel-Thrown Pottery",
+      "category": "Events",
+      "date": "4/1/2026",
+      "location": "Newport News, VA",
+      "description": "Event date: April 13, 2026 \nEvent Time: 06:00 PM - 08:30 PM\nLocation: \n1 Avenue of the Arts\nNewport News, VA 23607\nDescription:\nAges 15+",
+      "link": "https://www.nnva.gov/Calendar.aspx?EID=3580"
+    },
+    {
       "id": "https://www.nnva.gov/Calendar.aspx?EID=3545/639094422030000000",
       "name": "Stormwater Education Series: Flood Risk",
       "category": "Events",
@@ -46,13 +55,22 @@
       "link": "https://www.nnva.gov/Calendar.aspx?EID=3562"
     },
     {
-      "id": "https://www.nnva.gov/Calendar.aspx?EID=3458/639031978150000000",
-      "name": "Red Collection Day",
+      "id": "https://www.nnva.gov/Calendar.aspx?EID=3587/639106441870000000",
+      "name": "The Laramie Project: Department of Theater and Dance",
       "category": "Events",
-      "date": "1/5/2026",
+      "date": "4/1/2026",
       "location": "Newport News, VA",
-      "description": "Event dates: April 1, 2026 - April 2, 2026\nEvent Time: 12:00 AM - 11:59 PM\nLocation: \nNewport News, VA 23607",
-      "link": "https://www.nnva.gov/Calendar.aspx?EID=3458"
+      "description": "Event date: April 10, 2026 \nEvent Time: 07:30 PM - 09:30 PM\nLocation: \n1 Avenue of the Arts\nNewport News, VA 23606",
+      "link": "https://www.nnva.gov/Calendar.aspx?EID=3587"
+    },
+    {
+      "id": "https://www.nnva.gov/Calendar.aspx?EID=3586/639106437720000000",
+      "name": "Bird Girl Market",
+      "category": "Events",
+      "date": "4/1/2026",
+      "location": "Newport News, VA",
+      "description": "Event date: April 5, 2026 \nEvent Time: 10:00 AM - 03:00 PM\nLocation: \n100 Hopkins St\nNewport News, VA 23601",
+      "link": "https://www.nnva.gov/Calendar.aspx?EID=3586"
     },
     {
       "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2505/639086697540000000",
@@ -71,15 +89,6 @@
       "location": "Newport News, VA",
       "description": "",
       "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2509"
-    },
-    {
-      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2510/639100386210000000",
-      "name": "City of Newport News Invites Public to Final Workshops on 2045 Comprehensive Plan",
-      "category": "Local News",
-      "date": "3/25/2026",
-      "location": "Newport News, VA",
-      "description": "",
-      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2510"
     },
     {
       "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2511/639102207250000000",
@@ -109,15 +118,6 @@
       "link": "https://www.nnva.gov/Calendar.aspx?EID=3567"
     },
     {
-      "id": "https://www.nnva.gov/Calendar.aspx?EID=3566/639104850880000000",
-      "name": "Spring Break Camp",
-      "category": "Events",
-      "date": "3/30/2026",
-      "location": "Newport News, VA",
-      "description": "Event date: April 9, 2026 \nEvent Time: 09:00 AM - 12:00 PM\nLocation: \n523 J. Clyde Morris Blvd\nNewport News, VA 23601",
-      "link": "https://www.nnva.gov/Calendar.aspx?EID=3566"
-    },
-    {
       "id": "https://www.nnva.gov/Calendar.aspx?EID=3584/639105080020000000",
       "name": "Red Cross Blood Drive at ​​Hidenwood Presbyterian Church​​",
       "category": "Events",
@@ -125,15 +125,6 @@
       "location": "Newport News, VA",
       "description": "Event date: April 8, 2026 \nEvent Time: 10:00 AM - 03:00 PM\nLocation: \n414 Hiden Blvd.\nNewport News, VA 23606",
       "link": "https://www.nnva.gov/Calendar.aspx?EID=3584"
-    },
-    {
-      "id": "https://www.nnva.gov/Calendar.aspx?EID=3565/639104850880000000",
-      "name": "Spring Break Camp",
-      "category": "Events",
-      "date": "3/30/2026",
-      "location": "Newport News, VA",
-      "description": "Event date: April 8, 2026 \nEvent Time: 09:00 AM - 12:00 PM\nLocation: \n523 J. Clyde Morris Blvd\nNewport News, VA 23601",
-      "link": "https://www.nnva.gov/Calendar.aspx?EID=3565"
     }
   ],
   "benefits": [

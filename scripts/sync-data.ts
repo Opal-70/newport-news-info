@@ -36,10 +36,22 @@ async function sync() {
   const existingBenefitNames = new Set(localInfo.benefits.map((b: any) => b.name));
 
   newEvents.forEach(event => {
-    if (!existingEventIds.has(event.id) && !existingEventNames.has(event.name) && !existingBenefitNames.has(event.name)) {
+    // Keyword-based similarity check for data entries
+    const stopWords = new Set(['and', 'the', 'for', 'with', 'newport', 'news', 'update', 'latest', 'community']);
+    const getKeywords = (str: string) => str.toLowerCase().split(/\W+/).filter(w => w.length > 2 && !stopWords.has(w));
+    const eventKeywords = getKeywords(event.name);
+    
+    const isSimilar = localInfo.events.some((e: any) => {
+      const existingKeywords = getKeywords(e.name);
+      const matchCount = eventKeywords.filter(k => existingKeywords.includes(k)).length;
+      return matchCount >= 3; // If 3 or more keywords match, consider similar
+    });
+
+    if (!existingEventIds.has(event.id) && !existingEventNames.has(event.name) && !existingBenefitNames.has(event.name) && !isSimilar) {
       localInfo.events.unshift(event);
+      existingEventNames.add(event.name); // Add to set to prevent multiple additions in current run
     } else {
-      console.log(`Skipping data entry: "${event.name}" already exists in local-info.json.`);
+      console.log(`Skipping data entry: "${event.name}" already exists or is very similar in local-info.json.`);
     }
   });
 
@@ -62,9 +74,20 @@ async function sync() {
     for (const file of existingBlogFiles) {
       if (file.endsWith('.md')) {
         const content = fs.readFileSync(path.join(blogDir, file), 'utf8');
-        // Check if title or ID is in the content
-        if (content.includes(itemName) || (latestItem.id && content.includes(String(latestItem.id)))) {
+        
+        // Extract common keywords (at least 3 characters long, excluding stop words)
+        const stopWords = new Set(['and', 'the', 'for', 'with', 'newport', 'news', 'update', 'latest', 'community']);
+        const getKeywords = (str: string) => str.toLowerCase().split(/\W+/).filter(w => w.length > 2 && !stopWords.has(w));
+        
+        const itemKeywords = getKeywords(itemName);
+        const contentKeywords = getKeywords(content.split('---')[2] || ''); // Check main body
+        
+        // If more than 3 keywords match, consider it a duplicate
+        const matchCount = itemKeywords.filter(k => content.toLowerCase().includes(k)).length;
+        
+        if (content.includes(itemName) || (latestItem.id && content.includes(String(latestItem.id))) || matchCount >= 3) {
           isAlreadyBlogged = true;
+          console.log(`Potential duplicate found for "${itemName}": ${matchCount} matches in ${file}`);
           break;
         }
       }
