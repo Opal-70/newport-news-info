@@ -1,6 +1,105 @@
 {
   "events": [
     {
+      "id": "https://www.nnva.gov/Calendar.aspx?EID=3568/639104851230000000",
+      "name": "Jazz for Justice \"Homegrown\"",
+      "category": "Events",
+      "date": "3/30/2026",
+      "location": "Newport News, VA",
+      "description": "Event date: April 14, 2026 \nEvent Time: 07:00 PM - 09:00 PM\nLocation: \n1 Avenue of the Arts\nNewport News, VA 23606",
+      "link": "https://www.nnva.gov/Calendar.aspx?EID=3568"
+    },
+    {
+      "id": "https://www.nnva.gov/Calendar.aspx?EID=2235/638205253360000000",
+      "name": "City Council Regular Meeting",
+      "category": "Events",
+      "date": "5/24/2023",
+      "location": "Newport News, VA",
+      "description": "Event date: April 14, 2026 \nEvent Time: 07:00 PM - 10:00 PM\nLocation: \nBehind City Hall\n2400 Washington Ave\nNewport News, VA 23607",
+      "link": "https://www.nnva.gov/Calendar.aspx?EID=2235"
+    },
+    {
+      "id": "https://www.nnva.gov/Calendar.aspx?EID=3545/639094422030000000",
+      "name": "Stormwater Education Series: Flood Risk",
+      "category": "Events",
+      "date": "3/18/2026",
+      "location": "Newport News, VA",
+      "description": "Event date: April 13, 2026 \nEvent Time: 01:30 PM - 03:00 PM\nLocation: \n110 Main St\nNewport News, VA 23601",
+      "link": "https://www.nnva.gov/Calendar.aspx?EID=3545"
+    },
+    {
+      "id": "https://www.nnva.gov/Calendar.aspx?EID=3459/639031978370000000",
+      "name": "Red Collection Day",
+      "category": "Events",
+      "date": "1/5/2026",
+      "location": "Newport News, VA",
+      "description": "Event dates: April 13, 2026 - April 16, 2026\nEvent Time: 12:00 AM - 11:59 PM\nLocation: \nNewport News, VA 23607",
+      "link": "https://www.nnva.gov/Calendar.aspx?EID=3459"
+    },
+    {
+      "id": "https://www.nnva.gov/Calendar.aspx?EID=3562/639104851560000000",
+      "name": "Fire & Rain: Folk Anthems of the '70s",
+      "category": "Events",
+      "date": "3/30/2026",
+      "location": "Newport News, VA",
+      "description": "Event date: April 11, 2026 \nEvent Time: 07:30 PM - 09:30 PM\nLocation: \n1 Avenue of the Arts\nNewport News, VA 23606",
+      "link": "https://www.nnva.gov/Calendar.aspx?EID=3562"
+    },
+    {
+      "id": "https://www.nnva.gov/Calendar.aspx?EID=3458/639031978150000000",
+      "name": "Red Collection Day",
+      "category": "Events",
+      "date": "1/5/2026",
+      "location": "Newport News, VA",
+      "description": "Event dates: April 1, 2026 - April 2, 2026\nEvent Time: 12:00 AM - 11:59 PM\nLocation: \nNewport News, VA 23607",
+      "link": "https://www.nnva.gov/Calendar.aspx?EID=3458"
+    },
+    {
+      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2505/639086697540000000",
+      "name": "City of Newport News Launches \"Good Neighbor Patrol Vehicle\"",
+      "category": "Local News",
+      "date": "3/9/2026",
+      "location": "Newport News, VA",
+      "description": "",
+      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2505"
+    },
+    {
+      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2509/639095196600000000",
+      "name": "City of Newport News Announces Demolition of Sherwood Shopping Center to Make Way for New Library",
+      "category": "Local News",
+      "date": "3/19/2026",
+      "location": "Newport News, VA",
+      "description": "",
+      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2509"
+    },
+    {
+      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2510/639100386210000000",
+      "name": "City of Newport News Invites Public to Final Workshops on 2045 Comprehensive Plan",
+      "category": "Local News",
+      "date": "3/25/2026",
+      "location": "Newport News, VA",
+      "description": "",
+      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2510"
+    },
+    {
+      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2511/639102207250000000",
+      "name": "City of Newport News Provides Update on Hilton and Monitor-Merrimac Overlook Park Piers Replacement",
+      "category": "Local News",
+      "date": "3/27/2026",
+      "location": "Newport News, VA",
+      "description": "",
+      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2511"
+    },
+    {
+      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2512/639104715170000000",
+      "name": "Important Update: Upgrading Our Phone System",
+      "category": "Local News",
+      "date": "3/30/2026",
+      "location": "Newport News, VA",
+      "description": "",
+      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2512"
+    },
+    {
       "id": "https://www.nnva.gov/Calendar.aspx?EID=3567/639104850880000000",
       "name": "Spring Break Camp",
       "category": "Events",
@@ -35,105 +134,6 @@
       "location": "Newport News, VA",
       "description": "Event date: April 8, 2026 \nEvent Time: 09:00 AM - 12:00 PM\nLocation: \n523 J. Clyde Morris Blvd\nNewport News, VA 23601",
       "link": "https://www.nnva.gov/Calendar.aspx?EID=3565"
-    },
-    {
-      "id": "https://www.nnva.gov/Calendar.aspx?EID=3555/639089143870000000",
-      "name": "Rooted Together Tree Giveaway Information Session",
-      "category": "Events",
-      "date": "3/12/2026",
-      "location": "Newport News, VA",
-      "description": "Event date: April 7, 2026 \nEvent Time: 06:00 PM - 07:00 PM",
-      "link": "https://www.nnva.gov/Calendar.aspx?EID=3555"
-    },
-    {
-      "id": "https://www.nnva.gov/Calendar.aspx?EID=3564/639104850880000000",
-      "name": "Spring Break Camp",
-      "category": "Events",
-      "date": "3/30/2026",
-      "location": "Newport News, VA",
-      "description": "Event date: April 7, 2026 \nEvent Time: 09:00 AM - 12:00 PM\nLocation: \n523 J. Clyde Morris Blvd\nNewport News, VA 23601",
-      "link": "https://www.nnva.gov/Calendar.aspx?EID=3564"
-    },
-    {
-      "id": "https://www.nnva.gov/Calendar.aspx?EID=3563/639104850880000000",
-      "name": "Spring Break Camp",
-      "category": "Events",
-      "date": "3/30/2026",
-      "location": "Newport News, VA",
-      "description": "Event date: April 6, 2026 \nEvent Time: 09:00 AM - 12:00 PM\nLocation: \n523 J. Clyde Morris Blvd\nNewport News, VA 23601\nDescription:\nThis event is available for children in grades 2nd-5th.",
-      "link": "https://www.nnva.gov/Calendar.aspx?EID=3563"
-    },
-    {
-      "id": "https://www.nnva.gov/Calendar.aspx?EID=3487/639031984600000000",
-      "name": "Yellow Collection Day",
-      "category": "Events",
-      "date": "1/5/2026",
-      "location": "Newport News, VA",
-      "description": "Event dates: April 6, 2026 - April 9, 2026\nEvent Time: 12:00 AM - 11:59 PM\nLocation: \nNewport News, VA 23607",
-      "link": "https://www.nnva.gov/Calendar.aspx?EID=3487"
-    },
-    {
-      "id": "https://www.nnva.gov/Calendar.aspx?EID=3578/639104856550000000",
-      "name": "The HR Jazz Ella Fitzgerald Jazz Celebration; Amanda King",
-      "category": "Events",
-      "date": "3/30/2026",
-      "location": "Newport News, VA",
-      "description": "Event date: April 4, 2026 \nEvent Time: 07:30 PM - 09:00 PM\nLocation: \n2410 Wickham Ave\nNewport News, VA 23607",
-      "link": "https://www.nnva.gov/Calendar.aspx?EID=3578"
-    },
-    {
-      "id": "https://www.nnva.gov/Calendar.aspx?EID=3579/639104859710000000",
-      "name": "Annual Easter Egg Hunt at Lee Hall Mansion",
-      "category": "Events",
-      "date": "3/30/2026",
-      "location": "Newport News, VA",
-      "description": "Event date: April 4, 2026 \nEvent Time: 10:00 AM - 12:00 PM\nLocation: \n163 Yorktown Road\nNewport News, VA 23603",
-      "link": "https://www.nnva.gov/Calendar.aspx?EID=3579"
-    },
-    {
-      "id": "https://www.nnva.gov/Calendar.aspx?EID=3573/639104848780000000",
-      "name": "Robert Plant With Saving Grace and Suzi Dian",
-      "category": "Events",
-      "date": "3/30/2026",
-      "location": "Newport News, VA",
-      "description": "Event date: April 2, 2026 \nEvent Time: 07:30 PM - 09:30 PM\nLocation: \n1 Avenue of the Arts\nNewport News, VA 23606",
-      "link": "https://www.nnva.gov/Calendar.aspx?EID=3573"
-    },
-    {
-      "id": "https://www.nnva.gov/Calendar.aspx?EID=3561/639094431540000000",
-      "name": "Community Meetings For One City One Future Comprehensive Plan",
-      "category": "Events",
-      "date": "3/18/2026",
-      "location": "Newport News, VA",
-      "description": "Event date: April 2, 2026 \nEvent Time: 06:00 PM - 07:30 PM\nLocation: \n2410 Wickham Avenue\nNewport News, VA 23607\nDescription:\nThe City of Newport News invites you to be part of the next step in shaping our future.Join us for a series of interactive public workshops to review the draft One City, One Future 2045 Comprehensive Plan—the roadmap guiding how Newport News will grow, invest, and thrive over the next 20 years.Come to:Hear a brief presentation Explore the draft plan View the Future Land Use MapEngage directly with staff",
-      "link": "https://www.nnva.gov/Calendar.aspx?EID=3561"
-    },
-    {
-      "id": "https://www.nnva.gov/Calendar.aspx?EID=3560/639094431320000000",
-      "name": "Community Meetings For One City One Future Comprehensive Plan",
-      "category": "Events",
-      "date": "3/18/2026",
-      "location": "Newport News, VA",
-      "description": "Event date: April 1, 2026 \nEvent Time: 06:00 PM - 07:30 PM\nLocation: \n15198 Warwick Blvd.\nNewport News, VA 23607\nDescription:\nThe City of Newport News invites you to be part of the next step in shaping our future.Join us for a series of interactive public workshops to review the draft One City, One Future 2045 Comprehensive Plan—the roadmap guiding how Newport News will grow, invest, and thrive over the next 20 years.Come to:Hear a brief presentation Explore the draft plan View the Future Land Use MapEngage directly with staff",
-      "link": "https://www.nnva.gov/Calendar.aspx?EID=3560"
-    },
-    {
-      "id": "https://www.nnva.gov/Calendar.aspx?EID=2522/638477492570000000",
-      "name": "Planning Commission Meeting",
-      "category": "Events",
-      "date": "4/3/2024",
-      "location": "Newport News, VA",
-      "description": "Event date: April 1, 2026 \nEvent Time: 02:00 PM - 11:59 PM\nLocation: \nBehind City Hall\n2400 Washington Ave\nNewport News, VA 23607",
-      "link": "https://www.nnva.gov/Calendar.aspx?EID=2522"
-    },
-    {
-      "id": "https://www.nnva.gov/Calendar.aspx?EID=3559/639094431060000000",
-      "name": "Community Meetings For One City One Future Comprehensive Plan",
-      "category": "Events",
-      "date": "3/18/2026",
-      "location": "Newport News, VA",
-      "description": "Event date: March 31, 2026 \nEvent Time: 06:00 PM - 07:30 PM\nLocation: \n570 McLawhorne Drive\nNewport News, VA 23607\nDescription:\nThe City of Newport News invites you to be part of the next step in shaping our future.Join us for a series of interactive public workshops to review the draft One City, One Future 2045 Comprehensive Plan—the roadmap guiding how Newport News will grow, invest, and thrive over the next 20 years.Come to:Hear a brief presentation Explore the draft plan View the Future Land Use MapEngage directly with staff",
-      "link": "https://www.nnva.gov/Calendar.aspx?EID=3559"
     }
   ],
   "benefits": [
