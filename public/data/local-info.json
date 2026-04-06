@@ -1,6 +1,105 @@
 {
   "events": [
     {
+      "id": "https://www.nnva.gov/Calendar.aspx?EID=3562/639104851560000000",
+      "name": "Fire & Rain: Folk Anthems of the '70s",
+      "category": "Events",
+      "date": "3/30/2026",
+      "location": "Newport News, VA",
+      "description": "Event date: April 11, 2026 \nEvent Time: 07:30 PM - 09:30 PM\nLocation: \n1 Avenue of the Arts\nNewport News, VA 23606",
+      "link": "https://www.nnva.gov/Calendar.aspx?EID=3562"
+    },
+    {
+      "id": "https://www.nnva.gov/Calendar.aspx?EID=3587/639106441870000000",
+      "name": "The Laramie Project: Department of Theater and Dance",
+      "category": "Events",
+      "date": "4/1/2026",
+      "location": "Newport News, VA",
+      "description": "Event date: April 10, 2026 \nEvent Time: 07:30 PM - 09:30 PM\nLocation: \n1 Avenue of the Arts\nNewport News, VA 23606",
+      "link": "https://www.nnva.gov/Calendar.aspx?EID=3587"
+    },
+    {
+      "id": "https://www.nnva.gov/Calendar.aspx?EID=3595/639106482240000000",
+      "name": "Red Cross Blood Drive at Christopher Newport University",
+      "category": "Events",
+      "date": "4/1/2026",
+      "location": "Newport News, VA",
+      "description": "Event date: April 7, 2026 \nEvent Time: 11:00 AM - 05:00 PM\nLocation: \n1 University Place\nNewport News, VA 23606\nDescription:\nRed Cross Blood Drive at Christopher Newport University",
+      "link": "https://www.nnva.gov/Calendar.aspx?EID=3595"
+    },
+    {
+      "id": "https://www.nnva.gov/Calendar.aspx?EID=3563/639104850880000000",
+      "name": "Spring Break Camp",
+      "category": "Events",
+      "date": "3/30/2026",
+      "location": "Newport News, VA",
+      "description": "Event date: April 6, 2026 \nEvent Time: 09:00 AM - 12:00 PM\nLocation: \n523 J. Clyde Morris Blvd\nNewport News, VA 23601\nDescription:\nThis event is available for children in grades 2nd-5th.",
+      "link": "https://www.nnva.gov/Calendar.aspx?EID=3563"
+    },
+    {
+      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2505/639086697540000000",
+      "name": "City of Newport News Launches \"Good Neighbor Patrol Vehicle\"",
+      "category": "Local News",
+      "date": "3/9/2026",
+      "location": "Newport News, VA",
+      "description": "",
+      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2505"
+    },
+    {
+      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2509/639095196600000000",
+      "name": "City of Newport News Announces Demolition of Sherwood Shopping Center to Make Way for New Library",
+      "category": "Local News",
+      "date": "3/19/2026",
+      "location": "Newport News, VA",
+      "description": "",
+      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2509"
+    },
+    {
+      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2511/639102207250000000",
+      "name": "City of Newport News Provides Update on Hilton and Monitor-Merrimac Overlook Park Piers Replacement",
+      "category": "Local News",
+      "date": "3/27/2026",
+      "location": "Newport News, VA",
+      "description": "",
+      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2511"
+    },
+    {
+      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2517/639108210000000000",
+      "name": "City of Newport News Announces Public Hearings for Fiscal Year 2027 Recommended Operating Budget",
+      "category": "Local News",
+      "date": "4/3/2026",
+      "location": "Newport News, VA",
+      "description": "",
+      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2517"
+    },
+    {
+      "id": "https://rebuildinghamptonroads.org/national-rebuilding-day/639110587800000000",
+      "name": "Rebuilding Together Hampton Roads",
+      "category": "Local News",
+      "date": "4/6/2026",
+      "location": "Newport News, VA",
+      "description": "Volunteer opportunity for April 25.",
+      "link": "https://rebuildinghamptonroads.org/national-rebuilding-day"
+    },
+    {
+      "id": "https://habitatpgw.org/home-repair-blitz//639110588400000000",
+      "name": "Habitat for Humanity Peninsula & Greater Williamsburg",
+      "category": "Local News",
+      "date": "4/6/2026",
+      "location": "Newport News, VA",
+      "description": "Volunteer opportunity for May 9.",
+      "link": "https://habitatpgw.org/home-repair-blitz/"
+    },
+    {
+      "id": "https://www.stcpeninsula.com/volunteer//639110588400000000",
+      "name": "Serve the City Peninsula",
+      "category": "Local News",
+      "date": "4/6/2026",
+      "location": "Newport News, VA",
+      "description": "Volunteer opportunity for July 14-18.",
+      "link": "https://www.stcpeninsula.com/volunteer/"
+    },
+    {
       "id": "https://www.nnva.gov/Calendar.aspx?EID=3593/639106448040000000",
       "name": "Florence Price Symphony No. 1 presented by Hampton Roads Philharmonic",
       "category": "Events",
@@ -35,105 +134,6 @@
       "location": "Newport News, VA",
       "description": "Event date: April 7, 2026 \nEvent Time: 06:00 PM - 07:00 PM",
       "link": "https://www.nnva.gov/Calendar.aspx?EID=3555"
-    },
-    {
-      "id": "https://www.nnva.gov/Calendar.aspx?EID=3487/639031984600000000",
-      "name": "Yellow Collection Day",
-      "category": "Events",
-      "date": "1/5/2026",
-      "location": "Newport News, VA",
-      "description": "Event dates: April 6, 2026 - April 9, 2026\nEvent Time: 12:00 AM - 11:59 PM\nLocation: \nNewport News, VA 23607",
-      "link": "https://www.nnva.gov/Calendar.aspx?EID=3487"
-    },
-    {
-      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2512/639104715170000000",
-      "name": "Important Update: Upgrading Our Phone System",
-      "category": "Local News",
-      "date": "3/30/2026",
-      "location": "Newport News, VA",
-      "description": "",
-      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2512"
-    },
-    {
-      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2514/639107459350000000",
-      "name": "Announcing the First Annual Clerk's Law Day Art Contest!",
-      "category": "Local News",
-      "date": "4/2/2026",
-      "location": "Newport News, VA",
-      "description": "",
-      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2514"
-    },
-    {
-      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2515/639108026320000000",
-      "name": "Waterworks' Annual Water Quality Reports Are Now Available",
-      "category": "Local News",
-      "date": "4/3/2026",
-      "location": "Newport News, VA",
-      "description": "",
-      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2515"
-    },
-    {
-      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2516/639108027280000000",
-      "name": "Newport News Honored with National Budget Award",
-      "category": "Local News",
-      "date": "4/3/2026",
-      "location": "Newport News, VA",
-      "description": "",
-      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2516"
-    },
-    {
-      "id": "https://www.nnva.gov/Calendar.aspx?EID=3594/639106461110000000",
-      "name": "Pickleball with the Pi's: Alpha Delta Pi Philanthropy Tournament",
-      "category": "Events",
-      "date": "4/1/2026",
-      "location": "Newport News, VA",
-      "description": "Event date: April 18, 2026 \nEvent Time: 09:30 AM - 02:00 PM\nLocation: \n160 University Pl\nNewport News, VA 23606\nDescription:\nPhilanthropic Event",
-      "link": "https://www.nnva.gov/Calendar.aspx?EID=3594"
-    },
-    {
-      "id": "https://www.nnva.gov/Calendar.aspx?EID=3568/639104851230000000",
-      "name": "Jazz for Justice \"Homegrown\"",
-      "category": "Events",
-      "date": "3/30/2026",
-      "location": "Newport News, VA",
-      "description": "Event date: April 14, 2026 \nEvent Time: 07:00 PM - 09:00 PM\nLocation: \n1 Avenue of the Arts\nNewport News, VA 23606",
-      "link": "https://www.nnva.gov/Calendar.aspx?EID=3568"
-    },
-    {
-      "id": "https://www.nnva.gov/Calendar.aspx?EID=2235/638205253360000000",
-      "name": "City Council Regular Meeting",
-      "category": "Events",
-      "date": "5/24/2023",
-      "location": "Newport News, VA",
-      "description": "Event date: April 14, 2026 \nEvent Time: 07:00 PM - 10:00 PM\nLocation: \nBehind City Hall\n2400 Washington Ave\nNewport News, VA 23607",
-      "link": "https://www.nnva.gov/Calendar.aspx?EID=2235"
-    },
-    {
-      "id": "https://www.nnva.gov/Calendar.aspx?EID=3580/639106449020000000",
-      "name": "Introduction to Wheel-Thrown Pottery",
-      "category": "Events",
-      "date": "4/1/2026",
-      "location": "Newport News, VA",
-      "description": "Event date: April 13, 2026 \nEvent Time: 06:00 PM - 08:30 PM\nLocation: \n1 Avenue of the Arts\nNewport News, VA 23607\nDescription:\nAges 15+",
-      "link": "https://www.nnva.gov/Calendar.aspx?EID=3580"
-    },
-    {
-      "id": "https://www.nnva.gov/Calendar.aspx?EID=3545/639094422030000000",
-      "name": "Stormwater Education Series: Flood Risk",
-      "category": "Events",
-      "date": "3/18/2026",
-      "location": "Newport News, VA",
-      "description": "Event date: April 13, 2026 \nEvent Time: 01:30 PM - 03:00 PM\nLocation: \n110 Main St\nNewport News, VA 23601",
-      "link": "https://www.nnva.gov/Calendar.aspx?EID=3545"
-    },
-    {
-      "id": "https://www.nnva.gov/Calendar.aspx?EID=3459/639031978370000000",
-      "name": "Red Collection Day",
-      "category": "Events",
-      "date": "1/5/2026",
-      "location": "Newport News, VA",
-      "description": "Event dates: April 13, 2026 - April 16, 2026\nEvent Time: 12:00 AM - 11:59 PM\nLocation: \nNewport News, VA 23607",
-      "link": "https://www.nnva.gov/Calendar.aspx?EID=3459"
     }
   ],
   "benefits": [
