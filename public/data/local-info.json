@@ -1,139 +1,139 @@
 {
   "events": [
     {
-      "id": "https://www.nnva.gov/Calendar.aspx?EID=2236/638205253360000000",
-      "name": "City Council Regular Meeting",
-      "category": "Events",
-      "date": "5/24/2023",
-      "location": "Newport News, VA",
-      "description": "Event date: May 12, 2026 \nEvent Time: 07:00 PM - 10:00 PM\nLocation: \nBehind City Hall\n2400 Washington Ave\nNewport News, VA 23607",
-      "link": "https://www.nnva.gov/Calendar.aspx?EID=2236"
-    },
-    {
-      "id": "https://www.nnva.gov/Calendar.aspx?EID=3617/639124591830000000",
-      "name": "Liquid to Light: Resin Art and Alchemy",
-      "category": "Events",
-      "date": "4/22/2026",
-      "location": "Newport News, VA",
-      "description": "Event date: May 9, 2026 \nEvent Time: 01:00 PM - 04:00 PM\nLocation: \n1 Avenue of the Arts\nNewport News, VA 23606",
-      "link": "https://www.nnva.gov/Calendar.aspx?EID=3617"
-    },
-    {
-      "id": "https://www.nnva.gov/Calendar.aspx?EID=3616/639124585770000000",
-      "name": "Pocket Zines: Small Pages, Big Ideas",
-      "category": "Events",
-      "date": "4/22/2026",
-      "location": "Newport News, VA",
-      "description": "Event date: May 9, 2026 \nEvent Time: 10:00 AM - 01:00 PM\nLocation: \n1 Avenue of the Arts\nNewport News, VA 23606",
-      "link": "https://www.nnva.gov/Calendar.aspx?EID=3616"
-    },
-    {
-      "id": "https://www.nnva.gov/Calendar.aspx?EID=3609/639122936060000000",
-      "name": "Virginia Community Music Festival",
+      "id": "https://www.nnva.gov/Calendar.aspx?EID=3611/639122941050000000",
+      "name": "Mother's Day Brunch at Tradition Brewing",
       "category": "Events",
       "date": "4/20/2026",
       "location": "Newport News, VA",
-      "description": "Event date: May 9, 2026 \nEvent Time: 09:00 AM - 07:30 PM\nLocation: \n1 Avenue of the Arts\nNewport News, VA 23606",
-      "link": "https://www.nnva.gov/Calendar.aspx?EID=3609"
+      "description": "Event date: May 10, 2026 \nEvent Time: 12:00 PM - 04:00 PM\nLocation: \n700 Thimble Shoals Blvd #103\nNewport News, VA 23606",
+      "link": "https://www.nnva.gov/Calendar.aspx?EID=3611"
     },
     {
-      "id": "https://www.nnva.gov/Calendar.aspx?EID=3604/639122875330000000",
-      "name": "Cure Coffeehouse Open Mic Night",
+      "id": "https://www.nnva.gov/Calendar.aspx?EID=3577/639116864990000000",
+      "name": "Elgar's Enigma Variations & Barber's Violin Concerto",
       "category": "Events",
-      "date": "4/20/2026",
+      "date": "4/13/2026",
       "location": "Newport News, VA",
-      "description": "Event date: May 7, 2026 \nEvent Time: 07:00 PM - 10:00 PM\nLocation: \n706 Town Center Drive\nNewport News, VA 23606",
-      "link": "https://www.nnva.gov/Calendar.aspx?EID=3604"
+      "description": "Event date: May 8, 2026 \nEvent Time: 07:30 PM - 09:30 PM\nLocation: \n1 Avenue of the Arts\nNewport News, VA 23606",
+      "link": "https://www.nnva.gov/Calendar.aspx?EID=3577"
     },
     {
-      "id": "https://www.nnva.gov/Calendar.aspx?EID=3489/639031985050000000",
-      "name": "Yellow Collection Day",
+      "id": "https://www.nnva.gov/Calendar.aspx?EID=3546/639080607710000000",
+      "name": "Stormwater Education Series: Flood Risk",
+      "category": "Events",
+      "date": "3/2/2026",
+      "location": "Newport News, VA",
+      "description": "Event date: May 8, 2026 \nEvent Time: 01:30 PM - 03:00 PM\nLocation: \n366 DeShazor Dr.\nNewport News, VA 23608",
+      "link": "https://www.nnva.gov/Calendar.aspx?EID=3546"
+    },
+    {
+      "id": "https://www.nnva.gov/Calendar.aspx?EID=2523/638477492570000000",
+      "name": "Planning Commission Meeting",
+      "category": "Events",
+      "date": "4/3/2024",
+      "location": "Newport News, VA",
+      "description": "Event date: May 6, 2026 \nEvent Time: 02:00 PM - 11:59 PM\nLocation: \nBehind City Hall\n2400 Washington Ave\nNewport News, VA 23607",
+      "link": "https://www.nnva.gov/Calendar.aspx?EID=2523"
+    },
+    {
+      "id": "https://www.nnva.gov/Calendar.aspx?EID=3570/639116847040000000",
+      "name": "The Music of Star Wars",
+      "category": "Events",
+      "date": "4/13/2026",
+      "location": "Newport News, VA",
+      "description": "Event date: May 2, 2026 \nEvent Time: 07:30 PM - 09:30 PM\nLocation: \n1 Avenue of the Arts\nNewport News, VA 23606",
+      "link": "https://www.nnva.gov/Calendar.aspx?EID=3570"
+    },
+    {
+      "id": "https://www.nnva.gov/Calendar.aspx?EID=3600/639116846660000000",
+      "name": "Don't Let the Pigeon Drive the Bus! The Musical",
+      "category": "Events",
+      "date": "4/13/2026",
+      "location": "Newport News, VA",
+      "description": "Event date: May 2, 2026 \nEvent Time: 01:00 PM - 03:30 PM\nLocation: \n1 Avenue of the Arts\nNewport News, VA 23606",
+      "link": "https://www.nnva.gov/Calendar.aspx?EID=3600"
+    },
+    {
+      "id": "https://www.nnva.gov/Calendar.aspx?EID=3558/639089152830000000",
+      "name": "Rooted Together Tree Giveaway - Children's Festival Edition",
+      "category": "Events",
+      "date": "3/12/2026",
+      "location": "Newport News, VA",
+      "description": "Event date: May 2, 2026 \nEvent Time: 10:00 AM - 05:00 PM\nLocation: \n13560 Jefferson Avenue\nNewport News, VA 23603\nDescription:\nNewport News residents can receive a free tree. First come, first served while supplies last.",
+      "link": "https://www.nnva.gov/Calendar.aspx?EID=3558"
+    },
+    {
+      "id": "https://www.nnva.gov/Calendar.aspx?EID=3460/639031978530000000",
+      "name": "Red Collection Day",
       "category": "Events",
       "date": "1/5/2026",
       "location": "Newport News, VA",
-      "description": "Event dates: May 4, 2026 - May 7, 2026\nEvent Time: 12:00 AM - 11:59 PM\nLocation: \nNewport News, VA 23607",
-      "link": "https://www.nnva.gov/Calendar.aspx?EID=3489"
+      "description": "Event dates: April 27, 2026 - April 30, 2026\nEvent Time: 12:00 AM - 11:59 PM\nLocation: \nNewport News, VA 23607",
+      "link": "https://www.nnva.gov/Calendar.aspx?EID=3460"
     },
     {
-      "id": "https://www.nnva.gov/Calendar.aspx?EID=3601/639120265300000000",
-      "name": "The Doo Wop Project",
-      "category": "Events",
-      "date": "4/17/2026",
-      "location": "Newport News, VA",
-      "description": "Event date: May 3, 2026 \nEvent Time: 03:00 PM - 05:00 PM\nLocation: \n1 Avenue of the Arts\nNewport News, VA 23606",
-      "link": "https://www.nnva.gov/Calendar.aspx?EID=3601"
-    },
-    {
-      "id": "https://www.nnva.gov/Calendar.aspx?EID=3608/639122892390000000",
-      "name": "Bird Girl Market",
-      "category": "Events",
-      "date": "4/20/2026",
-      "location": "Newport News, VA",
-      "description": "Event date: May 3, 2026 \nEvent Time: 11:00 AM - 03:00 PM\nLocation: \n100 Hopkins St\nNewport News, VA 23601",
-      "link": "https://www.nnva.gov/Calendar.aspx?EID=3608"
-    },
-    {
-      "id": "https://www.nnva.gov/Calendar.aspx?EID=3615/639124560280000000",
-      "name": "Exhibition Tours at the Torggler Fine Arts Center",
-      "category": "Events",
-      "date": "4/22/2026",
-      "location": "Newport News, VA",
-      "description": "Event date: May 2, 2026 \nEvent Time: 11:00 AM - 12:00 PM\nLocation: \n1 Avenue of the Arts\nNewport News, VA 23606",
-      "link": "https://www.nnva.gov/Calendar.aspx?EID=3615"
-    },
-    {
-      "id": "https://www.nnva.gov/Calendar.aspx?EID=3597/639107241960000000",
-      "name": " The Peace Lot Party @ NNOC",
-      "category": "Events",
-      "date": "4/2/2026",
-      "location": "Newport News, VA",
-      "description": "Event date: April 29, 2026 \nEvent Time: 04:30 PM - 06:30 PM\nLocation: \n550 30th Street\nNewport News, VA 23607\nDescription:\nCelebrate community. Experience connection.Join us for an outdoor block party bringing together youth, families, neighbors, and local organizations in honor of National Youth Violence Prevention Week.Enjoy music, food, and access to valuable community resources—all in a welcoming, high-energy environment designed to foster relationships and promote peace.•\tLive music & entertainment•\t Food & local vendors•\tCommunity resources & supportTogether, we’re building safer, stronger neighborhoods—one connection at a time. Be part of the movement. Show up for peace.",
-      "link": "https://www.nnva.gov/Calendar.aspx?EID=3597"
-    },
-    {
-      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2512/639104715170000000",
-      "name": "Important Update: Upgrading Our Phone System",
-      "category": "Local News",
-      "date": "3/30/2026",
-      "location": "Newport News, VA",
-      "description": "",
-      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2512"
-    },
-    {
-      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2514/639107459350000000",
-      "name": "Announcing the First Annual Clerk's Law Day Art Contest!",
-      "category": "Local News",
-      "date": "4/2/2026",
-      "location": "Newport News, VA",
-      "description": "",
-      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2514"
-    },
-    {
-      "id": "https://www.stcpeninsula.com/volunteer//639110588400000000",
-      "name": "Serve the City Peninsula",
+      "id": "https://habitatpgw.org/home-repair-blitz//639110588400000000",
+      "name": "Habitat for Humanity Peninsula & Greater Williamsburg",
       "category": "Local News",
       "date": "4/6/2026",
       "location": "Newport News, VA",
-      "description": "Volunteer opportunity for July 14-18.",
-      "link": "https://www.stcpeninsula.com/volunteer/"
+      "description": "Volunteer opportunity for May 9.",
+      "link": "https://habitatpgw.org/home-repair-blitz/"
     },
     {
-      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2516/639114336000000000",
-      "name": "Newport News Honored with National Budget Award",
+      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2517/639114330600000000",
+      "name": "City of Newport News Announces Public Hearings for Fiscal Year 2027 Recommended Operating Budget",
       "category": "Local News",
       "date": "4/10/2026",
       "location": "Newport News, VA",
       "description": "",
-      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2516"
+      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2517"
     },
     {
-      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2521/639119501400000000",
-      "name": "City of Newport News Wins 15th Annual North American Granicus Award for Trust and Transparency",
+      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2515/639114333600000000",
+      "name": "Waterworks' Annual Water Quality Reports Are Now Available",
+      "category": "Local News",
+      "date": "4/10/2026",
+      "location": "Newport News, VA",
+      "description": "",
+      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2515"
+    },
+    {
+      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2523/639117982200000000",
+      "name": "Newport News Builds Momentum for Peace During National Youth Violence Prevention Week",
+      "category": "Local News",
+      "date": "4/15/2026",
+      "location": "Newport News, VA",
+      "description": "",
+      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2523"
+    },
+    {
+      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2487/639119496620000000",
+      "name": "City of Newport News Announces New CIO and Director of Finance",
       "category": "Local News",
       "date": "4/16/2026",
       "location": "Newport News, VA",
       "description": "",
-      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2521"
+      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2487"
+    },
+    {
+      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2481/639119496690000000",
+      "name": "City of Newport News Releases First-Ever Comprehensive Community Safety Plan",
+      "category": "Local News",
+      "date": "4/16/2026",
+      "location": "Newport News, VA",
+      "description": "",
+      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2481"
+    },
+    {
+      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2494/639119496740000000",
+      "name": "2025 Year In Review Now Available",
+      "category": "Local News",
+      "date": "4/16/2026",
+      "location": "Newport News, VA",
+      "description": "",
+      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2494"
     }
   ],
   "benefits": [
