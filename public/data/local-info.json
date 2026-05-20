@@ -1,6 +1,105 @@
 {
   "events": [
     {
+      "id": "https://www.nnva.gov/Calendar.aspx?EID=3623/639134840950000000",
+      "name": "Youth Thrive Summer Sign Up Expo",
+      "category": "Events",
+      "date": "5/4/2026",
+      "location": "Newport News, VA",
+      "description": "Event date: May 28, 2026 \nEvent Time: 05:00 PM - 07:30 PM\nLocation: \n570 McLawhorne Drive\nNewport News, VA 23607\nDescription:\nJoin us for a fun, one-stop event where you can plan your child’s entire summer in one place. Meet local organizations, explore programs, and even sign up on the spot! Programs for ages 3 to 24",
+      "link": "https://www.nnva.gov/Calendar.aspx?EID=3623"
+    },
+    {
+      "id": "https://www.nnva.gov/Calendar.aspx?EID=3624/639138234230000000",
+      "name": "Retirement Board Meeting",
+      "category": "Events",
+      "date": "5/8/2026",
+      "location": "Newport News, VA",
+      "description": "Event date: May 28, 2026 \nEvent Time: 09:00 AM - 11:00 AM\nLocation: \n11820 Fountain Way\nSuite 301\nNewport News, VA 23606",
+      "link": "https://www.nnva.gov/Calendar.aspx?EID=3624"
+    },
+    {
+      "id": "https://www.nnva.gov/Calendar.aspx?EID=2288/638205254790000000",
+      "name": "City Council Regular Meeting",
+      "category": "Events",
+      "date": "5/24/2023",
+      "location": "Newport News, VA",
+      "description": "Event date: May 26, 2026 \nEvent Time: 07:00 PM - 10:00 PM\nLocation: \nBehind City Hall\n2400 Washington Ave\nNewport News, VA 23607",
+      "link": "https://www.nnva.gov/Calendar.aspx?EID=2288"
+    },
+    {
+      "id": "https://www.nnva.gov/Calendar.aspx?EID=2345/638205305340000000",
+      "name": "Memorial Day",
+      "category": "Events",
+      "date": "5/24/2023",
+      "location": "Newport News, VA",
+      "description": "Event date: May 25, 2026 \nEvent Time: 08:00 AM - 05:00 PM\nLocation: \nNewport News, VA 23607\nDescription:\nCity offices and libraries closed.",
+      "link": "https://www.nnva.gov/Calendar.aspx?EID=2345"
+    },
+    {
+      "id": "https://www.nnva.gov/Calendar.aspx?EID=3618/639124600100000000",
+      "name": "Hannah J at Tradition Brewing Company",
+      "category": "Events",
+      "date": "4/22/2026",
+      "location": "Newport News, VA",
+      "description": "Event date: May 22, 2026 \nEvent Time: 06:30 PM - 08:30 PM\nLocation: \n700 Thimble Shoals Blvd\nNewport News, VA 23606",
+      "link": "https://www.nnva.gov/Calendar.aspx?EID=3618"
+    },
+    {
+      "id": "https://www.nnva.gov/Calendar.aspx?EID=3606/639122875330000000",
+      "name": "Cure Coffeehouse Open Mic Night",
+      "category": "Events",
+      "date": "4/20/2026",
+      "location": "Newport News, VA",
+      "description": "Event date: May 21, 2026 \nEvent Time: 07:00 PM - 10:00 PM\nLocation: \n706 Town Center Drive\nNewport News, VA 23606",
+      "link": "https://www.nnva.gov/Calendar.aspx?EID=3606"
+    },
+    {
+      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2522/639128904600000000",
+      "name": "Transcript of 2026 State of the City Speech Available",
+      "category": "Local News",
+      "date": "4/27/2026",
+      "location": "Newport News, VA",
+      "description": "",
+      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2522"
+    },
+    {
+      "id": "https://www.nnva.gov/460/639134973600000000",
+      "name": "August 4, 2026 Primary - Early Voting",
+      "category": "Local News",
+      "date": "5/4/2026",
+      "location": "Newport News, VA",
+      "description": "Please see the updated early voting dates for the August 4th Primary.",
+      "link": "https://www.nnva.gov/460"
+    },
+    {
+      "id": "https://www.nnva.gov/492/639134974200000000",
+      "name": "Want to be an Election Official?",
+      "category": "Local News",
+      "date": "5/4/2026",
+      "location": "Newport News, VA",
+      "description": "Now is a great time to consider becoming an election official as salary rates have just increased.",
+      "link": "https://www.nnva.gov/492"
+    },
+    {
+      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2531/639147877200000000",
+      "name": "Parking Updates",
+      "category": "Local News",
+      "date": "5/19/2026",
+      "location": "Newport News, VA",
+      "description": "Parking is limited at the downtown office until 5 PM on May 26th. Both offices are closed at noon on May 22nd. We apologize for any inconvenience this may cause.",
+      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2531"
+    },
+    {
+      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2532/639148596080000000",
+      "name": "Change to Office Hours",
+      "category": "Local News",
+      "date": "5/20/2026",
+      "location": "Newport News, VA",
+      "description": "Due to the upcoming city events, there are changes to both office hours and parking  through May 26th.",
+      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2532"
+    },
+    {
       "id": "https://www.nnva.gov/Calendar.aspx?EID=3619/639124602850000000",
       "name": "Gallery Glass Workshop: Instant Stained Glass",
       "category": "Events",
@@ -35,105 +134,6 @@
       "location": "Newport News, VA",
       "description": "Event date: May 20, 2026 \nEvent Time: 01:00 PM - 03:00 PM\nLocation: \n9710 Jefferson Avenue\n 1st Floor\nNewport News, VA 23607",
       "link": "https://www.nnva.gov/Calendar.aspx?EID=3622"
-    },
-    {
-      "id": "https://www.nnva.gov/Calendar.aspx?EID=3632/639138236300000000",
-      "name": "Committee on Investments Meeting",
-      "category": "Events",
-      "date": "5/8/2026",
-      "location": "Newport News, VA",
-      "description": "Event date: May 20, 2026 \nEvent Time: 09:00 AM - 11:00 AM\nLocation: \n11820 Fountain Way\nSuite 301\nNewport News, VA 23606",
-      "link": "https://www.nnva.gov/Calendar.aspx?EID=3632"
-    },
-    {
-      "id": "https://www.nnva.gov/Calendar.aspx?EID=3511/639045113200000000",
-      "name": "Finance and Governance Committee Meeting",
-      "category": "Events",
-      "date": "1/20/2026",
-      "location": "Newport News, VA",
-      "description": "Event date: May 19, 2026 \nEvent Time: 04:30 PM - 06:00 PM\nLocation: \nCity Hall - 10th Floor\n2400 Washington Ave\nNewport News, VA 23607",
-      "link": "https://www.nnva.gov/Calendar.aspx?EID=3511"
-    },
-    {
-      "id": "https://www.nnva.gov/Calendar.aspx?EID=3490/639031985250000000",
-      "name": "Yellow Collection Day",
-      "category": "Events",
-      "date": "1/5/2026",
-      "location": "Newport News, VA",
-      "description": "Event dates: May 18, 2026 - May 21, 2026\nEvent Time: 12:00 AM - 11:59 PM\nLocation: \nNewport News, VA 23607",
-      "link": "https://www.nnva.gov/Calendar.aspx?EID=3490"
-    },
-    {
-      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2529/639135875730000000",
-      "name": "Newport News Secures $3 Million GO Virginia Grant to Advance Mobility Innovation Center and Aviation",
-      "category": "Local News",
-      "date": "5/5/2026",
-      "location": "Newport News, VA",
-      "description": "",
-      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2529"
-    },
-    {
-      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2530/639137728800000000",
-      "name": "Newport News Declares May 1st Law Day at Packed Inaugural Law Day Open House",
-      "category": "Local News",
-      "date": "5/7/2026",
-      "location": "Newport News, VA",
-      "description": "",
-      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2530"
-    },
-    {
-      "id": "https://www.nnva.gov/Calendar.aspx?EID=3543/639080601760000000",
-      "name": "Stormwater Education Series: Residential Runoff",
-      "category": "Events",
-      "date": "3/2/2026",
-      "location": "Newport News, VA",
-      "description": "Event date: June 1, 2026 \nEvent Time: 01:30 PM - 03:00 PM\nLocation: \n110 Main St\nNewport News, VA 23601",
-      "link": "https://www.nnva.gov/Calendar.aspx?EID=3543"
-    },
-    {
-      "id": "https://www.nnva.gov/Calendar.aspx?EID=3612/639122943830000000",
-      "name": "Are You Ready for It? A Taylor Swift Experience",
-      "category": "Events",
-      "date": "4/20/2026",
-      "location": "Newport News, VA",
-      "description": "Event date: May 29, 2026 \nEvent Time: 08:00 PM - 10:00 PM\nLocation: \n1 Avenue of the Arts\nNewport News, VA 23606",
-      "link": "https://www.nnva.gov/Calendar.aspx?EID=3612"
-    },
-    {
-      "id": "https://www.nnva.gov/Calendar.aspx?EID=3613/639122963010000000",
-      "name": "A Modelmaker’s Journey: Rebuilding USS Monitor’s Propulsion Engines",
-      "category": "Events",
-      "date": "4/20/2026",
-      "location": "Newport News, VA",
-      "description": "Event date: May 29, 2026 \nEvent Time: 10:30 AM - 12:00 PM\nLocation: \n100 Museum Drive\nNewport News, VA 23606",
-      "link": "https://www.nnva.gov/Calendar.aspx?EID=3613"
-    },
-    {
-      "id": "https://www.nnva.gov/Calendar.aspx?EID=3614/639122975020000000",
-      "name": "Encaustics Exploration Workshop",
-      "category": "Events",
-      "date": "4/20/2026",
-      "location": "Newport News, VA",
-      "description": "Event date: May 26, 2026 \nEvent Time: 05:30 PM - 08:30 PM\nLocation: \n1 Avenue of the Arts\nNewport News, VA 23606",
-      "link": "https://www.nnva.gov/Calendar.aspx?EID=3614"
-    },
-    {
-      "id": "https://www.nnva.gov/Calendar.aspx?EID=3462/639031979090000000",
-      "name": "Red Collection Day",
-      "category": "Events",
-      "date": "1/5/2026",
-      "location": "Newport News, VA",
-      "description": "Event dates: May 26, 2026 - May 29, 2026\nEvent Time: 12:00 AM - 11:59 PM\nLocation: \nNewport News, VA 23607",
-      "link": "https://www.nnva.gov/Calendar.aspx?EID=3462"
-    },
-    {
-      "id": "https://www.nnva.gov/Calendar.aspx?EID=3585/639116848780000000",
-      "name": "Red Cross Blood Drive at ​​Hidenwood Presbyterian Church​​",
-      "category": "Events",
-      "date": "4/13/2026",
-      "location": "Newport News, VA",
-      "description": "Event date: May 19, 2026 \nEvent Time: 12:00 PM - 06:00 PM\nLocation: \n414 Hiden Blvd.\nNewport News, VA 23606",
-      "link": "https://www.nnva.gov/Calendar.aspx?EID=3585"
     }
   ],
   "benefits": [
