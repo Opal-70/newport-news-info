@@ -1,6 +1,42 @@
 {
   "events": [
     {
+      "id": "https://www.nnva.gov/Calendar.aspx?EID=3676/639159097460000000",
+      "name": "Roots & Rhythm Marketplace",
+      "category": "Events",
+      "date": "6/1/2026",
+      "location": "Newport News, VA",
+      "description": "Event date: June 13, 2026 \nEvent Time: 10:00 AM - 01:00 PM\nLocation: \n15198 Warwick Blvd.\nNewport News, VA 23607",
+      "link": "https://www.nnva.gov/Calendar.aspx?EID=3676"
+    },
+    {
+      "id": "https://www.nnva.gov/Calendar.aspx?EID=3640/639149992380000000",
+      "name": "Bird Girl Market",
+      "category": "Events",
+      "date": "5/22/2026",
+      "location": "Newport News, VA",
+      "description": "Event date: June 7, 2026 \nEvent Time: 11:00 AM - 03:00 PM\nLocation: \n100 Hopkins St\nNewport News, VA 23601",
+      "link": "https://www.nnva.gov/Calendar.aspx?EID=3640"
+    },
+    {
+      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2529/639135875730000000",
+      "name": "Newport News Secures $3 Million GO Virginia Grant to Advance Mobility Innovation Center and Aviation",
+      "category": "Local News",
+      "date": "5/5/2026",
+      "location": "Newport News, VA",
+      "description": "",
+      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2529"
+    },
+    {
+      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2534/639149630510000000",
+      "name": "Stage 2 Drought Warning",
+      "category": "Local News",
+      "date": "5/21/2026",
+      "location": "Newport News, VA",
+      "description": "Newport News City Manager Alan K. Archer has declared a Stage 2 Drought Warning for the Newport News Waterworks service area...",
+      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2534"
+    },
+    {
       "id": "https://www.nnva.gov/Calendar.aspx?EID=3543/639080601760000000",
       "name": "Stormwater Education Series: Residential Runoff",
       "category": "Events",
@@ -98,42 +134,6 @@
       "location": "Newport News, VA",
       "description": "Event date: May 29, 2026 \nEvent Time: 06:00 PM - 11:00 PM\nLocation: \nMultiple Locations\nDescription:",
       "link": "https://www.nnva.gov/Calendar.aspx?EID=3663"
-    },
-    {
-      "id": "https://www.nnva.gov/Calendar.aspx?EID=3462/639031979090000000",
-      "name": "Red Collection Day",
-      "category": "Events",
-      "date": "1/5/2026",
-      "location": "Newport News, VA",
-      "description": "Event dates: May 26, 2026 - May 29, 2026\nEvent Time: 12:00 AM - 11:59 PM\nLocation: \nNewport News, VA 23607",
-      "link": "https://www.nnva.gov/Calendar.aspx?EID=3462"
-    },
-    {
-      "id": "https://www.nnva.gov/Calendar.aspx?EID=3639/639149968610000000",
-      "name": "Clue - Live on Stage",
-      "category": "Events",
-      "date": "5/22/2026",
-      "location": "Newport News, VA",
-      "description": "Event date: June 4, 2026 \nEvent Time: 07:00 PM - 09:30 PM\nLocation: \n1 Avenue of the Arts\nNewport News, VA 23606\nDescription:\nA mansion. A murder. A mystery.",
-      "link": "https://www.nnva.gov/Calendar.aspx?EID=3639"
-    },
-    {
-      "id": "https://www.nnva.gov/Calendar.aspx?EID=2524/638477492570000000",
-      "name": "Planning Commission Meeting",
-      "category": "Events",
-      "date": "4/3/2024",
-      "location": "Newport News, VA",
-      "description": "Event date: June 3, 2026 \nEvent Time: 02:00 PM - 11:59 PM\nLocation: \nBehind City Hall\n2400 Washington Ave\nNewport News, VA 23607",
-      "link": "https://www.nnva.gov/Calendar.aspx?EID=2524"
-    },
-    {
-      "id": "https://www.nnva.gov/460/639134973600000000",
-      "name": "August 4, 2026 Primary - Early Voting",
-      "category": "Local News",
-      "date": "5/4/2026",
-      "location": "Newport News, VA",
-      "description": "Please see the updated early voting dates for the August 4th Primary.",
-      "link": "https://www.nnva.gov/460"
     }
   ],
   "benefits": [
