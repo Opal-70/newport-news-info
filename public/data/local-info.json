@@ -1,6 +1,60 @@
 {
   "events": [
     {
+      "id": "https://www.nnva.gov/Calendar.aspx?EID=3512/639045113200000000",
+      "name": "Finance and Governance Committee Meeting",
+      "category": "Events",
+      "date": "1/20/2026",
+      "location": "Newport News, VA",
+      "description": "Event date: June 16, 2026 \nEvent Time: 04:30 PM - 06:00 PM\nLocation: \nCity Hall - 10th Floor\n2400 Washington Ave\nNewport News, VA 23607",
+      "link": "https://www.nnva.gov/Calendar.aspx?EID=3512"
+    },
+    {
+      "id": "https://www.nnva.gov/Calendar.aspx?EID=3642/639153472980000000",
+      "name": "Summer Movie Series at Downing-Gross Cultural Arts Center",
+      "category": "Events",
+      "date": "5/26/2026",
+      "location": "Newport News, VA",
+      "description": "Event date: June 16, 2026 \nEvent Time: 02:00 PM - 04:00 PM\nLocation: \n2410 Wickham Ave\nNewport News, VA 23606",
+      "link": "https://www.nnva.gov/Calendar.aspx?EID=3642"
+    },
+    {
+      "id": "https://www.nnva.gov/Calendar.aspx?EID=3463/639031979280000000",
+      "name": "Red Collection Day",
+      "category": "Events",
+      "date": "1/5/2026",
+      "location": "Newport News, VA",
+      "description": "Event dates: June 8, 2026 - June 11, 2026\nEvent Time: 12:00 AM - 11:59 PM\nLocation: \nNewport News, VA 23607",
+      "link": "https://www.nnva.gov/Calendar.aspx?EID=3463"
+    },
+    {
+      "id": "https://www.nnva.gov/Calendar.aspx?EID=3639/639149968610000000",
+      "name": "Clue - Live on Stage",
+      "category": "Events",
+      "date": "5/22/2026",
+      "location": "Newport News, VA",
+      "description": "Event date: June 4, 2026 \nEvent Time: 07:00 PM - 09:30 PM\nLocation: \n1 Avenue of the Arts\nNewport News, VA 23606\nDescription:\nA mansion. A murder. A mystery.",
+      "link": "https://www.nnva.gov/Calendar.aspx?EID=3639"
+    },
+    {
+      "id": "https://www.nnva.gov/Calendar.aspx?EID=2524/638477492570000000",
+      "name": "Planning Commission Meeting",
+      "category": "Events",
+      "date": "4/3/2024",
+      "location": "Newport News, VA",
+      "description": "Event date: June 3, 2026 \nEvent Time: 02:00 PM - 11:59 PM\nLocation: \nBehind City Hall\n2400 Washington Ave\nNewport News, VA 23607",
+      "link": "https://www.nnva.gov/Calendar.aspx?EID=2524"
+    },
+    {
+      "id": "https://www.nnva.gov/460/639134973600000000",
+      "name": "August 4, 2026 Primary - Early Voting",
+      "category": "Local News",
+      "date": "5/4/2026",
+      "location": "Newport News, VA",
+      "description": "Please see the updated early voting dates for the August 4th Primary.",
+      "link": "https://www.nnva.gov/460"
+    },
+    {
       "id": "https://www.nnva.gov/Calendar.aspx?EID=3676/639159097460000000",
       "name": "Roots & Rhythm Marketplace",
       "category": "Events",
@@ -80,60 +134,6 @@
       "location": "Newport News, VA",
       "description": "Event date: June 6, 2026 \nEvent Time: 12:00 PM - 04:00 PM\nLocation: \n700 Thimble Shoals Blvd\nNewport News, VA 23606",
       "link": "https://www.nnva.gov/Calendar.aspx?EID=3657"
-    },
-    {
-      "id": "https://www.nnva.gov/Calendar.aspx?EID=3658/639153432750000000",
-      "name": "Music Bingo Monday",
-      "category": "Events",
-      "date": "5/26/2026",
-      "location": "Newport News, VA",
-      "description": "Event date: June 1, 2026 \nEvent Time: 07:00 PM - 10:00 PM\nLocation: \n700 Thimble Shoals Blvd\nNewport News, VA 23606",
-      "link": "https://www.nnva.gov/Calendar.aspx?EID=3658"
-    },
-    {
-      "id": "https://www.nnva.gov/Calendar.aspx?EID=3491/639031985420000000",
-      "name": "Yellow Collection Day",
-      "category": "Events",
-      "date": "1/5/2026",
-      "location": "Newport News, VA",
-      "description": "Event dates: June 1, 2026 - June 4, 2026\nEvent Time: 12:00 AM - 11:59 PM\nLocation: \nNewport News, VA 23607",
-      "link": "https://www.nnva.gov/Calendar.aspx?EID=3491"
-    },
-    {
-      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2533/639149603940000000",
-      "name": "Newport News Waterworks Encourages Voluntary Water Conservation During Ongoing Dry Conditions",
-      "category": "Local News",
-      "date": "5/21/2026",
-      "location": "Newport News, VA",
-      "description": "",
-      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2533"
-    },
-    {
-      "id": "https://www.nnva.gov/Calendar.aspx?EID=2237/638205253360000000",
-      "name": "City Council Regular Meeting",
-      "category": "Events",
-      "date": "5/24/2023",
-      "location": "Newport News, VA",
-      "description": "Event date: June 9, 2026 \nEvent Time: 07:00 PM - 10:00 PM\nLocation: \nBehind City Hall\n2400 Washington Ave\nNewport News, VA 23607",
-      "link": "https://www.nnva.gov/Calendar.aspx?EID=2237"
-    },
-    {
-      "id": "https://www.nnva.gov/Calendar.aspx?EID=3653/639150666990000000",
-      "name": "Cure Coffeehouse Open Mic Night",
-      "category": "Events",
-      "date": "5/22/2026",
-      "location": "Newport News, VA",
-      "description": "Event date: June 4, 2026 \nEvent Time: 07:00 PM - 10:00 PM\nLocation: \n706 Town Center Drive\nNewport News, VA 23606",
-      "link": "https://www.nnva.gov/Calendar.aspx?EID=3653"
-    },
-    {
-      "id": "https://www.nnva.gov/Calendar.aspx?EID=3663/639156148500000000",
-      "name": "Night Nets",
-      "category": "Events",
-      "date": "5/29/2026",
-      "location": "Newport News, VA",
-      "description": "Event date: May 29, 2026 \nEvent Time: 06:00 PM - 11:00 PM\nLocation: \nMultiple Locations\nDescription:",
-      "link": "https://www.nnva.gov/Calendar.aspx?EID=3663"
     }
   ],
   "benefits": [
