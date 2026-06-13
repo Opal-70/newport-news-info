@@ -1,6 +1,51 @@
 {
   "events": [
     {
+      "id": "https://www.nnva.gov/Calendar.aspx?EID=3666/639156150200000000",
+      "name": "Night Nets",
+      "category": "Events",
+      "date": "5/29/2026",
+      "location": "Newport News, VA",
+      "description": "Event date: June 26, 2026 \nEvent Time: 06:00 PM - 11:00 PM\nLocation: \nMultiple Locations\nDescription:",
+      "link": "https://www.nnva.gov/Calendar.aspx?EID=3666"
+    },
+    {
+      "id": "https://www.nnva.gov/Calendar.aspx?EID=2289/638205254790000000",
+      "name": "City Council Regular Meeting",
+      "category": "Events",
+      "date": "5/24/2023",
+      "location": "Newport News, VA",
+      "description": "Event date: June 23, 2026 \nEvent Time: 07:00 PM - 10:00 PM\nLocation: \nBehind City Hall\n2400 Washington Ave\nNewport News, VA 23607",
+      "link": "https://www.nnva.gov/Calendar.aspx?EID=2289"
+    },
+    {
+      "id": "https://www.nnva.gov/Calendar.aspx?EID=3655/639150666990000000",
+      "name": "Cure Coffeehouse Open Mic Night",
+      "category": "Events",
+      "date": "5/22/2026",
+      "location": "Newport News, VA",
+      "description": "Event date: June 18, 2026 \nEvent Time: 07:00 PM - 10:00 PM\nLocation: \n706 Town Center Drive\nNewport News, VA 23606",
+      "link": "https://www.nnva.gov/Calendar.aspx?EID=3655"
+    },
+    {
+      "id": "https://www.nnva.gov/Calendar.aspx?EID=3660/639153432750000000",
+      "name": "Music Bingo Monday",
+      "category": "Events",
+      "date": "5/26/2026",
+      "location": "Newport News, VA",
+      "description": "Event date: June 15, 2026 \nEvent Time: 07:00 PM - 10:00 PM\nLocation: \n700 Thimble Shoals Blvd\nNewport News, VA 23606",
+      "link": "https://www.nnva.gov/Calendar.aspx?EID=3660"
+    },
+    {
+      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2533/639149603940000000",
+      "name": "Newport News Waterworks Encourages Voluntary Water Conservation During Ongoing Dry Conditions",
+      "category": "Local News",
+      "date": "5/21/2026",
+      "location": "Newport News, VA",
+      "description": "",
+      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2533"
+    },
+    {
       "id": "https://www.nnva.gov/Calendar.aspx?EID=2351/638205306060000000",
       "name": "Juneteenth",
       "category": "Events",
@@ -89,51 +134,6 @@
       "location": "Newport News, VA",
       "description": "",
       "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2538"
-    },
-    {
-      "id": "https://www.nnva.gov/Calendar.aspx?EID=3073/639159078550000000",
-      "name": "Juneteenth Freedom Festival",
-      "category": "Events",
-      "date": "6/1/2026",
-      "location": "Newport News, VA",
-      "description": "Event date: June 20, 2026 \nEvent Time: 05:00 PM - 10:00 PM\nLocation: \n50 26th St\nNewport News, VA 23607",
-      "link": "https://www.nnva.gov/Calendar.aspx?EID=3073"
-    },
-    {
-      "id": "https://www.nnva.gov/Calendar.aspx?EID=3633/639138236610000000",
-      "name": "Committee on Investments Meeting",
-      "category": "Events",
-      "date": "5/8/2026",
-      "location": "Newport News, VA",
-      "description": "Event date: June 17, 2026 \nEvent Time: 09:00 AM - 11:00 AM\nLocation: \n11820 Fountain Way\nSuite 301\nNewport News, VA 23606",
-      "link": "https://www.nnva.gov/Calendar.aspx?EID=3633"
-    },
-    {
-      "id": "https://www.nnva.gov/Calendar.aspx?EID=3492/639031985600000000",
-      "name": "Yellow Collection Day",
-      "category": "Events",
-      "date": "1/5/2026",
-      "location": "Newport News, VA",
-      "description": "Event dates: June 15, 2026 - June 18, 2026\nEvent Time: 12:00 AM - 11:59 PM\nLocation: \nNewport News, VA 23607",
-      "link": "https://www.nnva.gov/Calendar.aspx?EID=3492"
-    },
-    {
-      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2535/639160180200000000",
-      "name": "Introducing VA Deed Alert: Free Property Protection for Newport News Homeowners",
-      "category": "Local News",
-      "date": "6/2/2026",
-      "location": "Newport News, VA",
-      "description": "Protect your Newport News property today for FREE!",
-      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2535"
-    },
-    {
-      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2536/639160710610000000",
-      "name": "Republican Primary - August 4, 2026",
-      "category": "Local News",
-      "date": "6/3/2026",
-      "location": "Newport News, VA",
-      "description": "In-person early voting and ballot drop-off stations for the August 4, 2026, Republican Primary.",
-      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2536"
     }
   ],
   "benefits": [
