@@ -1,6 +1,60 @@
 {
   "events": [
     {
+      "id": "https://www.nnva.gov/Calendar.aspx?EID=3683/639168858760000000",
+      "name": "100th Army Band Performance",
+      "category": "Events",
+      "date": "6/12/2026",
+      "location": "Newport News, VA",
+      "description": "Event date: June 30, 2026 \nEvent Time: 07:00 PM - 11:59 PM\nLocation: \n2410 Wickham Avenue\nNewport News, VA 23607",
+      "link": "https://www.nnva.gov/Calendar.aspx?EID=3683"
+    },
+    {
+      "id": "https://www.nnva.gov/Calendar.aspx?EID=2576/638477493620000000",
+      "name": "Planning Commission Meeting",
+      "category": "Events",
+      "date": "4/3/2024",
+      "location": "Newport News, VA",
+      "description": "Event date: June 17, 2026 \nEvent Time: 02:00 PM - 11:59 PM\nLocation: \nBehind City Hall\n2400 Washington Ave\nNewport News, VA 23607",
+      "link": "https://www.nnva.gov/Calendar.aspx?EID=2576"
+    },
+    {
+      "id": "https://www.nnva.gov/Calendar.aspx?EID=3512/639045113200000000",
+      "name": "Finance and Governance Committee Meeting",
+      "category": "Events",
+      "date": "1/20/2026",
+      "location": "Newport News, VA",
+      "description": "Event date: June 16, 2026 \nEvent Time: 04:30 PM - 06:00 PM\nLocation: \nCity Hall - 10th Floor\n2400 Washington Ave\nNewport News, VA 23607",
+      "link": "https://www.nnva.gov/Calendar.aspx?EID=3512"
+    },
+    {
+      "id": "https://www.nnva.gov/Calendar.aspx?EID=3642/639153472980000000",
+      "name": "Summer Movie Series at Downing-Gross Cultural Arts Center",
+      "category": "Events",
+      "date": "5/26/2026",
+      "location": "Newport News, VA",
+      "description": "Event date: June 16, 2026 \nEvent Time: 02:00 PM - 04:00 PM\nLocation: \n2410 Wickham Ave\nNewport News, VA 23606",
+      "link": "https://www.nnva.gov/Calendar.aspx?EID=3642"
+    },
+    {
+      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2534/639149630510000000",
+      "name": "Stage 2 Drought Warning",
+      "category": "Local News",
+      "date": "5/21/2026",
+      "location": "Newport News, VA",
+      "description": "Newport News City Manager Alan K. Archer has declared a Stage 2 Drought Warning for the Newport News Waterworks service area...",
+      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2534"
+    },
+    {
+      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2539/639171357000000000",
+      "name": "Keeping Summer Safe: Newport News Shares Youth Opportunities & Curfew Information",
+      "category": "Local News",
+      "date": "6/15/2026",
+      "location": "Newport News, VA",
+      "description": "",
+      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2539"
+    },
+    {
       "id": "https://www.nnva.gov/Calendar.aspx?EID=3677/639159099100000000",
       "name": "Roots & Rhythm Marketplace",
       "category": "Events",
@@ -80,60 +134,6 @@
       "location": "Newport News, VA",
       "description": "In-person early voting and ballot drop-off stations for the August 4, 2026, Republican Primary.",
       "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2536"
-    },
-    {
-      "id": "https://www.nnva.gov/Calendar.aspx?EID=3666/639156150200000000",
-      "name": "Night Nets",
-      "category": "Events",
-      "date": "5/29/2026",
-      "location": "Newport News, VA",
-      "description": "Event date: June 26, 2026 \nEvent Time: 06:00 PM - 11:00 PM\nLocation: \nMultiple Locations\nDescription:",
-      "link": "https://www.nnva.gov/Calendar.aspx?EID=3666"
-    },
-    {
-      "id": "https://www.nnva.gov/Calendar.aspx?EID=2289/638205254790000000",
-      "name": "City Council Regular Meeting",
-      "category": "Events",
-      "date": "5/24/2023",
-      "location": "Newport News, VA",
-      "description": "Event date: June 23, 2026 \nEvent Time: 07:00 PM - 10:00 PM\nLocation: \nBehind City Hall\n2400 Washington Ave\nNewport News, VA 23607",
-      "link": "https://www.nnva.gov/Calendar.aspx?EID=2289"
-    },
-    {
-      "id": "https://www.nnva.gov/Calendar.aspx?EID=3655/639150666990000000",
-      "name": "Cure Coffeehouse Open Mic Night",
-      "category": "Events",
-      "date": "5/22/2026",
-      "location": "Newport News, VA",
-      "description": "Event date: June 18, 2026 \nEvent Time: 07:00 PM - 10:00 PM\nLocation: \n706 Town Center Drive\nNewport News, VA 23606",
-      "link": "https://www.nnva.gov/Calendar.aspx?EID=3655"
-    },
-    {
-      "id": "https://www.nnva.gov/Calendar.aspx?EID=3660/639153432750000000",
-      "name": "Music Bingo Monday",
-      "category": "Events",
-      "date": "5/26/2026",
-      "location": "Newport News, VA",
-      "description": "Event date: June 15, 2026 \nEvent Time: 07:00 PM - 10:00 PM\nLocation: \n700 Thimble Shoals Blvd\nNewport News, VA 23606",
-      "link": "https://www.nnva.gov/Calendar.aspx?EID=3660"
-    },
-    {
-      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2533/639149603940000000",
-      "name": "Newport News Waterworks Encourages Voluntary Water Conservation During Ongoing Dry Conditions",
-      "category": "Local News",
-      "date": "5/21/2026",
-      "location": "Newport News, VA",
-      "description": "",
-      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2533"
-    },
-    {
-      "id": "https://www.nnva.gov/Calendar.aspx?EID=2351/638205306060000000",
-      "name": "Juneteenth",
-      "category": "Events",
-      "date": "5/24/2023",
-      "location": "Newport News, VA",
-      "description": "Event date: June 19, 2026 \nEvent Time: 08:00 AM - 05:00 PM\nLocation: \nNewport News, VA 23607\nDescription:\nCity offices and libraries closed.",
-      "link": "https://www.nnva.gov/Calendar.aspx?EID=2351"
     }
   ],
   "benefits": [
