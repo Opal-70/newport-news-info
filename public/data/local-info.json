@@ -1,6 +1,42 @@
 {
   "events": [
     {
+      "id": "https://www.nnva.gov/Calendar.aspx?EID=3625/639138234230000000",
+      "name": "Retirement Board Meeting",
+      "category": "Events",
+      "date": "5/8/2026",
+      "location": "Newport News, VA",
+      "description": "Event date: June 25, 2026 \nEvent Time: 09:00 AM - 11:00 AM\nLocation: \n11820 Fountain Way\nSuite 301\nNewport News, VA 23606",
+      "link": "https://www.nnva.gov/Calendar.aspx?EID=3625"
+    },
+    {
+      "id": "https://www.nnva.gov/Calendar.aspx?EID=3643/639150665990000000",
+      "name": "Summer Movie Series at Downing-Gross Cultural Arts Center",
+      "category": "Events",
+      "date": "5/22/2026",
+      "location": "Newport News, VA",
+      "description": "Event date: June 23, 2026 \nEvent Time: 02:00 PM - 04:00 PM\nLocation: \n2410 Wickham Ave\nNewport News, VA 23606",
+      "link": "https://www.nnva.gov/Calendar.aspx?EID=3643"
+    },
+    {
+      "id": "https://www.nnva.gov/Calendar.aspx?EID=3464/639031979460000000",
+      "name": "Red Collection Day",
+      "category": "Events",
+      "date": "1/5/2026",
+      "location": "Newport News, VA",
+      "description": "Event dates: June 22, 2026 - June 25, 2026\nEvent Time: 12:00 AM - 11:59 PM\nLocation: \nNewport News, VA 23607",
+      "link": "https://www.nnva.gov/Calendar.aspx?EID=3464"
+    },
+    {
+      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2539/639173798400000000",
+      "name": "Keeping Summer Safe: Newport News Shares Youth Opportunities & Curfew Information",
+      "category": "Local News",
+      "date": "6/18/2026",
+      "location": "Newport News, VA",
+      "description": "",
+      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2539"
+    },
+    {
       "id": "https://www.nnva.gov/Calendar.aspx?EID=3493/639031985790000000",
       "name": "Yellow Collection Day",
       "category": "Events",
@@ -98,42 +134,6 @@
       "location": "Newport News, VA",
       "description": "Event date: June 22, 2026 \nEvent Time: 07:00 PM - 10:00 PM\nLocation: \n700 Thimble Shoals Blvd\nNewport News, VA 23606",
       "link": "https://www.nnva.gov/Calendar.aspx?EID=3661"
-    },
-    {
-      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2533/639149603940000000",
-      "name": "Newport News Waterworks Encourages Voluntary Water Conservation During Ongoing Dry Conditions",
-      "category": "Local News",
-      "date": "5/21/2026",
-      "location": "Newport News, VA",
-      "description": "",
-      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2533"
-    },
-    {
-      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2540/639172135800000000",
-      "name": "Kitten Shower",
-      "category": "Local News",
-      "date": "6/16/2026",
-      "location": "Newport News, VA",
-      "description": "Help us prepare for and celebrate our newest arrivals with much-needed donations and supplies for kittens in care!",
-      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2540"
-    },
-    {
-      "id": "https://www.nnva.gov/Calendar.aspx?EID=2357/639168709450000000",
-      "name": "Independence Day Observed",
-      "category": "Events",
-      "date": "6/12/2026",
-      "location": "Newport News, VA",
-      "description": "Event date: July 3, 2026 \nEvent Time: 08:00 AM - 05:00 PM\nLocation: \nNewport News, VA 23607\nDescription:\nCity offices and libraries closed.",
-      "link": "https://www.nnva.gov/Calendar.aspx?EID=2357"
-    },
-    {
-      "id": "https://www.nnva.gov/Calendar.aspx?EID=3677/639159099100000000",
-      "name": "Roots & Rhythm Marketplace",
-      "category": "Events",
-      "date": "6/1/2026",
-      "location": "Newport News, VA",
-      "description": "Event date: June 27, 2026 \nEvent Time: 10:00 AM - 01:00 PM\nLocation: \n15198 Warwick Blvd.\nNewport News, VA 23607",
-      "link": "https://www.nnva.gov/Calendar.aspx?EID=3677"
     }
   ],
   "benefits": [
