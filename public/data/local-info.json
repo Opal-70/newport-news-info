@@ -1,6 +1,114 @@
 {
   "events": [
     {
+      "id": "https://www.nnva.gov/Calendar.aspx?EID=3667/639156151400000000",
+      "name": "Night Nets",
+      "category": "Events",
+      "date": "5/29/2026",
+      "location": "Newport News, VA",
+      "description": "Event date: July 10, 2026 \nEvent Time: 06:00 PM - 11:00 PM\nLocation: \nMultiple Locations\nDescription:",
+      "link": "https://www.nnva.gov/Calendar.aspx?EID=3667"
+    },
+    {
+      "id": "https://www.nnva.gov/Calendar.aspx?EID=3645/639153472980000000",
+      "name": "Summer Movie Series at Downing-Gross Cultural Arts Center",
+      "category": "Events",
+      "date": "5/26/2026",
+      "location": "Newport News, VA",
+      "description": "Event date: July 7, 2026 \nEvent Time: 02:00 PM - 04:00 PM\nLocation: \n2410 Wickham Ave\nNewport News, VA 23606",
+      "link": "https://www.nnva.gov/Calendar.aspx?EID=3645"
+    },
+    {
+      "id": "https://www.nnva.gov/Calendar.aspx?EID=3674/639159089120000000",
+      "name": "Stars in the Sky",
+      "category": "Events",
+      "date": "6/1/2026",
+      "location": "Newport News, VA",
+      "description": "Event date: July 4, 2026 \nEvent Time: 06:00 PM - 09:15 PM\nLocation: \n50 26th St\nNewport News, VA 23607",
+      "link": "https://www.nnva.gov/Calendar.aspx?EID=3674"
+    },
+    {
+      "id": "https://www.nnva.gov/Calendar.aspx?EID=2357/639168709450000000",
+      "name": "Independence Day Observed",
+      "category": "Events",
+      "date": "6/12/2026",
+      "location": "Newport News, VA",
+      "description": "Event date: July 3, 2026 \nEvent Time: 08:00 AM - 05:00 PM\nLocation: \nNewport News, VA 23607\nDescription:\nCity offices and libraries closed.",
+      "link": "https://www.nnva.gov/Calendar.aspx?EID=2357"
+    },
+    {
+      "id": "https://www.nnva.gov/Calendar.aspx?EID=2525/638477492570000000",
+      "name": "Planning Commission Meeting",
+      "category": "Events",
+      "date": "4/3/2024",
+      "location": "Newport News, VA",
+      "description": "Event date: July 1, 2026 \nEvent Time: 02:00 PM - 11:59 PM\nLocation: \nBehind City Hall\n2400 Washington Ave\nNewport News, VA 23607",
+      "link": "https://www.nnva.gov/Calendar.aspx?EID=2525"
+    },
+    {
+      "id": "https://www.nnva.gov/Calendar.aspx?EID=3493/639031985790000000",
+      "name": "Yellow Collection Day",
+      "category": "Events",
+      "date": "1/5/2026",
+      "location": "Newport News, VA",
+      "description": "Event dates: July 1, 2026 - July 2, 2026\nEvent Time: 12:00 AM - 11:59 PM\nLocation: \nNewport News, VA 23607",
+      "link": "https://www.nnva.gov/Calendar.aspx?EID=3493"
+    },
+    {
+      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2535/639160180200000000",
+      "name": "Introducing VA Deed Alert: Free Property Protection for Newport News Homeowners",
+      "category": "Local News",
+      "date": "6/2/2026",
+      "location": "Newport News, VA",
+      "description": "Protect your Newport News property today for FREE!",
+      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2535"
+    },
+    {
+      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2539/639173798400000000",
+      "name": "Keeping Summer Safe: Newport News Shares Youth Opportunities & Curfew Information",
+      "category": "Local News",
+      "date": "6/18/2026",
+      "location": "Newport News, VA",
+      "description": "",
+      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2539"
+    },
+    {
+      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2542/639177984000000000",
+      "name": "Empty the Shelters",
+      "category": "Local News",
+      "date": "6/23/2026",
+      "location": "Newport News, VA",
+      "description": "PRAS is thrilled to announce that we’ll be participating in the upcoming Bissell Pet Foundation Empty the Shelters promotion from July 5-26!",
+      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2542"
+    },
+    {
+      "id": "https://www.nnva.gov/ImageRepository/Document?documentID=44950/639179712600000000",
+      "name": "Adult Cat Adoptions - Founding Felines",
+      "category": "Local News",
+      "date": "6/25/2026",
+      "location": "Newport News, VA",
+      "description": "A distinguished group known only as The Founding Felines has announced they are no longer accepting life in the shelter… and are actively seeking forever homes.",
+      "link": "https://www.nnva.gov/ImageRepository/Document?documentID=44950"
+    },
+    {
+      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2547/639180735000000000",
+      "name": "Empty The Shelters Returns, July 5-26",
+      "category": "Local News",
+      "date": "6/26/2026",
+      "location": "Newport News, VA",
+      "description": "",
+      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2547"
+    },
+    {
+      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2548/639180758780000000",
+      "name": "250 Rewind: Newport News Museums Offering FREE Admission",
+      "category": "Local News",
+      "date": "6/26/2026",
+      "location": "Newport News, VA",
+      "description": "",
+      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2548"
+    },
+    {
       "id": "https://www.nnva.gov/Calendar.aspx?EID=2238/638205253360000000",
       "name": "City Council Regular Meeting",
       "category": "Events",
@@ -26,114 +134,6 @@
       "location": "Newport News, VA",
       "description": "In-person early voting and ballot drop-off stations for the August 4, 2026, Republican Primary.",
       "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2536"
-    },
-    {
-      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2538/639162817200000000",
-      "name": "Communities Compete to Save Lives During 29th Annual Mayor's Cup Blood Drive",
-      "category": "Local News",
-      "date": "6/5/2026",
-      "location": "Newport News, VA",
-      "description": "",
-      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2538"
-    },
-    {
-      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2505/639178240310000000",
-      "name": "City of Newport News Launches \"Good Neighbor Patrol Vehicle\"",
-      "category": "Local News",
-      "date": "6/23/2026",
-      "location": "Newport News, VA",
-      "description": "",
-      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2505"
-    },
-    {
-      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2509/639178240570000000",
-      "name": "City of Newport News Announces Demolition of Sherwood Shopping Center to Make Way for New Library",
-      "category": "Local News",
-      "date": "6/23/2026",
-      "location": "Newport News, VA",
-      "description": "",
-      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2509"
-    },
-    {
-      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2511/639178240660000000",
-      "name": "City of Newport News Provides Update on Hilton and Monitor-Merrimac Overlook Park Piers Replacement",
-      "category": "Local News",
-      "date": "6/23/2026",
-      "location": "Newport News, VA",
-      "description": "",
-      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2511"
-    },
-    {
-      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2515/639178240760000000",
-      "name": "Waterworks' Annual Water Quality Reports Are Now Available",
-      "category": "Local News",
-      "date": "6/23/2026",
-      "location": "Newport News, VA",
-      "description": "",
-      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2515"
-    },
-    {
-      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2544/639179063340000000",
-      "name": "Free Webinar Monday 6/29/26: Understanding Virginia's New Sealing Legislation",
-      "category": "Local News",
-      "date": "6/24/2026",
-      "location": "Newport News, VA",
-      "description": "",
-      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2544"
-    },
-    {
-      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2546/639180733800000000",
-      "name": "EXPLORE OPPORTUNITY AT THE NEWPORT NEWS OPPORTUNITY CENTER COMMUNITY OPEN HOUSE",
-      "category": "Local News",
-      "date": "6/26/2026",
-      "location": "Newport News, VA",
-      "description": "",
-      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2546"
-    },
-    {
-      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2549/639183338780000000",
-      "name": "Next Meeting",
-      "category": "Local News",
-      "date": "6/29/2026",
-      "location": "Newport News, VA",
-      "description": "The Newport News Electoral Board will meet July 7, 2026, at 11:00 AM in the office of the General Registrar.",
-      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2549"
-    },
-    {
-      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2550/639183445800000000",
-      "name": "City of Newport News Shares Findings of Disparity Study",
-      "category": "Local News",
-      "date": "6/29/2026",
-      "location": "Newport News, VA",
-      "description": "",
-      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2550"
-    },
-    {
-      "id": "https://www.nnva.gov/Calendar.aspx?EID=3678/639159101080000000",
-      "name": "Roots & Rhythm Marketplace",
-      "category": "Events",
-      "date": "6/1/2026",
-      "location": "Newport News, VA",
-      "description": "Event date: July 11, 2026 \nEvent Time: 10:00 AM - 01:00 PM\nLocation: \n15198 Warwick Blvd.\nNewport News, VA 23607",
-      "link": "https://www.nnva.gov/Calendar.aspx?EID=3678"
-    },
-    {
-      "id": "https://www.nnva.gov/Calendar.aspx?EID=3685/639183162620000000",
-      "name": "Electoral Board Meeting",
-      "category": "Events",
-      "date": "6/29/2026",
-      "location": "Newport News, VA",
-      "description": "Event date: July 7, 2026 \nEvent Time: 09:00 AM - 10:00 AM\nLocation: \n2400 Washington Ave\nNewport News, VA 23607",
-      "link": "https://www.nnva.gov/Calendar.aspx?EID=3685"
-    },
-    {
-      "id": "https://www.nnva.gov/Calendar.aspx?EID=3465/639031979650000000",
-      "name": "Red Collection Day",
-      "category": "Events",
-      "date": "1/5/2026",
-      "location": "Newport News, VA",
-      "description": "Event dates: July 6, 2026 - July 9, 2026\nEvent Time: 12:00 AM - 11:59 PM\nLocation: \nNewport News, VA 23607",
-      "link": "https://www.nnva.gov/Calendar.aspx?EID=3465"
     }
   ],
   "benefits": [
