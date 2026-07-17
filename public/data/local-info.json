@@ -1,6 +1,42 @@
 {
   "events": [
     {
+      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2511/639178240660000000",
+      "name": "City of Newport News Provides Update on Hilton and Monitor-Merrimac Overlook Park Piers Replacement",
+      "category": "Local News",
+      "date": "6/23/2026",
+      "location": "Newport News, VA",
+      "description": "",
+      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2511"
+    },
+    {
+      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2515/639178240760000000",
+      "name": "Waterworks' Annual Water Quality Reports Are Now Available",
+      "category": "Local News",
+      "date": "6/23/2026",
+      "location": "Newport News, VA",
+      "description": "",
+      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2515"
+    },
+    {
+      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2546/639180733800000000",
+      "name": "EXPLORE OPPORTUNITY AT THE NEWPORT NEWS OPPORTUNITY CENTER COMMUNITY OPEN HOUSE",
+      "category": "Local News",
+      "date": "6/26/2026",
+      "location": "Newport News, VA",
+      "description": "",
+      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2546"
+    },
+    {
+      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2548/639180758780000000",
+      "name": "250 Rewind: Newport News Museums Offering FREE Admission",
+      "category": "Local News",
+      "date": "6/26/2026",
+      "location": "Newport News, VA",
+      "description": "",
+      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2548"
+    },
+    {
       "id": "https://www.nnva.gov/Calendar.aspx?EID=3626/639138234230000000",
       "name": "Retirement Board Meeting",
       "category": "Events",
@@ -98,42 +134,6 @@
       "location": "Newport News, VA",
       "description": "Read the independent economic impact study and an accompanying summary of material expenditures for NOODLE: The Thinkers Convention, the inaugural culture, business, and innovation event held across downtown Newport News over Memorial Day Weekend 2026.",
       "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2557"
-    },
-    {
-      "id": "https://www.nnva.gov/Calendar.aspx?EID=2577/638477493620000000",
-      "name": "Planning Commission Meeting",
-      "category": "Events",
-      "date": "4/3/2024",
-      "location": "Newport News, VA",
-      "description": "Event date: July 15, 2026 \nEvent Time: 02:00 PM - 11:59 PM\nLocation: \nBehind City Hall\n2400 Washington Ave\nNewport News, VA 23607",
-      "link": "https://www.nnva.gov/Calendar.aspx?EID=2577"
-    },
-    {
-      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2505/639178240310000000",
-      "name": "City of Newport News Launches \"Good Neighbor Patrol Vehicle\"",
-      "category": "Local News",
-      "date": "6/23/2026",
-      "location": "Newport News, VA",
-      "description": "",
-      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2505"
-    },
-    {
-      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2509/639178240570000000",
-      "name": "City of Newport News Announces Demolition of Sherwood Shopping Center to Make Way for New Library",
-      "category": "Local News",
-      "date": "6/23/2026",
-      "location": "Newport News, VA",
-      "description": "",
-      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2509"
-    },
-    {
-      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2547/639180735000000000",
-      "name": "Empty The Shelters Returns, July 5-26",
-      "category": "Local News",
-      "date": "6/26/2026",
-      "location": "Newport News, VA",
-      "description": "",
-      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2547"
     }
   ],
   "benefits": [
