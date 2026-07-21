@@ -1,6 +1,51 @@
 {
   "events": [
     {
+      "id": "https://www.nnva.gov/Calendar.aspx?EID=3495/639031986520000000",
+      "name": "Yellow Collection Day",
+      "category": "Events",
+      "date": "1/5/2026",
+      "location": "Newport News, VA",
+      "description": "Event dates: July 27, 2026 - July 30, 2026\nEvent Time: 12:00 AM - 11:59 PM\nLocation: \nNewport News, VA 23607",
+      "link": "https://www.nnva.gov/Calendar.aspx?EID=3495"
+    },
+    {
+      "id": "https://www.nnva.gov/Calendar.aspx?EID=3680/639159147160000000",
+      "name": "Roots & Rhythm Marketplace",
+      "category": "Events",
+      "date": "6/1/2026",
+      "location": "Newport News, VA",
+      "description": "Event date: July 25, 2026 \nEvent Time: 10:00 AM - 01:00 PM\nLocation: \n600 Jefferson Avenue\nNewport News, VA 23607",
+      "link": "https://www.nnva.gov/Calendar.aspx?EID=3680"
+    },
+    {
+      "id": "https://www.nnva.gov/Calendar.aspx?EID=3706/639201635540000000",
+      "name": "Community Health Bus - the Denbigh Community Center",
+      "category": "Events",
+      "date": "7/20/2026",
+      "location": "Newport News, VA",
+      "description": "Event date: July 23, 2026 \nEvent Time: 10:00 AM - 02:00 PM\nLocation: \n15198 Warwick Blvd.\nNewport News, VA 23607",
+      "link": "https://www.nnva.gov/Calendar.aspx?EID=3706"
+    },
+    {
+      "id": "https://www.nnva.gov/Calendar.aspx?EID=3647/639153472980000000",
+      "name": "Summer Movie Series at Downing-Gross Cultural Arts Center",
+      "category": "Events",
+      "date": "5/26/2026",
+      "location": "Newport News, VA",
+      "description": "Event date: July 21, 2026 \nEvent Time: 02:00 PM - 04:00 PM\nLocation: \n2410 Wickham Ave\nNewport News, VA 23606",
+      "link": "https://www.nnva.gov/Calendar.aspx?EID=3647"
+    },
+    {
+      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2550/639183445800000000",
+      "name": "City of Newport News Shares Findings of Disparity Study",
+      "category": "Local News",
+      "date": "6/29/2026",
+      "location": "Newport News, VA",
+      "description": "",
+      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2550"
+    },
+    {
       "id": "https://www.nnva.gov/Calendar.aspx?EID=3513/639045113200000000",
       "name": "Finance and Governance Committee Meeting",
       "category": "Events",
@@ -89,51 +134,6 @@
       "location": "Newport News, VA",
       "description": "",
       "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2547"
-    },
-    {
-      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2511/639178240660000000",
-      "name": "City of Newport News Provides Update on Hilton and Monitor-Merrimac Overlook Park Piers Replacement",
-      "category": "Local News",
-      "date": "6/23/2026",
-      "location": "Newport News, VA",
-      "description": "",
-      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2511"
-    },
-    {
-      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2515/639178240760000000",
-      "name": "Waterworks' Annual Water Quality Reports Are Now Available",
-      "category": "Local News",
-      "date": "6/23/2026",
-      "location": "Newport News, VA",
-      "description": "",
-      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2515"
-    },
-    {
-      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2546/639180733800000000",
-      "name": "EXPLORE OPPORTUNITY AT THE NEWPORT NEWS OPPORTUNITY CENTER COMMUNITY OPEN HOUSE",
-      "category": "Local News",
-      "date": "6/26/2026",
-      "location": "Newport News, VA",
-      "description": "",
-      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2546"
-    },
-    {
-      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2548/639180758780000000",
-      "name": "250 Rewind: Newport News Museums Offering FREE Admission",
-      "category": "Local News",
-      "date": "6/26/2026",
-      "location": "Newport News, VA",
-      "description": "",
-      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2548"
-    },
-    {
-      "id": "https://www.nnva.gov/Calendar.aspx?EID=3626/639138234230000000",
-      "name": "Retirement Board Meeting",
-      "category": "Events",
-      "date": "5/8/2026",
-      "location": "Newport News, VA",
-      "description": "Event date: July 30, 2026 \nEvent Time: 09:00 AM - 11:00 AM\nLocation: \n11820 Fountain Way\nSuite 301\nNewport News, VA 23606",
-      "link": "https://www.nnva.gov/Calendar.aspx?EID=3626"
     }
   ],
   "benefits": [
