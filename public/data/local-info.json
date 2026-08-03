@@ -1,6 +1,15 @@
 {
   "events": [
     {
+      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2560/639213433140000000",
+      "name": "Republican Primary - Canvass Results & Provisional Ballots",
+      "category": "Local News",
+      "date": "8/3/2026",
+      "location": "Newport News, VA",
+      "description": "The Newport News Electoral Board will convene on August 5, 2026, at the Brentwood facility, located at 10516 Jefferson Ave., at 10:00 AM to canvass the election results from the Republican Primary held on August 4, 2026.",
+      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2560"
+    },
+    {
       "id": "https://www.nnva.gov/Calendar.aspx?EID=3671/639156151400000000",
       "name": "Night Nets",
       "category": "Events",
@@ -125,15 +134,6 @@
       "location": "Newport News, VA",
       "description": "",
       "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2551"
-    },
-    {
-      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2558/639201343220000000",
-      "name": "Upcoming Electoral Board Meeting",
-      "category": "Local News",
-      "date": "7/20/2026",
-      "location": "Newport News, VA",
-      "description": "The Electoral Board will have a public meeting on July 24, 2026, at 10:00 AM for the purpose of going into closed session for a personnel matter.",
-      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2558"
     }
   ],
   "benefits": [
