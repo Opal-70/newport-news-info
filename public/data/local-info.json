@@ -1,6 +1,33 @@
 {
   "events": [
     {
+      "id": "https://www.nnva.gov/Calendar.aspx?EID=2578/638477493620000000",
+      "name": "Planning Commission Meeting",
+      "category": "Events",
+      "date": "4/3/2024",
+      "location": "Newport News, VA",
+      "description": "Event date: August 19, 2026 \nEvent Time: 02:00 PM - 11:59 PM\nLocation: \nBehind City Hall\n2400 Washington Ave\nNewport News, VA 23607",
+      "link": "https://www.nnva.gov/Calendar.aspx?EID=2578"
+    },
+    {
+      "id": "https://www.nnva.gov/Calendar.aspx?EID=3496/639031986790000000",
+      "name": "Yellow Collection Day",
+      "category": "Events",
+      "date": "1/5/2026",
+      "location": "Newport News, VA",
+      "description": "Event dates: August 10, 2026 - August 13, 2026\nEvent Time: 12:00 AM - 11:59 PM\nLocation: \nNewport News, VA 23607",
+      "link": "https://www.nnva.gov/Calendar.aspx?EID=3496"
+    },
+    {
+      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2546/639216945600000000",
+      "name": "Explore Opportunity at the Newport News Opportunity Center Community Open House",
+      "category": "Local News",
+      "date": "8/7/2026",
+      "location": "Newport News, VA",
+      "description": "",
+      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2546"
+    },
+    {
       "id": "https://www.nnva.gov/Calendar.aspx?EID=3468/639031980240000000",
       "name": "Red Collection Day",
       "category": "Events",
@@ -107,33 +134,6 @@
       "location": "Newport News, VA",
       "description": "Event date: August 7, 2026 \nEvent Time: 06:00 PM - 11:00 PM\nLocation: \nMultiple Locations\nDescription:",
       "link": "https://www.nnva.gov/Calendar.aspx?EID=3671"
-    },
-    {
-      "id": "https://www.nnva.gov/Calendar.aspx?EID=3552/639080631140000000",
-      "name": "Stormwater Education Series: Stormwater Management",
-      "category": "Events",
-      "date": "3/2/2026",
-      "location": "Newport News, VA",
-      "description": "Event date: August 14, 2026 \nEvent Time: 01:30 PM - 03:00 PM\nLocation: \n366 DeShazor Dr.\nNewport News, VA 23608",
-      "link": "https://www.nnva.gov/Calendar.aspx?EID=3552"
-    },
-    {
-      "id": "https://www.nnva.gov/Calendar.aspx?EID=2239/638205253360000000",
-      "name": "City Council Regular Meeting",
-      "category": "Events",
-      "date": "5/24/2023",
-      "location": "Newport News, VA",
-      "description": "Event date: August 11, 2026 \nEvent Time: 07:00 PM - 10:00 PM\nLocation: \nBehind City Hall\n2400 Washington Ave\nNewport News, VA 23607",
-      "link": "https://www.nnva.gov/Calendar.aspx?EID=2239"
-    },
-    {
-      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2557/639191013600000000",
-      "name": "Independent Economic Impact Study for Noodle Convention",
-      "category": "Local News",
-      "date": "7/8/2026",
-      "location": "Newport News, VA",
-      "description": "Read the independent economic impact study and an accompanying summary of material expenditures for NOODLE: The Thinkers Convention, the inaugural culture, business, and innovation event held across downtown Newport News over Memorial Day Weekend 2026.",
-      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2557"
     }
   ],
   "benefits": [
