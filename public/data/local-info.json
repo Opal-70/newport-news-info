@@ -1,6 +1,24 @@
 {
   "events": [
     {
+      "id": "https://www.nnva.gov/Calendar.aspx?EID=3552/639080631140000000",
+      "name": "Stormwater Education Series: Stormwater Management",
+      "category": "Events",
+      "date": "3/2/2026",
+      "location": "Newport News, VA",
+      "description": "Event date: August 14, 2026 \nEvent Time: 01:30 PM - 03:00 PM\nLocation: \n366 DeShazor Dr.\nNewport News, VA 23608",
+      "link": "https://www.nnva.gov/Calendar.aspx?EID=3552"
+    },
+    {
+      "id": "https://www.nnva.gov/Calendar.aspx?EID=2239/639209226020000000",
+      "name": "City Council Regular Meeting",
+      "category": "Events",
+      "date": "7/29/2026",
+      "location": "Newport News, VA",
+      "description": "Event date: August 11, 2026 \nEvent Time: 07:00 PM - 09:00 PM\nLocation: \nChristopher Newport University Gaines Theater\n1 University Place\nNewport News, VA 23607",
+      "link": "https://www.nnva.gov/Calendar.aspx?EID=2239"
+    },
+    {
       "id": "https://www.nnva.gov/Calendar.aspx?EID=2578/638477493620000000",
       "name": "Planning Commission Meeting",
       "category": "Events",
@@ -116,24 +134,6 @@
       "location": "Newport News, VA",
       "description": "Event date: August 18, 2026 \nEvent Time: 04:30 PM - 06:00 PM\nLocation: \nCity Hall - 10th Floor\n2400 Washington Ave\nNewport News, VA 23607",
       "link": "https://www.nnva.gov/Calendar.aspx?EID=3514"
-    },
-    {
-      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2560/639213433140000000",
-      "name": "Republican Primary - Canvass Results & Provisional Ballots",
-      "category": "Local News",
-      "date": "8/3/2026",
-      "location": "Newport News, VA",
-      "description": "The Newport News Electoral Board will convene on August 5, 2026, at the Brentwood facility, located at 10516 Jefferson Ave., at 10:00 AM to canvass the election results from the Republican Primary held on August 4, 2026.",
-      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2560"
-    },
-    {
-      "id": "https://www.nnva.gov/Calendar.aspx?EID=3671/639156151400000000",
-      "name": "Night Nets",
-      "category": "Events",
-      "date": "5/29/2026",
-      "location": "Newport News, VA",
-      "description": "Event date: August 7, 2026 \nEvent Time: 06:00 PM - 11:00 PM\nLocation: \nMultiple Locations\nDescription:",
-      "link": "https://www.nnva.gov/Calendar.aspx?EID=3671"
     }
   ],
   "benefits": [
