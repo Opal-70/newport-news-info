@@ -1,6 +1,15 @@
 {
   "events": [
     {
+      "id": "https://www.nnva.gov/Calendar.aspx?EID=3672/639156151400000000",
+      "name": "Night Nets",
+      "category": "Events",
+      "date": "5/29/2026",
+      "location": "Newport News, VA",
+      "description": "Event date: August 14, 2026 \nEvent Time: 06:00 PM - 11:00 PM\nLocation: \nMultiple Locations\nDescription:",
+      "link": "https://www.nnva.gov/Calendar.aspx?EID=3672"
+    },
+    {
       "id": "https://www.nnva.gov/Calendar.aspx?EID=3552/639080631140000000",
       "name": "Stormwater Education Series: Stormwater Management",
       "category": "Events",
@@ -125,15 +134,6 @@
       "location": "Newport News, VA",
       "description": "Event date: August 19, 2026 \nEvent Time: 09:00 AM - 11:00 AM\nLocation: \n11820 Fountain Way\nSuite 301\nNewport News, VA 23606",
       "link": "https://www.nnva.gov/Calendar.aspx?EID=3634"
-    },
-    {
-      "id": "https://www.nnva.gov/Calendar.aspx?EID=3514/639045113200000000",
-      "name": "Finance and Governance Committee Meeting",
-      "category": "Events",
-      "date": "1/20/2026",
-      "location": "Newport News, VA",
-      "description": "Event date: August 18, 2026 \nEvent Time: 04:30 PM - 06:00 PM\nLocation: \nCity Hall - 10th Floor\n2400 Washington Ave\nNewport News, VA 23607",
-      "link": "https://www.nnva.gov/Calendar.aspx?EID=3514"
     }
   ],
   "benefits": [
