@@ -1,6 +1,24 @@
 {
   "events": [
     {
+      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2533/639216943800000000",
+      "name": "Newport News Waterworks Encourages Voluntary Water Conservation During Ongoing Dry Conditions",
+      "category": "Local News",
+      "date": "8/7/2026",
+      "location": "Newport News, VA",
+      "description": "",
+      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2533"
+    },
+    {
+      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2538/639216943800000000",
+      "name": "Communities Compete to Save Lives During 29th Annual Mayor's Cup Blood Drive",
+      "category": "Local News",
+      "date": "8/7/2026",
+      "location": "Newport News, VA",
+      "description": "",
+      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2538"
+    },
+    {
       "id": "https://www.nnva.gov/Calendar.aspx?EID=3651/639153472980000000",
       "name": "Summer Movie Series at Downing-Gross Cultural Arts Center",
       "category": "Events",
@@ -116,24 +134,6 @@
       "location": "Newport News, VA",
       "description": "",
       "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2546"
-    },
-    {
-      "id": "https://www.nnva.gov/Calendar.aspx?EID=3468/639031980240000000",
-      "name": "Red Collection Day",
-      "category": "Events",
-      "date": "1/5/2026",
-      "location": "Newport News, VA",
-      "description": "Event dates: August 17, 2026 - August 20, 2026\nEvent Time: 12:00 AM - 11:59 PM\nLocation: \nNewport News, VA 23607",
-      "link": "https://www.nnva.gov/Calendar.aspx?EID=3468"
-    },
-    {
-      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2529/639216943800000000",
-      "name": "Newport News Secures $3 Million GO Virginia Grant to Advance Mobility Innovation Center and Aviation",
-      "category": "Local News",
-      "date": "8/7/2026",
-      "location": "Newport News, VA",
-      "description": "",
-      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2529"
     }
   ],
   "benefits": [
