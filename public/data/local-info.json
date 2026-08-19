@@ -1,6 +1,15 @@
 {
   "events": [
     {
+      "id": "https://www.nnva.gov/Calendar.aspx?EID=3673/639156151400000000",
+      "name": "Night Nets",
+      "category": "Events",
+      "date": "5/29/2026",
+      "location": "Newport News, VA",
+      "description": "Event date: August 21, 2026 \nEvent Time: 06:00 PM - 11:00 PM\nLocation: \nMultiple Locations\nDescription:",
+      "link": "https://www.nnva.gov/Calendar.aspx?EID=3673"
+    },
+    {
       "id": "https://www.nnva.gov/Calendar.aspx?EID=2578/638477493620000000",
       "name": "Planning Commission Meeting",
       "category": "Events",
@@ -125,15 +134,6 @@
       "location": "Newport News, VA",
       "description": "Event date: August 18, 2026 \nEvent Time: 04:30 PM - 06:00 PM\nLocation: \nCity Hall - 10th Floor\n2400 Washington Ave\nNewport News, VA 23607",
       "link": "https://www.nnva.gov/Calendar.aspx?EID=3514"
-    },
-    {
-      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2563/639220396800000000",
-      "name": "Newport News Fire Department to Conduct Community Safety Canvassing Event Following Residential Fire",
-      "category": "Local News",
-      "date": "8/11/2026",
-      "location": "Newport News, VA",
-      "description": "",
-      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2563"
     }
   ],
   "benefits": [
