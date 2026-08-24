@@ -1,6 +1,15 @@
 {
   "events": [
     {
+      "id": "https://www.nnva.gov/Calendar.aspx?EID=2363/638205307000000000",
+      "name": "Labor Day",
+      "category": "Events",
+      "date": "5/24/2023",
+      "location": "Newport News, VA",
+      "description": "Event date: September 7, 2026 \nEvent Time: 08:00 AM - 05:00 PM\nLocation: \nNewport News, VA 23607\nDescription:\nCity offices and libraries closed.",
+      "link": "https://www.nnva.gov/Calendar.aspx?EID=2363"
+    },
+    {
       "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2561/639216945600000000",
       "name": "Vice Mayor Curtis D. Bethany III Selected for Virginia Hunt State Policy Fellows Program",
       "category": "Local News",
@@ -125,15 +134,6 @@
       "location": "Newport News, VA",
       "description": "",
       "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2550"
-    },
-    {
-      "id": "https://www.nnva.gov/Calendar.aspx?EID=3627/639138234230000000",
-      "name": "Retirement Board Meeting",
-      "category": "Events",
-      "date": "5/8/2026",
-      "location": "Newport News, VA",
-      "description": "Event date: August 27, 2026 \nEvent Time: 09:00 AM - 11:00 AM\nLocation: \n11820 Fountain Way\nSuite 301\nNewport News, VA 23606",
-      "link": "https://www.nnva.gov/Calendar.aspx?EID=3627"
     }
   ],
   "benefits": [
