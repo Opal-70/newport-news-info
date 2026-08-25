@@ -1,6 +1,42 @@
 {
   "events": [
     {
+      "id": "https://www.nnva.gov/Calendar.aspx?EID=2240/638205253360000000",
+      "name": "City Council Regular Meeting",
+      "category": "Events",
+      "date": "5/24/2023",
+      "location": "Newport News, VA",
+      "description": "Event date: September 8, 2026 \nEvent Time: 07:00 PM - 10:00 PM\nLocation: \nBehind City Hall\n2400 Washington Ave\nNewport News, VA 23607",
+      "link": "https://www.nnva.gov/Calendar.aspx?EID=2240"
+    },
+    {
+      "id": "https://www.nnva.gov/Calendar.aspx?EID=3627/639138234230000000",
+      "name": "Retirement Board Meeting",
+      "category": "Events",
+      "date": "5/8/2026",
+      "location": "Newport News, VA",
+      "description": "Event date: August 27, 2026 \nEvent Time: 09:00 AM - 11:00 AM\nLocation: \n11820 Fountain Way\nSuite 301\nNewport News, VA 23606",
+      "link": "https://www.nnva.gov/Calendar.aspx?EID=3627"
+    },
+    {
+      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2567/639231699760000000",
+      "name": "GLOBAL TOURING ARTIST MASEGO & NEWPORT NEWS VICE MAYOR HOST STUDENT OUTREACH INITIATIVE",
+      "category": "Local News",
+      "date": "8/24/2026",
+      "location": "Newport News, VA",
+      "description": "",
+      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2567"
+    },
+    {
+      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2568/639231728990000000",
+      "name": "NEWPORT NEWS MAYOR WELCOMES STUDENTS FOR THE FIRST DAY OF THE 2026-2027 SCHOOL YEAR",
+      "category": "Local News",
+      "date": "8/24/2026",
+      "location": "Newport News, VA",
+      "description": "",
+      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2568"
+    },
+    {
       "id": "https://www.nnva.gov/Calendar.aspx?EID=2363/638205307000000000",
       "name": "Labor Day",
       "category": "Events",
@@ -98,42 +134,6 @@
       "location": "Newport News, VA",
       "description": "",
       "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2529"
-    },
-    {
-      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2533/639216943800000000",
-      "name": "Newport News Waterworks Encourages Voluntary Water Conservation During Ongoing Dry Conditions",
-      "category": "Local News",
-      "date": "8/7/2026",
-      "location": "Newport News, VA",
-      "description": "",
-      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2533"
-    },
-    {
-      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2538/639216943800000000",
-      "name": "Communities Compete to Save Lives During 29th Annual Mayor's Cup Blood Drive",
-      "category": "Local News",
-      "date": "8/7/2026",
-      "location": "Newport News, VA",
-      "description": "",
-      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2538"
-    },
-    {
-      "id": "https://www.nnva.gov/Calendar.aspx?EID=3651/639153472980000000",
-      "name": "Summer Movie Series at Downing-Gross Cultural Arts Center",
-      "category": "Events",
-      "date": "5/26/2026",
-      "location": "Newport News, VA",
-      "description": "Event date: August 18, 2026 \nEvent Time: 02:00 PM - 04:00 PM\nLocation: \n2410 Wickham Ave\nNewport News, VA 23606",
-      "link": "https://www.nnva.gov/Calendar.aspx?EID=3651"
-    },
-    {
-      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2550/639216945600000000",
-      "name": "City of Newport News Shares Findings of Disparity Study",
-      "category": "Local News",
-      "date": "8/7/2026",
-      "location": "Newport News, VA",
-      "description": "",
-      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2550"
     }
   ],
   "benefits": [
