@@ -1,6 +1,69 @@
 {
   "events": [
     {
+      "id": "https://www.nnva.gov/Calendar.aspx?EID=3715/639233352080000000",
+      "name": "Neighborhood Recreation & Parks Council Committee Meeting",
+      "category": "Events",
+      "date": "8/26/2026",
+      "location": "Newport News, VA",
+      "description": "Event date: September 8, 2026 \nEvent Time: 09:00 AM - 11:00 AM\nLocation: \n700 Towne Center Dr.\nNewport News, VA 23606",
+      "link": "https://www.nnva.gov/Calendar.aspx?EID=3715"
+    },
+    {
+      "id": "https://www.nnva.gov/Calendar.aspx?EID=3469/639031980400000000",
+      "name": "Red Collection Day",
+      "category": "Events",
+      "date": "1/5/2026",
+      "location": "Newport News, VA",
+      "description": "Event dates: August 31, 2026 - September 3, 2026\nEvent Time: 12:00 AM - 11:59 PM\nLocation: \nNewport News, VA 23607",
+      "link": "https://www.nnva.gov/Calendar.aspx?EID=3469"
+    },
+    {
+      "id": "https://www.nnva.gov/Calendar.aspx?EID=3497/639031987000000000",
+      "name": "Yellow Collection Day",
+      "category": "Events",
+      "date": "1/5/2026",
+      "location": "Newport News, VA",
+      "description": "Event dates: August 24, 2026 - August 27, 2026\nEvent Time: 12:00 AM - 11:59 PM\nLocation: \nNewport News, VA 23607",
+      "link": "https://www.nnva.gov/Calendar.aspx?EID=3497"
+    },
+    {
+      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2529/639216943800000000",
+      "name": "Newport News Secures $3 Million GO Virginia Grant to Advance Mobility Innovation Center and Aviation",
+      "category": "Local News",
+      "date": "8/7/2026",
+      "location": "Newport News, VA",
+      "description": "",
+      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2529"
+    },
+    {
+      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2546/639216945600000000",
+      "name": "Explore Opportunity at the Newport News Opportunity Center Community Open House",
+      "category": "Local News",
+      "date": "8/7/2026",
+      "location": "Newport News, VA",
+      "description": "",
+      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2546"
+    },
+    {
+      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2565/639225737040000000",
+      "name": "Upcoming Electoral Board Meeting",
+      "category": "Local News",
+      "date": "8/17/2026",
+      "location": "Newport News, VA",
+      "description": "The next meeting will take place on September 1, 2026, at 9 AM in the office of the Voter Registrar.",
+      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2565"
+    },
+    {
+      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2570/639233452200000000",
+      "name": "Virginia Secretary of Health and Human Resources to Visit NNFD Community Health Bus",
+      "category": "Local News",
+      "date": "8/26/2026",
+      "location": "Newport News, VA",
+      "description": "",
+      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2570"
+    },
+    {
       "id": "https://www.nnva.gov/Calendar.aspx?EID=3714/639232587840000000",
       "name": "Councilmen Coleman & Long Town Hall Sept 2026",
       "category": "Events",
@@ -71,69 +134,6 @@
       "location": "Newport News, VA",
       "description": "",
       "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2567"
-    },
-    {
-      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2568/639231728990000000",
-      "name": "NEWPORT NEWS MAYOR WELCOMES STUDENTS FOR THE FIRST DAY OF THE 2026-2027 SCHOOL YEAR",
-      "category": "Local News",
-      "date": "8/24/2026",
-      "location": "Newport News, VA",
-      "description": "",
-      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2568"
-    },
-    {
-      "id": "https://www.nnva.gov/Calendar.aspx?EID=2363/638205307000000000",
-      "name": "Labor Day",
-      "category": "Events",
-      "date": "5/24/2023",
-      "location": "Newport News, VA",
-      "description": "Event date: September 7, 2026 \nEvent Time: 08:00 AM - 05:00 PM\nLocation: \nNewport News, VA 23607\nDescription:\nCity offices and libraries closed.",
-      "link": "https://www.nnva.gov/Calendar.aspx?EID=2363"
-    },
-    {
-      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2561/639216945600000000",
-      "name": "Vice Mayor Curtis D. Bethany III Selected for Virginia Hunt State Policy Fellows Program",
-      "category": "Local News",
-      "date": "8/7/2026",
-      "location": "Newport News, VA",
-      "description": "",
-      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2561"
-    },
-    {
-      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2563/639220396800000000",
-      "name": "Newport News Fire Department to Conduct Community Safety Canvassing Event Following Residential Fire",
-      "category": "Local News",
-      "date": "8/11/2026",
-      "location": "Newport News, VA",
-      "description": "",
-      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2563"
-    },
-    {
-      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2566/639227334000000000",
-      "name": "Department of Human Services Announces Closure of Denbigh Satellite Office",
-      "category": "Local News",
-      "date": "8/19/2026",
-      "location": "Newport News, VA",
-      "description": "",
-      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2566"
-    },
-    {
-      "id": "https://www.nnva.gov/Calendar.aspx?EID=3673/639156151400000000",
-      "name": "Night Nets",
-      "category": "Events",
-      "date": "5/29/2026",
-      "location": "Newport News, VA",
-      "description": "Event date: August 21, 2026 \nEvent Time: 06:00 PM - 11:00 PM\nLocation: \nMultiple Locations\nDescription:",
-      "link": "https://www.nnva.gov/Calendar.aspx?EID=3673"
-    },
-    {
-      "id": "https://www.nnva.gov/Calendar.aspx?EID=2578/638477493620000000",
-      "name": "Planning Commission Meeting",
-      "category": "Events",
-      "date": "4/3/2024",
-      "location": "Newport News, VA",
-      "description": "Event date: August 19, 2026 \nEvent Time: 02:00 PM - 11:59 PM\nLocation: \nBehind City Hall\n2400 Washington Ave\nNewport News, VA 23607",
-      "link": "https://www.nnva.gov/Calendar.aspx?EID=2578"
     }
   ],
   "benefits": [
