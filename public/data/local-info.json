@@ -1,6 +1,105 @@
 {
   "events": [
     {
+      "id": "https://www.nnva.gov/Calendar.aspx?EID=2579/638477493620000000",
+      "name": "Planning Commission Meeting",
+      "category": "Events",
+      "date": "4/3/2024",
+      "location": "Newport News, VA",
+      "description": "Event date: September 16, 2026 \nEvent Time: 02:00 PM - 11:59 PM\nLocation: \nBehind City Hall\n2400 Washington Ave\nNewport News, VA 23607",
+      "link": "https://www.nnva.gov/Calendar.aspx?EID=2579"
+    },
+    {
+      "id": "https://www.nnva.gov/Calendar.aspx?EID=3553/639080631460000000",
+      "name": "Stormwater Education Series: Stormwater Management",
+      "category": "Events",
+      "date": "3/2/2026",
+      "location": "Newport News, VA",
+      "description": "Event date: September 14, 2026 \nEvent Time: 01:30 PM - 03:00 PM\nLocation: \n2510 Wickham Ave.\nNewport News, VA 23607",
+      "link": "https://www.nnva.gov/Calendar.aspx?EID=3553"
+    },
+    {
+      "id": "https://www.nnva.gov/Calendar.aspx?EID=3470/639031980620000000",
+      "name": "Red Collection Day",
+      "category": "Events",
+      "date": "1/5/2026",
+      "location": "Newport News, VA",
+      "description": "Event dates: September 14, 2026 - September 17, 2026\nEvent Time: 12:00 AM - 11:59 PM\nLocation: \nNewport News, VA 23607",
+      "link": "https://www.nnva.gov/Calendar.aspx?EID=3470"
+    },
+    {
+      "id": "https://www.nnva.gov/Calendar.aspx?EID=3715/639233352080000000",
+      "name": "Neighborhood Recreation & Parks Council Committee Meeting",
+      "category": "Events",
+      "date": "8/26/2026",
+      "location": "Newport News, VA",
+      "description": "Event date: September 8, 2026 \nEvent Time: 09:00 AM - 11:00 AM\nLocation: \n700 Towne Center Dr.\nNewport News, VA 23606",
+      "link": "https://www.nnva.gov/Calendar.aspx?EID=3715"
+    },
+    {
+      "id": "https://www.nnva.gov/Calendar.aspx?EID=2363/638205307000000000",
+      "name": "Labor Day",
+      "category": "Events",
+      "date": "5/24/2023",
+      "location": "Newport News, VA",
+      "description": "Event date: September 7, 2026 \nEvent Time: 08:00 AM - 05:00 PM\nLocation: \nNewport News, VA 23607\nDescription:\nCity offices and libraries closed.",
+      "link": "https://www.nnva.gov/Calendar.aspx?EID=2363"
+    },
+    {
+      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2566/639227334000000000",
+      "name": "Department of Human Services Announces Closure of Denbigh Satellite Office",
+      "category": "Local News",
+      "date": "8/19/2026",
+      "location": "Newport News, VA",
+      "description": "",
+      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2566"
+    },
+    {
+      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2568/639232743000000000",
+      "name": "Newport News Mayor Welcomes Students for the First Day of the 2026-2027 School Year",
+      "category": "Local News",
+      "date": "8/25/2026",
+      "location": "Newport News, VA",
+      "description": "",
+      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2568"
+    },
+    {
+      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2571/639237607200000000",
+      "name": "Job Fair - September 26 from 9 AM - 1 PM",
+      "category": "Local News",
+      "date": "8/31/2026",
+      "location": "Newport News, VA",
+      "description": "Come learn more about the available positions, the many divisions, see the equipment in action, and apply for a job and interview on the spot!",
+      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2571"
+    },
+    {
+      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2572/639237607800000000",
+      "name": "Open House - September 26 from 9 AM - 1 PM",
+      "category": "Local News",
+      "date": "8/31/2026",
+      "location": "Newport News, VA",
+      "description": "Ever wonder what it takes to keep Newport News clean, safe, and moving? Come experience the Public Works Open House and get a behind-the-scenes look at the essential services that keep our city running every day.",
+      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2572"
+    },
+    {
+      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2573/639239427880000000",
+      "name": "In-person Early Voting and Ballot Drop-off Stations",
+      "category": "Local News",
+      "date": "9/2/2026",
+      "location": "Newport News, VA",
+      "description": "Learn more about the three locations residents can drop-off early voting ballots for the upcoming General and Special Elections.",
+      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2573"
+    },
+    {
+      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2574/639239555400000000",
+      "name": "The PAC and Newport News Showcase the Future of Aviation with Electra’s Aircraft Demonstration",
+      "category": "Local News",
+      "date": "9/2/2026",
+      "location": "Newport News, VA",
+      "description": "",
+      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2574"
+    },
+    {
       "id": "https://www.nnva.gov/Calendar.aspx?EID=3704/639190410440000000",
       "name": "Andrew Shannon Gospel Music Weekend Celebration",
       "category": "Events",
@@ -35,105 +134,6 @@
       "location": "Newport News, VA",
       "description": "",
       "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2538"
-    },
-    {
-      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2546/639216945600000000",
-      "name": "Explore Opportunity at the Newport News Opportunity Center Community Open House",
-      "category": "Local News",
-      "date": "8/7/2026",
-      "location": "Newport News, VA",
-      "description": "",
-      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2546"
-    },
-    {
-      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2550/639216945600000000",
-      "name": "City of Newport News Shares Findings of Disparity Study",
-      "category": "Local News",
-      "date": "8/7/2026",
-      "location": "Newport News, VA",
-      "description": "",
-      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2550"
-    },
-    {
-      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2561/639216945600000000",
-      "name": "Vice Mayor Curtis D. Bethany III Selected for Virginia Hunt State Policy Fellows Program",
-      "category": "Local News",
-      "date": "8/7/2026",
-      "location": "Newport News, VA",
-      "description": "",
-      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2561"
-    },
-    {
-      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2567/639232740600000000",
-      "name": "Global Touring Artist Masego & Newport News Vice Mayor Host Student Outreach Initiative",
-      "category": "Local News",
-      "date": "8/25/2026",
-      "location": "Newport News, VA",
-      "description": "",
-      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2567"
-    },
-    {
-      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2570/639233452200000000",
-      "name": "Virginia Secretary of Health and Human Resources to Visit NNFD Community Health Bus",
-      "category": "Local News",
-      "date": "8/26/2026",
-      "location": "Newport News, VA",
-      "description": "",
-      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2570"
-    },
-    {
-      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2576/639239557420000000",
-      "name": "9/11 PHOTO EXHIBIT TO OPEN IN NEWPORT NEWS",
-      "category": "Local News",
-      "date": "9/2/2026",
-      "location": "Newport News, VA",
-      "description": "Virginia War Museum Program Pairs Unique Experience with Special Memory Project",
-      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2576"
-    },
-    {
-      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2575/639241260600000000",
-      "name": "Newport News Fire Department Paramedic Program Earns National Accreditation",
-      "category": "Local News",
-      "date": "9/4/2026",
-      "location": "Newport News, VA",
-      "description": "",
-      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2575"
-    },
-    {
-      "id": "https://www.nnva.gov/Calendar.aspx?EID=3515/639045113200000000",
-      "name": "Finance and Governance Committee Meeting",
-      "category": "Events",
-      "date": "1/20/2026",
-      "location": "Newport News, VA",
-      "description": "Event date: September 15, 2026 \nEvent Time: 04:30 PM - 06:00 PM\nLocation: \nCity Hall - 10th Floor\n2400 Washington Ave\nNewport News, VA 23607",
-      "link": "https://www.nnva.gov/Calendar.aspx?EID=3515"
-    },
-    {
-      "id": "https://www.nnva.gov/Calendar.aspx?EID=3703/639195347090000000",
-      "name": "The Andrew Shannon Southeast Community Day Parade and Festival",
-      "category": "Events",
-      "date": "7/13/2026",
-      "location": "Newport News, VA",
-      "description": "Event date: September 12, 2026 \nEvent Time: 09:30 AM - 11:59 PM\nLocation: \n2016 Jefferson Ave\nNewport News, VA 23607\nDescription:\nThe Andrew Shannon Southeast Day Parade and Festival will take place on Saturday, September 12, beginning at 9:30 AM.  For more information, including additional festival programming, special guests, grand marshals, and parade route, visit southeastdayparade.com",
-      "link": "https://www.nnva.gov/Calendar.aspx?EID=3703"
-    },
-    {
-      "id": "https://www.nnva.gov/Calendar.aspx?EID=3716/639241049450000000",
-      "name": "Virginia Peninsula Mayors and Chairs Commission on Homelessness Meeting",
-      "category": "Events",
-      "date": "9/4/2026",
-      "location": "Newport News, VA",
-      "description": "Event date: September 11, 2026 \nEvent Time: 01:30 PM - 03:00 PM\nLocation: \n11820 Fountain Way\nSuite 301\nNewport News, VA 23606",
-      "link": "https://www.nnva.gov/Calendar.aspx?EID=3716"
-    },
-    {
-      "id": "https://www.nnva.gov/Calendar.aspx?EID=3711/639225641180000000",
-      "name": "9/11 Never Forgotten: 25th Anniversary Honor & Remembrance Ceremony",
-      "category": "Events",
-      "date": "8/17/2026",
-      "location": "Newport News, VA",
-      "description": "Event date: September 11, 2026 \nEvent Time: 10:00 AM - 11:59 PM\nLocation: \n1 University Place\nNewport News, VA 23606\nDescription:\n25th Anniversary Honor & Remembrance Ceremony for 9/11",
-      "link": "https://www.nnva.gov/Calendar.aspx?EID=3711"
     }
   ],
   "benefits": [
