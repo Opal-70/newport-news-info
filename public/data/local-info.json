@@ -1,6 +1,78 @@
 {
   "events": [
     {
+      "id": "https://www.nnva.gov/Calendar.aspx?EID=3720/639256136250000000",
+      "name": "Newport News / Hampton Climate Action Workshop ",
+      "category": "Events",
+      "date": "9/21/2026",
+      "location": "Newport News, VA",
+      "description": "Event date: September 29, 2026 \nEvent Time: 05:00 PM - 07:30 PM\nLocation: \n1610 Coliseum Drive\nHampton, VA 23666",
+      "link": "https://www.nnva.gov/Calendar.aspx?EID=3720"
+    },
+    {
+      "id": "https://www.nnva.gov/Calendar.aspx?EID=3499/639031987380000000",
+      "name": "Yellow Collection Day",
+      "category": "Events",
+      "date": "1/5/2026",
+      "location": "Newport News, VA",
+      "description": "Event dates: September 21, 2026 - September 24, 2026\nEvent Time: 12:00 AM - 11:59 PM\nLocation: \nNewport News, VA 23607",
+      "link": "https://www.nnva.gov/Calendar.aspx?EID=3499"
+    },
+    {
+      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2567/639232740600000000",
+      "name": "Global Touring Artist Masego & Newport News Vice Mayor Host Student Outreach Initiative",
+      "category": "Local News",
+      "date": "8/25/2026",
+      "location": "Newport News, VA",
+      "description": "",
+      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2567"
+    },
+    {
+      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2570/639233452200000000",
+      "name": "Virginia Secretary of Health and Human Resources to Visit NNFD Community Health Bus",
+      "category": "Local News",
+      "date": "8/26/2026",
+      "location": "Newport News, VA",
+      "description": "",
+      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2570"
+    },
+    {
+      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2571/639237607200000000",
+      "name": "Job Fair - September 26 from 9 AM - 1 PM",
+      "category": "Local News",
+      "date": "8/31/2026",
+      "location": "Newport News, VA",
+      "description": "Come learn more about the available positions, the many divisions, see the equipment in action, and apply for a job and interview on the spot!",
+      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2571"
+    },
+    {
+      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2572/639237607800000000",
+      "name": "Open House - September 26 from 9 AM - 1 PM",
+      "category": "Local News",
+      "date": "8/31/2026",
+      "location": "Newport News, VA",
+      "description": "Ever wonder what it takes to keep Newport News clean, safe, and moving? Come experience the Public Works Open House and get a behind-the-scenes look at the essential services that keep our city running every day.",
+      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2572"
+    },
+    {
+      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2580/639251627710000000",
+      "name": "Newport News Fire Department Honors Navy Pioneer Carl M. Brashear",
+      "category": "Local News",
+      "date": "9/16/2026",
+      "location": "Newport News, VA",
+      "description": "",
+      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2580"
+    },
+    {
+      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2581/639251691600000000",
+      "name": "NEWPORT NEWS WELCOMES $450 MILLION FEDERAL INVESTMENT IN SAILOR QUALITY-OF-SERVICE IMPROVEMENTS",
+      "category": "Local News",
+      "date": "9/16/2026",
+      "location": "Newport News, VA",
+      "description": "",
+      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2581"
+    },
+    {
       "id": "https://www.nnva.gov/Calendar.aspx?EID=3710/639244832620000000",
       "name": "Public Works  and Waterworks Joint Job Fair",
       "category": "Events",
@@ -62,78 +134,6 @@
       "location": "Newport News, VA",
       "description": "",
       "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2582"
-    },
-    {
-      "id": "https://www.nnva.gov/Calendar.aspx?EID=3471/639031980810000000",
-      "name": "Red Collection Day",
-      "category": "Events",
-      "date": "1/5/2026",
-      "location": "Newport News, VA",
-      "description": "Event dates: September 28, 2026 - October 1, 2026\nEvent Time: 12:00 AM - 11:59 PM\nLocation: \nNewport News, VA 23607",
-      "link": "https://www.nnva.gov/Calendar.aspx?EID=3471"
-    },
-    {
-      "id": "https://www.nnva.gov/Calendar.aspx?EID=3712/639226639140000000",
-      "name": "Newport News Housing Summit",
-      "category": "Events",
-      "date": "8/18/2026",
-      "location": "Newport News, VA",
-      "description": "Event dates: September 25, 2026 - September 26, 2026\nEvent Time: 09:00 AM - 01:00 PM\nLocation: \n1 University Place\nNewport News, VA 23602\nDescription:\nJoin housing industry professionals, organizations, and residents for two days of workshops, networking, expert insights, and resources focused on housing innovation, homeownership, expanding opportunities, and stronger communities.",
-      "link": "https://www.nnva.gov/Calendar.aspx?EID=3712"
-    },
-    {
-      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2568/639232743000000000",
-      "name": "Newport News Mayor Welcomes Students for the First Day of the 2026-2027 School Year",
-      "category": "Local News",
-      "date": "8/25/2026",
-      "location": "Newport News, VA",
-      "description": "",
-      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2568"
-    },
-    {
-      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2576/639239557420000000",
-      "name": "9/11 PHOTO EXHIBIT TO OPEN IN NEWPORT NEWS",
-      "category": "Local News",
-      "date": "9/2/2026",
-      "location": "Newport News, VA",
-      "description": "Virginia War Museum Program Pairs Unique Experience with Special Memory Project",
-      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2576"
-    },
-    {
-      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2578/639245344340000000",
-      "name": "Fall Empty the Shelters Adoption Special",
-      "category": "Local News",
-      "date": "9/9/2026",
-      "location": "Newport News, VA",
-      "description": "It’s the perfect time to find your new best friend! From September 18 through September 30, adoption fees are reduced for our Empty the Shelters event, giving more shelter pets the chance to find loving forever homes.",
-      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2578"
-    },
-    {
-      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2557/639246380400000000",
-      "name": "Independent Economic Impact Study for Noodle Convention",
-      "category": "Local News",
-      "date": "9/10/2026",
-      "location": "Newport News, VA",
-      "description": "Read the independent economic impact study and an accompanying summary of material expenditures for NOODLE: The Thinkers Convention, the inaugural culture, business, and innovation event held across downtown Newport News over Memorial Day Weekend 2026.",
-      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2557"
-    },
-    {
-      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2579/639246607020000000",
-      "name": "CITY RELEASES FINDINGS OF FUGITIVE COAL DUST AND WIND FENCE STUDY",
-      "category": "Local News",
-      "date": "9/10/2026",
-      "location": "Newport News, VA",
-      "description": "",
-      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2579"
-    },
-    {
-      "id": "https://www.nnva.gov/Calendar.aspx?EID=3628/639138234230000000",
-      "name": "Retirement Board Meeting",
-      "category": "Events",
-      "date": "5/8/2026",
-      "location": "Newport News, VA",
-      "description": "Event date: September 24, 2026 \nEvent Time: 09:00 AM - 11:00 AM\nLocation: \n11820 Fountain Way\nSuite 301\nNewport News, VA 23606",
-      "link": "https://www.nnva.gov/Calendar.aspx?EID=3628"
     }
   ],
   "benefits": [
