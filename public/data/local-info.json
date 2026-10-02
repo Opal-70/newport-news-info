@@ -1,6 +1,69 @@
 {
   "events": [
     {
+      "id": "https://www.nnva.gov/Calendar.aspx?EID=3708/639263023470000000",
+      "name": "Human Services Day Resource Fun Fair",
+      "category": "Events",
+      "date": "9/29/2026",
+      "location": "Newport News, VA",
+      "description": "Event date: October 10, 2026 \nEvent Time: 11:00 AM - 03:00 PM\nLocation: \n6060 Jefferson Avenue\nNewport News, VA 23605\nDescription:\nFree family event with community resources, activities, giveaways, and local organizations all in one place.",
+      "link": "https://www.nnva.gov/Calendar.aspx?EID=3708"
+    },
+    {
+      "id": "https://www.nnva.gov/Calendar.aspx?EID=3725/639262038760000000",
+      "name": "Fire Prevention Showcase",
+      "category": "Events",
+      "date": "9/28/2026",
+      "location": "Newport News, VA",
+      "description": "Event date: October 10, 2026 \nEvent Time: 10:00 AM - 01:00 PM\nLocation: \n361 Hornet Circle, Newport News, VA 23607\nNewport News, VA 23607",
+      "link": "https://www.nnva.gov/Calendar.aspx?EID=3725"
+    },
+    {
+      "id": "https://www.nnva.gov/Calendar.aspx?EID=3500/639031987550000000",
+      "name": "Yellow Collection Day",
+      "category": "Events",
+      "date": "1/5/2026",
+      "location": "Newport News, VA",
+      "description": "Event dates: October 5, 2026 - October 8, 2026\nEvent Time: 12:00 AM - 11:59 PM\nLocation: \nNewport News, VA 23607",
+      "link": "https://www.nnva.gov/Calendar.aspx?EID=3500"
+    },
+    {
+      "id": "https://www.nnva.gov/Calendar.aspx?EID=3723/639262033400000000",
+      "name": "Fall-O-Ween Festival",
+      "category": "Events",
+      "date": "9/28/2026",
+      "location": "Newport News, VA",
+      "description": "Event dates: October 3, 2026 - October 4, 2026\nEvent Time: 10:00 AM - 05:00 PM\nLocation: \n13560 Jefferson Avenue\nNewport News, VA 23603\nDescription:\nFree admission",
+      "link": "https://www.nnva.gov/Calendar.aspx?EID=3723"
+    },
+    {
+      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2579/639246607020000000",
+      "name": "CITY RELEASES FINDINGS OF FUGITIVE COAL DUST AND WIND FENCE STUDY",
+      "category": "Local News",
+      "date": "9/10/2026",
+      "location": "Newport News, VA",
+      "description": "",
+      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2579"
+    },
+    {
+      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2583/639257661930000000",
+      "name": "NEWPORT NEWS WINS STATEWIDE INNOVATION AWARD FOR COMMUNITY HEALTH BUS",
+      "category": "Local News",
+      "date": "9/23/2026",
+      "location": "Newport News, VA",
+      "description": "",
+      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2583"
+    },
+    {
+      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2587/639265389940000000",
+      "name": "Newport News Voters to Decide School Construction Sales Tax Referendum on November 3",
+      "category": "Local News",
+      "date": "10/2/2026",
+      "location": "Newport News, VA",
+      "description": "",
+      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2587"
+    },
+    {
       "id": "https://www.nnva.gov/Calendar.aspx?EID=3719/639252527410000000",
       "name": "Hampton Roads Hazard Mitigation Plan Public Engagement Open House",
       "category": "Events",
@@ -71,69 +134,6 @@
       "location": "Newport News, VA",
       "description": "Event date: October 6, 2026 \nEvent Time: 06:00 PM - 07:30 PM\nLocation: \n51 Copeland Lane\nNewport News, VA 23601\nDescription:\nJoin us for an informational Town Hall about the School Capital Sales Tax Referendum appearing on the November 3 ballot. Learn what the referendum means, why it's on the ballot and how the proposed funding would support school capital needs.*This even is informational only and does not advocate for any voting outcome*",
       "link": "https://www.nnva.gov/Calendar.aspx?EID=3727"
-    },
-    {
-      "id": "https://www.nnva.gov/Calendar.aspx?EID=3471/639031980810000000",
-      "name": "Red Collection Day",
-      "category": "Events",
-      "date": "1/5/2026",
-      "location": "Newport News, VA",
-      "description": "Event dates: September 28, 2026 - October 1, 2026\nEvent Time: 12:00 AM - 11:59 PM\nLocation: \nNewport News, VA 23607",
-      "link": "https://www.nnva.gov/Calendar.aspx?EID=3471"
-    },
-    {
-      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2576/639239557420000000",
-      "name": "9/11 PHOTO EXHIBIT TO OPEN IN NEWPORT NEWS",
-      "category": "Local News",
-      "date": "9/2/2026",
-      "location": "Newport News, VA",
-      "description": "Virginia War Museum Program Pairs Unique Experience with Special Memory Project",
-      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2576"
-    },
-    {
-      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2578/639245344340000000",
-      "name": "Fall Empty the Shelters Adoption Special",
-      "category": "Local News",
-      "date": "9/9/2026",
-      "location": "Newport News, VA",
-      "description": "It’s the perfect time to find your new best friend! From September 18 through September 30, adoption fees are reduced for our Empty the Shelters event, giving more shelter pets the chance to find loving forever homes.",
-      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2578"
-    },
-    {
-      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2557/639246380400000000",
-      "name": "Independent Economic Impact Study for Noodle Convention",
-      "category": "Local News",
-      "date": "9/10/2026",
-      "location": "Newport News, VA",
-      "description": "Read the independent economic impact study and an accompanying summary of material expenditures for NOODLE: The Thinkers Convention, the inaugural culture, business, and innovation event held across downtown Newport News over Memorial Day Weekend 2026.",
-      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2557"
-    },
-    {
-      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2581/639251691600000000",
-      "name": "NEWPORT NEWS WELCOMES $450 MILLION FEDERAL INVESTMENT IN SAILOR QUALITY-OF-SERVICE IMPROVEMENTS",
-      "category": "Local News",
-      "date": "9/16/2026",
-      "location": "Newport News, VA",
-      "description": "",
-      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2581"
-    },
-    {
-      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2582/639253454810000000",
-      "name": "Newport News Fire Department Marine Crews Rescue Boaters During Severe Storm",
-      "category": "Local News",
-      "date": "9/18/2026",
-      "location": "Newport News, VA",
-      "description": "",
-      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2582"
-    },
-    {
-      "id": "https://www.nnva.gov/Calendar.aspx?EID=2241/638205253360000000",
-      "name": "City Council Regular Meeting",
-      "category": "Events",
-      "date": "5/24/2023",
-      "location": "Newport News, VA",
-      "description": "Event date: October 13, 2026 \nEvent Time: 07:00 PM - 10:00 PM\nLocation: \nBehind City Hall\n2400 Washington Ave\nNewport News, VA 23607",
-      "link": "https://www.nnva.gov/Calendar.aspx?EID=2241"
     }
   ],
   "benefits": [
