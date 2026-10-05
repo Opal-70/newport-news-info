@@ -1,6 +1,33 @@
 {
   "events": [
     {
+      "id": "https://www.nnva.gov/Calendar.aspx?EID=3719/639252527410000000",
+      "name": "Hampton Roads Hazard Mitigation Plan Public Engagement Open House",
+      "category": "Events",
+      "date": "9/17/2026",
+      "location": "Newport News, VA",
+      "description": "Event date: October 15, 2026 \nEvent Time: 04:00 PM - 06:00 PM\nLocation: \n440 Boundary Street\n2nd Floor EOC\nWilliamsburg, VA 23185\nDescription:\nNewport News is participating in the update of the Hampton Roads Regional Hazard Mitigation Plan. Stop by the open house to review the proposed mitigation actions, projects, and strategies designed to reduce the risks and impacts of natural hazards in Newport News.",
+      "link": "https://www.nnva.gov/Calendar.aspx?EID=3719"
+    },
+    {
+      "id": "https://www.nnva.gov/Calendar.aspx?EID=2528/638477492570000000",
+      "name": "Planning Commission Meeting",
+      "category": "Events",
+      "date": "4/3/2024",
+      "location": "Newport News, VA",
+      "description": "Event date: October 7, 2026 \nEvent Time: 02:00 PM - 11:59 PM\nLocation: \nBehind City Hall\n2400 Washington Ave\nNewport News, VA 23607",
+      "link": "https://www.nnva.gov/Calendar.aspx?EID=2528"
+    },
+    {
+      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2587/639265389940000000",
+      "name": "Newport News Voters to Decide School Construction Sales Tax Referendum on November 3",
+      "category": "Local News",
+      "date": "10/2/2026",
+      "location": "Newport News, VA",
+      "description": "",
+      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2587"
+    },
+    {
       "id": "https://www.nnva.gov/Calendar.aspx?EID=3727/639262982220000000",
       "name": "Know Before You Vote Town Hall Meeting",
       "category": "Events",
@@ -107,33 +134,6 @@
       "location": "Newport News, VA",
       "description": "Event dates: October 5, 2026 - October 8, 2026\nEvent Time: 12:00 AM - 11:59 PM\nLocation: \nNewport News, VA 23607",
       "link": "https://www.nnva.gov/Calendar.aspx?EID=3500"
-    },
-    {
-      "id": "https://www.nnva.gov/Calendar.aspx?EID=3723/639262033400000000",
-      "name": "Fall-O-Ween Festival",
-      "category": "Events",
-      "date": "9/28/2026",
-      "location": "Newport News, VA",
-      "description": "Event dates: October 3, 2026 - October 4, 2026\nEvent Time: 10:00 AM - 05:00 PM\nLocation: \n13560 Jefferson Avenue\nNewport News, VA 23603\nDescription:\nFree admission",
-      "link": "https://www.nnva.gov/Calendar.aspx?EID=3723"
-    },
-    {
-      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2579/639246607020000000",
-      "name": "CITY RELEASES FINDINGS OF FUGITIVE COAL DUST AND WIND FENCE STUDY",
-      "category": "Local News",
-      "date": "9/10/2026",
-      "location": "Newport News, VA",
-      "description": "",
-      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2579"
-    },
-    {
-      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2583/639257661930000000",
-      "name": "NEWPORT NEWS WINS STATEWIDE INNOVATION AWARD FOR COMMUNITY HEALTH BUS",
-      "category": "Local News",
-      "date": "9/23/2026",
-      "location": "Newport News, VA",
-      "description": "",
-      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2583"
     }
   ],
   "benefits": [
