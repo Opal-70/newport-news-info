@@ -1,6 +1,42 @@
 {
   "events": [
     {
+      "id": "https://www.nnva.gov/Calendar.aspx?EID=3734/639270525600000000",
+      "name": "Community Listening Tour with Angela Reason",
+      "category": "Events",
+      "date": "10/8/2026",
+      "location": "Newport News, VA",
+      "description": "Event date: October 20, 2026 \nEvent Time: 05:30 PM - 07:00 PM\nLocation: \nBehind City Hall\n2400 Washington Ave\nNewport News, VA 23607\nDescription:\nAngela F. Reason, Clerk of the Newport News Circuit Court, in partnership with the Virginia Access to Justice Commission, will host a Community Listening Tour. The event gives Newport News residents the opportunity to share their experiences and ideas about access to justice directly with members of the Virginia Access to Justice Commission, Newport News judges, and members of the local legal community. Community organizations will also host resource tables to connect attendees with services and support.",
+      "link": "https://www.nnva.gov/Calendar.aspx?EID=3734"
+    },
+    {
+      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2587/639265389940000000",
+      "name": "Newport News Voters to Decide School Construction Sales Tax Referendum on November 3",
+      "category": "Local News",
+      "date": "10/2/2026",
+      "location": "Newport News, VA",
+      "description": "",
+      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2587"
+    },
+    {
+      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2589/639271451040000000",
+      "name": "New Kent Middle School Students Explore the Future of Public Safety in Newport News",
+      "category": "Local News",
+      "date": "10/9/2026",
+      "location": "Newport News, VA",
+      "description": "",
+      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2589"
+    },
+    {
+      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2592/639275934600000000",
+      "name": "Vice Mayor Curtis D. Bethany III to Serve as the Next President-Elect of the VML Board of Directors",
+      "category": "Local News",
+      "date": "10/14/2026",
+      "location": "Newport News, VA",
+      "description": "",
+      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2592"
+    },
+    {
       "id": "https://www.nnva.gov/Calendar.aspx?EID=3724/639262035810000000",
       "name": "Newport News Public Library Festival of Books",
       "category": "Events",
@@ -98,42 +134,6 @@
       "location": "Newport News, VA",
       "description": "Event date: October 29, 2026 \nEvent Time: 09:00 AM - 11:00 AM\nLocation: \n11820 Fountain Way\nSuite 301\nNewport News, VA 23606",
       "link": "https://www.nnva.gov/Calendar.aspx?EID=3629"
-    },
-    {
-      "id": "https://www.nnva.gov/Calendar.aspx?EID=2293/638205254790000000",
-      "name": "City Council Regular Meeting",
-      "category": "Events",
-      "date": "5/24/2023",
-      "location": "Newport News, VA",
-      "description": "Event date: October 27, 2026 \nEvent Time: 07:00 PM - 10:00 PM\nLocation: \nBehind City Hall\n2400 Washington Ave\nNewport News, VA 23607",
-      "link": "https://www.nnva.gov/Calendar.aspx?EID=2293"
-    },
-    {
-      "id": "https://www.nnva.gov/Calendar.aspx?EID=3472/639031981000000000",
-      "name": "Red Collection Day",
-      "category": "Events",
-      "date": "1/5/2026",
-      "location": "Newport News, VA",
-      "description": "Event dates: October 12, 2026 - October 15, 2026\nEvent Time: 12:00 AM - 11:59 PM\nLocation: \nNewport News, VA 23607",
-      "link": "https://www.nnva.gov/Calendar.aspx?EID=3472"
-    },
-    {
-      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2583/639257661930000000",
-      "name": "NEWPORT NEWS WINS STATEWIDE INNOVATION AWARD FOR COMMUNITY HEALTH BUS",
-      "category": "Local News",
-      "date": "9/23/2026",
-      "location": "Newport News, VA",
-      "description": "",
-      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2583"
-    },
-    {
-      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2593/639275844080000000",
-      "name": "Newport News Fire Department Secures $3.4 Million Federal Grant",
-      "category": "Local News",
-      "date": "10/14/2026",
-      "location": "Newport News, VA",
-      "description": "",
-      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2593"
     }
   ],
   "benefits": [
