@@ -1,6 +1,51 @@
 {
   "events": [
     {
+      "id": "https://www.nnva.gov/Calendar.aspx?EID=3629/639138234230000000",
+      "name": "Retirement Board Meeting",
+      "category": "Events",
+      "date": "5/8/2026",
+      "location": "Newport News, VA",
+      "description": "Event date: October 29, 2026 \nEvent Time: 09:00 AM - 11:00 AM\nLocation: \n11820 Fountain Way\nSuite 301\nNewport News, VA 23606",
+      "link": "https://www.nnva.gov/Calendar.aspx?EID=3629"
+    },
+    {
+      "id": "https://www.nnva.gov/Calendar.aspx?EID=3737/639280918990000000",
+      "name": "African American Cultural Experiences (AACE) Trolley Tour",
+      "category": "Events",
+      "date": "10/20/2026",
+      "location": "Newport News, VA",
+      "description": "Event date: October 24, 2026 \nEvent Time: 09:00 AM - 12:00 PM\nLocation: \n2410 Wickham Avenue\nNewport News, VA 23607\nDescription:\nExplore Newport News’ rich African American heritage on a guided trolley tour showcasing historic sites, culture, and local stories!Join Newport News Tourism for a guided trolley tour exploring the city’s rich African American heritage. From historic landmarks to cultural sites, this tour highlights the people and places that have shaped Newport News.",
+      "link": "https://www.nnva.gov/Calendar.aspx?EID=3737"
+    },
+    {
+      "id": "https://www.nnva.gov/Calendar.aspx?EID=3516/639045113200000000",
+      "name": "Finance and Governance Committee Meeting",
+      "category": "Events",
+      "date": "1/20/2026",
+      "location": "Newport News, VA",
+      "description": "Event date: October 20, 2026 \nEvent Time: 04:30 PM - 06:00 PM\nLocation: \nCity Hall - 10th Floor\n2400 Washington Ave\nNewport News, VA 23607",
+      "link": "https://www.nnva.gov/Calendar.aspx?EID=3516"
+    },
+    {
+      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2588/639270657350000000",
+      "name": "Newport News Launches ResidentFirst Housing Relief Grant Program",
+      "category": "Local News",
+      "date": "10/8/2026",
+      "location": "Newport News, VA",
+      "description": "",
+      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2588"
+    },
+    {
+      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2581/639275795400000000",
+      "name": "Newport News Welcomes $450 Million Federal Investment in Sailor Quality-of-Service Improvements",
+      "category": "Local News",
+      "date": "10/14/2026",
+      "location": "Newport News, VA",
+      "description": "",
+      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2581"
+    },
+    {
       "id": "https://www.nnva.gov/Calendar.aspx?EID=2293/638205254790000000",
       "name": "City Council Regular Meeting",
       "category": "Events",
@@ -89,51 +134,6 @@
       "location": "Newport News, VA",
       "description": "Event date: October 21, 2026 \nEvent Time: 06:00 PM - 07:30 PM\nLocation: \nNewport News, VA 23607\nDescription:\n What happens when you mix science, water, and your favorite local watering hole? You get A Scientist Walks Into a Bar… from Newport News Waterworks! Join us for a fun, free conversation about the science behind the water in your glass. We’ll explore the fascinating connection between water, water treatment, and the beverages we enjoy, with a few surprising facts along the way. You’ll learn more about where our water comes from, how Newport News Waterworks treats it, and why high-quality water matters to the brewing, distilling, and beverage-making process. And because no good bar conversation is complete without a little friendly competition, we’ll wrap things up with water-themed trivia and a chance to win some Waterworks swag!",
       "link": "https://www.nnva.gov/Calendar.aspx?EID=3732"
-    },
-    {
-      "id": "https://www.nnva.gov/Calendar.aspx?EID=3501/639031987720000000",
-      "name": "Yellow Collection Day",
-      "category": "Events",
-      "date": "1/5/2026",
-      "location": "Newport News, VA",
-      "description": "Event dates: October 19, 2026 - October 22, 2026\nEvent Time: 12:00 AM - 11:59 PM\nLocation: \nNewport News, VA 23607",
-      "link": "https://www.nnva.gov/Calendar.aspx?EID=3501"
-    },
-    {
-      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2582/639253454810000000",
-      "name": "Newport News Fire Department Marine Crews Rescue Boaters During Severe Storm",
-      "category": "Local News",
-      "date": "9/18/2026",
-      "location": "Newport News, VA",
-      "description": "",
-      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2582"
-    },
-    {
-      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2591/639274985320000000",
-      "name": "Newport News Fire Department Earns Virginia Municipal League's Top Innovation Honor",
-      "category": "Local News",
-      "date": "10/13/2026",
-      "location": "Newport News, VA",
-      "description": "",
-      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2591"
-    },
-    {
-      "id": "https://www.nnva.gov/Calendar.aspx?EID=3728/639268846970000000",
-      "name": "Friday Night Nets Fright Night",
-      "category": "Events",
-      "date": "10/6/2026",
-      "location": "Newport News, VA",
-      "description": "Event date: October 30, 2026 \nEvent Time: 06:00 PM - 11:00 PM\nLocation: \n1300 Ivy Ave.\nNewport News, VA 23607\nDescription:\nFright Night Nets is our normal Friday Night Nets program with a spooky twist. Join us for an evening of basketball, free food and candy, games, and other Halloween-themed activities on our haunted basketball court. Costumes are welcome without a mask.Registration is preferred.",
-      "link": "https://www.nnva.gov/Calendar.aspx?EID=3728"
-    },
-    {
-      "id": "https://www.nnva.gov/Calendar.aspx?EID=2580/638477493620000000",
-      "name": "Planning Commission Meeting",
-      "category": "Events",
-      "date": "4/3/2024",
-      "location": "Newport News, VA",
-      "description": "Event date: October 21, 2026 \nEvent Time: 02:00 PM - 11:59 PM\nLocation: \nBehind City Hall\n2400 Washington Ave\nNewport News, VA 23607",
-      "link": "https://www.nnva.gov/Calendar.aspx?EID=2580"
     }
   ],
   "benefits": [
