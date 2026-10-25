@@ -1,6 +1,24 @@
 {
   "events": [
     {
+      "id": "https://www.nnva.gov/Calendar.aspx?EID=3629/639138234230000000",
+      "name": "Retirement Board Meeting",
+      "category": "Events",
+      "date": "5/8/2026",
+      "location": "Newport News, VA",
+      "description": "Event date: October 29, 2026 \nEvent Time: 09:00 AM - 11:00 AM\nLocation: \n11820 Fountain Way\nSuite 301\nNewport News, VA 23606",
+      "link": "https://www.nnva.gov/Calendar.aspx?EID=3629"
+    },
+    {
+      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2588/639270657350000000",
+      "name": "Newport News Launches ResidentFirst Housing Relief Grant Program",
+      "category": "Local News",
+      "date": "10/8/2026",
+      "location": "Newport News, VA",
+      "description": "",
+      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2588"
+    },
+    {
       "id": "https://www.nnva.gov/Calendar.aspx?EID=3722/639262030490000000",
       "name": "The Mariners’ Park Fall Festival",
       "category": "Events",
@@ -116,24 +134,6 @@
       "location": "Newport News, VA",
       "description": "Event date: October 21, 2026 \nEvent Time: 02:00 PM - 11:59 PM\nLocation: \nBehind City Hall\n2400 Washington Ave\nNewport News, VA 23607",
       "link": "https://www.nnva.gov/Calendar.aspx?EID=2580"
-    },
-    {
-      "id": "https://www.nnva.gov/Calendar.aspx?EID=3501/639031987720000000",
-      "name": "Yellow Collection Day",
-      "category": "Events",
-      "date": "1/5/2026",
-      "location": "Newport News, VA",
-      "description": "Event dates: October 19, 2026 - October 22, 2026\nEvent Time: 12:00 AM - 11:59 PM\nLocation: \nNewport News, VA 23607",
-      "link": "https://www.nnva.gov/Calendar.aspx?EID=3501"
-    },
-    {
-      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2591/639274985320000000",
-      "name": "Newport News Fire Department Earns Virginia Municipal League's Top Innovation Honor",
-      "category": "Local News",
-      "date": "10/13/2026",
-      "location": "Newport News, VA",
-      "description": "",
-      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2591"
     }
   ],
   "benefits": [
