@@ -1,6 +1,33 @@
 {
   "events": [
     {
+      "id": "https://www.nnva.gov/Calendar.aspx?EID=2529/638477492570000000",
+      "name": "Planning Commission Meeting",
+      "category": "Events",
+      "date": "4/3/2024",
+      "location": "Newport News, VA",
+      "description": "Event date: November 4, 2026 \nEvent Time: 02:00 PM - 11:59 PM\nLocation: \nBehind City Hall\n2400 Washington Ave\nNewport News, VA 23607",
+      "link": "https://www.nnva.gov/Calendar.aspx?EID=2529"
+    },
+    {
+      "id": "https://www.nnva.gov/Calendar.aspx?EID=3728/639268846970000000",
+      "name": "Friday Night Nets Fright Night",
+      "category": "Events",
+      "date": "10/6/2026",
+      "location": "Newport News, VA",
+      "description": "Event date: October 30, 2026 \nEvent Time: 06:00 PM - 11:00 PM\nLocation: \n1300 Ivy Ave.\nNewport News, VA 23607\nDescription:\nFright Night Nets is our normal Friday Night Nets program with a spooky twist. Join us for an evening of basketball, free food and candy, games, and other Halloween-themed activities on our haunted basketball court. Costumes are welcome without a mask.Registration is preferred.",
+      "link": "https://www.nnva.gov/Calendar.aspx?EID=3728"
+    },
+    {
+      "id": "https://www.nnva.gov/Calendar.aspx?EID=3743/639286839820000000",
+      "name": "Public Safety Committee Meeting",
+      "category": "Events",
+      "date": "10/27/2026",
+      "location": "Newport News, VA",
+      "description": "Event date: October 30, 2026 \nEvent Time: 01:00 PM - 03:00 PM\nLocation: \nCity Hall - 10th Floor\n2400 Washington Ave\nNewport News, VA 23607",
+      "link": "https://www.nnva.gov/Calendar.aspx?EID=3743"
+    },
+    {
       "id": "https://www.nnva.gov/Calendar.aspx?EID=3502/639031987860000000",
       "name": "Yellow Collection Day",
       "category": "Events",
@@ -107,33 +134,6 @@
       "location": "Newport News, VA",
       "description": "Event date: October 31, 2026 \nEvent Time: 11:00 AM - 02:00 PM\nLocation: \n110 Main St\nNewport News, VA 23601",
       "link": "https://www.nnva.gov/Calendar.aspx?EID=3724"
-    },
-    {
-      "id": "https://www.nnva.gov/Calendar.aspx?EID=3731/639270511110000000",
-      "name": "A Scientist Walks Into A Bar",
-      "category": "Events",
-      "date": "10/8/2026",
-      "location": "Newport News, VA",
-      "description": "Event date: October 22, 2026 \nEvent Time: 06:00 PM - 07:30 PM\nLocation: \nHampton, VA 23607\nDescription:\n What happens when you mix science, water, and your favorite local watering hole? You get A Scientist Walks Into a Bar… from Newport News Waterworks! Join us for a fun, free conversation about the science behind the water in your glass. We’ll explore the fascinating connection between water, water treatment, and the beverages we enjoy, with a few surprising facts along the way. You’ll learn more about where our water comes from, how Newport News Waterworks treats it, and why high-quality water matters to the brewing, distilling, and beverage-making process. And because no good bar conversation is complete without a little friendly competition, we’ll wrap things up with water-themed trivia and a chance to win some Waterworks swag!",
-      "link": "https://www.nnva.gov/Calendar.aspx?EID=3731"
-    },
-    {
-      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2589/639271451040000000",
-      "name": "New Kent Middle School Students Explore the Future of Public Safety in Newport News",
-      "category": "Local News",
-      "date": "10/9/2026",
-      "location": "Newport News, VA",
-      "description": "",
-      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2589"
-    },
-    {
-      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2592/639275934600000000",
-      "name": "Vice Mayor Curtis D. Bethany III to Serve as the Next President-Elect of the VML Board of Directors",
-      "category": "Local News",
-      "date": "10/14/2026",
-      "location": "Newport News, VA",
-      "description": "",
-      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2592"
     }
   ],
   "benefits": [
