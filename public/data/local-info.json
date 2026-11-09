@@ -1,6 +1,33 @@
 {
   "events": [
     {
+      "id": "https://www.nnva.gov/Calendar.aspx?EID=3735/639271424810000000",
+      "name": "Board of Zoning Appeals",
+      "category": "Events",
+      "date": "10/9/2026",
+      "location": "Newport News, VA",
+      "description": "Event date: November 17, 2026 \nEvent Time: 05:00 PM - 07:00 PM\nLocation: \nBehind City Hall\n2400 Washington Ave\nNewport News, VA 23607\nDescription:",
+      "link": "https://www.nnva.gov/Calendar.aspx?EID=3735"
+    },
+    {
+      "id": "https://www.nnva.gov/Calendar.aspx?EID=3517/639045113200000000",
+      "name": "Finance and Governance Committee Meeting",
+      "category": "Events",
+      "date": "1/20/2026",
+      "location": "Newport News, VA",
+      "description": "Event date: November 17, 2026 \nEvent Time: 04:30 PM - 06:00 PM\nLocation: \nCity Hall - 10th Floor\n2400 Washington Ave\nNewport News, VA 23607",
+      "link": "https://www.nnva.gov/Calendar.aspx?EID=3517"
+    },
+    {
+      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2594/639298140600000000",
+      "name": "Provisional Meeting",
+      "category": "Local News",
+      "date": "11/9/2026",
+      "location": "Newport News, VA",
+      "description": "The provisional meeting will be held on November 12, 2026, at 10:00 AM at City Hall, 2400 Washington Avenue.",
+      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2594"
+    },
+    {
       "id": "https://www.nnva.gov/Calendar.aspx?EID=2581/638477493620000000",
       "name": "Planning Commission Meeting",
       "category": "Events",
@@ -107,33 +134,6 @@
       "location": "Newport News, VA",
       "description": "Event date: November 18, 2026 \nEvent Time: 09:00 AM - 11:00 AM\nLocation: \n11820 Fountain Way\nSuite 301\nNewport News, VA 23606",
       "link": "https://www.nnva.gov/Calendar.aspx?EID=3635"
-    },
-    {
-      "id": "https://www.nnva.gov/Calendar.aspx?EID=3630/639138234770000000",
-      "name": "Retirement Board Meeting",
-      "category": "Events",
-      "date": "5/8/2026",
-      "location": "Newport News, VA",
-      "description": "Event date: November 18, 2026 \nEvent Time: 09:00 AM - 11:00 AM\nLocation: \n11820 Fountain Way\nSuite 301\nNewport News, VA 23606",
-      "link": "https://www.nnva.gov/Calendar.aspx?EID=3630"
-    },
-    {
-      "id": "https://www.nnva.gov/Calendar.aspx?EID=2369/638979532210000000",
-      "name": "Veterans Day",
-      "category": "Events",
-      "date": "11/5/2025",
-      "location": "Newport News, VA",
-      "description": "Event date: November 11, 2026 \nEvent Time: 08:00 AM - 05:00 PM\nLocation: \nNewport News, VA 23607\nDescription:\nCity offices and libraries closed.",
-      "link": "https://www.nnva.gov/Calendar.aspx?EID=2369"
-    },
-    {
-      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2593/639275844080000000",
-      "name": "Newport News Fire Department Secures $3.4 Million Federal Grant",
-      "category": "Local News",
-      "date": "10/14/2026",
-      "location": "Newport News, VA",
-      "description": "",
-      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2593"
     }
   ],
   "benefits": [
