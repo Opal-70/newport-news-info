@@ -1,6 +1,42 @@
 {
   "events": [
     {
+      "id": "https://www.nnva.gov/Calendar.aspx?EID=3630/639138234770000000",
+      "name": "Retirement Board Meeting",
+      "category": "Events",
+      "date": "5/8/2026",
+      "location": "Newport News, VA",
+      "description": "Event date: November 18, 2026 \nEvent Time: 09:00 AM - 11:00 AM\nLocation: \n11820 Fountain Way\nSuite 301\nNewport News, VA 23606",
+      "link": "https://www.nnva.gov/Calendar.aspx?EID=3630"
+    },
+    {
+      "id": "https://www.nnva.gov/Calendar.aspx?EID=3749/639298895440000000",
+      "name": "Virginia Peninsula Mayors and Chairs Commission on Homelessness",
+      "category": "Events",
+      "date": "11/10/2026",
+      "location": "Newport News, VA",
+      "description": "Event date: November 13, 2026 \nEvent Time: 01:30 PM - 03:00 PM\nLocation: \n11820 Fountain Way\nSuite 301\nNewport News, VA 23606",
+      "link": "https://www.nnva.gov/Calendar.aspx?EID=3749"
+    },
+    {
+      "id": "https://www.nnva.gov/Calendar.aspx?EID=2369/638979532210000000",
+      "name": "Veterans Day",
+      "category": "Events",
+      "date": "11/5/2025",
+      "location": "Newport News, VA",
+      "description": "Event date: November 11, 2026 \nEvent Time: 08:00 AM - 05:00 PM\nLocation: \nNewport News, VA 23607\nDescription:\nCity offices and libraries closed.",
+      "link": "https://www.nnva.gov/Calendar.aspx?EID=2369"
+    },
+    {
+      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2593/639275844080000000",
+      "name": "Newport News Fire Department Secures $3.4 Million Federal Grant",
+      "category": "Local News",
+      "date": "10/14/2026",
+      "location": "Newport News, VA",
+      "description": "",
+      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2593"
+    },
+    {
       "id": "https://www.nnva.gov/Calendar.aspx?EID=3735/639271424810000000",
       "name": "Board of Zoning Appeals",
       "category": "Events",
@@ -98,42 +134,6 @@
       "location": "Newport News, VA",
       "description": "Event date: November 10, 2026 \nEvent Time: 07:00 PM - 10:00 PM\nLocation: \nBehind City Hall\n2400 Washington Ave\nNewport News, VA 23607",
       "link": "https://www.nnva.gov/Calendar.aspx?EID=2242"
-    },
-    {
-      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2591/639274985320000000",
-      "name": "Newport News Fire Department Earns Virginia Municipal League's Top Innovation Honor",
-      "category": "Local News",
-      "date": "10/13/2026",
-      "location": "Newport News, VA",
-      "description": "",
-      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2591"
-    },
-    {
-      "id": "https://www.nnva.gov/Calendar.aspx?EID=3474/639031981390000000",
-      "name": "Red Collection Day",
-      "category": "Events",
-      "date": "1/5/2026",
-      "location": "Newport News, VA",
-      "description": "Event dates: November 9, 2026 - November 13, 2026\nEvent Time: 12:00 AM - 11:59 PM\nLocation: \nNewport News, VA 23607",
-      "link": "https://www.nnva.gov/Calendar.aspx?EID=3474"
-    },
-    {
-      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2581/639275795400000000",
-      "name": "Newport News Welcomes $450 Million Federal Investment in Sailor Quality-of-Service Improvements",
-      "category": "Local News",
-      "date": "10/14/2026",
-      "location": "Newport News, VA",
-      "description": "",
-      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2581"
-    },
-    {
-      "id": "https://www.nnva.gov/Calendar.aspx?EID=3635/639138237570000000",
-      "name": "Committee on Investments Meeting",
-      "category": "Events",
-      "date": "5/8/2026",
-      "location": "Newport News, VA",
-      "description": "Event date: November 18, 2026 \nEvent Time: 09:00 AM - 11:00 AM\nLocation: \n11820 Fountain Way\nSuite 301\nNewport News, VA 23606",
-      "link": "https://www.nnva.gov/Calendar.aspx?EID=3635"
     }
   ],
   "benefits": [
