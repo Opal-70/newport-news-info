@@ -1,6 +1,42 @@
 {
   "events": [
     {
+      "id": "https://nnparksandrec.org/639286062430000000",
+      "name": "Celebration In Lights",
+      "category": "Events",
+      "date": "10/26/2026",
+      "location": "Newport News, VA",
+      "description": "Event dates: November 26, 2026 - January 1, 2027\nEvent Time: 05:30 PM - 10:00 PM\nLocation: \n13560 Jefferson Avenue\nNewport News, VA 23603\nDescription:\nCelebrate 34 years of holiday magic with Newport News Park Celebration in Lights, Virginia’s first and premier drive-through holiday light tradition. Running nightly from November 26th to January 1st (5:30 PM–10:00 PM), this spectacular 2-mile journey through the park features over 1,000 brilliant displays, including a brand-new 30-foot illuminated Squid, a vibrant Poinsettia Arch, and an all-new Santa’s Village. Advance purchase tickets available at Newport News Visitor Center at Newport News Park.",
+      "link": "https://nnparksandrec.org"
+    },
+    {
+      "id": "https://www.nnva.gov/Calendar.aspx?EID=2385/638205308070000000",
+      "name": "Thanksgiving Day",
+      "category": "Events",
+      "date": "5/24/2023",
+      "location": "Newport News, VA",
+      "description": "Event date: November 26, 2026 \nEvent Time: 08:00 AM - 05:00 PM\nLocation: \nNewport News, VA 23607\nDescription:\nCity offices and libraries closed.",
+      "link": "https://www.nnva.gov/Calendar.aspx?EID=2385"
+    },
+    {
+      "id": "https://www.nnva.gov/Calendar.aspx?EID=2294/638205254790000000",
+      "name": "City Council Regular Meeting",
+      "category": "Events",
+      "date": "5/24/2023",
+      "location": "Newport News, VA",
+      "description": "Event date: November 24, 2026 \nEvent Time: 07:00 PM - 10:00 PM\nLocation: \nBehind City Hall\n2400 Washington Ave\nNewport News, VA 23607",
+      "link": "https://www.nnva.gov/Calendar.aspx?EID=2294"
+    },
+    {
+      "id": "https://www.nnva.gov/Calendar.aspx?EID=3744/639294844470000000",
+      "name": "Neighborhood Recreation & Parks Council Committee Meeting",
+      "category": "Events",
+      "date": "11/5/2026",
+      "location": "Newport News, VA",
+      "description": "Event date: November 16, 2026 \nEvent Time: 09:00 AM - 10:30 AM\nLocation: \nCity Hall - 10th Floor\n2400 Washington Ave\nNewport News, VA 23607",
+      "link": "https://www.nnva.gov/Calendar.aspx?EID=3744"
+    },
+    {
       "id": "https://www.nnva.gov/Calendar.aspx?EID=3635/639138237570000000",
       "name": "Committee on Investments Meeting",
       "category": "Events",
@@ -98,42 +134,6 @@
       "location": "Newport News, VA",
       "description": "The provisional meeting will be held on November 12, 2026, at 10:00 AM at City Hall, 2400 Washington Avenue.",
       "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2594"
-    },
-    {
-      "id": "https://www.nnva.gov/Calendar.aspx?EID=2581/638477493620000000",
-      "name": "Planning Commission Meeting",
-      "category": "Events",
-      "date": "4/3/2024",
-      "location": "Newport News, VA",
-      "description": "Event date: November 18, 2026 \nEvent Time: 02:00 PM - 11:59 PM\nLocation: \nBehind City Hall\n2400 Washington Ave\nNewport News, VA 23607",
-      "link": "https://www.nnva.gov/Calendar.aspx?EID=2581"
-    },
-    {
-      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2592/639275934600000000",
-      "name": "Vice Mayor Curtis D. Bethany III to Serve as the Next President-Elect of the VML Board of Directors",
-      "category": "Local News",
-      "date": "10/14/2026",
-      "location": "Newport News, VA",
-      "description": "",
-      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2592"
-    },
-    {
-      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2594/639291997800000000",
-      "name": "Upcoming Meetings",
-      "category": "Local News",
-      "date": "11/2/2026",
-      "location": "Newport News, VA",
-      "description": "Learn about the upcoming Canvass and provisional meetings.",
-      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2594"
-    },
-    {
-      "id": "https://www.nnva.gov/Calendar.aspx?EID=3503/639031988040000000",
-      "name": "Yellow Collection Day",
-      "category": "Events",
-      "date": "1/5/2026",
-      "location": "Newport News, VA",
-      "description": "Event dates: November 16, 2026 - November 19, 2026\nEvent Time: 12:00 AM - 11:59 PM\nLocation: \nNewport News, VA 23607",
-      "link": "https://www.nnva.gov/Calendar.aspx?EID=3503"
     }
   ],
   "benefits": [
