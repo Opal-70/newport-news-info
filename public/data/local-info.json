@@ -1,6 +1,15 @@
 {
   "events": [
     {
+      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2598/639307535910000000",
+      "name": "Winter National Empty the Shelters® Adoption Event",
+      "category": "Local News",
+      "date": "11/20/2026",
+      "location": "Newport News, VA",
+      "description": "This winter, help us turn shelter stays into forever homes! Thanks to the generosity of BISSELL Pet Foundation, adoption fees for dogs and cats will be reduced during the Winter National Empty the Shelters Adoption Event.",
+      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2598"
+    },
+    {
       "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2595/639305804540000000",
       "name": "November Risk-Limiting Audit",
       "category": "Local News",
@@ -125,15 +134,6 @@
       "location": "Newport News, VA",
       "description": "",
       "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2591"
-    },
-    {
-      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2581/639275795400000000",
-      "name": "Newport News Welcomes $450 Million Federal Investment in Sailor Quality-of-Service Improvements",
-      "category": "Local News",
-      "date": "10/14/2026",
-      "location": "Newport News, VA",
-      "description": "",
-      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2581"
     }
   ],
   "benefits": [
