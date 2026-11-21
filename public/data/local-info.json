@@ -1,6 +1,15 @@
 {
   "events": [
     {
+      "id": "https://nnparksandrec.org/639286062220000000",
+      "name": "Annual Holiday Tree Lighting Ceremony & Drone Show",
+      "category": "Events",
+      "date": "10/26/2026",
+      "location": "Newport News, VA",
+      "description": "Event date: December 5, 2026 \nEvent Time: 06:00 PM - 09:15 PM\nLocation: \n735 Town Center Drive\nNewport News, VA 23606\nDescription:\nThe festive season kicks off at City Center at Oyster Point with Annual Tree Lighting Ceremony & Holiday Drone Show on Saturday, December 5, 2026, from 6:00 PM to 9:15 PM (Tree Lighting at 6:30 PM). This evening is packed with strolling entertainment, holiday vendors, children's activities, games, food trucks, and the premiere of the 2026 light show featuring Timber the Talking Tree. The night reaches its peak at 9:00 PM when 500 drones light up the sky.",
+      "link": "https://nnparksandrec.org"
+    },
+    {
       "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2598/639307535910000000",
       "name": "Winter National Empty the Shelters® Adoption Event",
       "category": "Local News",
@@ -125,15 +134,6 @@
       "location": "Newport News, VA",
       "description": "Event dates: November 9, 2026 - November 13, 2026\nEvent Time: 12:00 AM - 11:59 PM\nLocation: \nNewport News, VA 23607",
       "link": "https://www.nnva.gov/Calendar.aspx?EID=3474"
-    },
-    {
-      "id": "https://www.nnva.gov/CivicAlerts.aspx?aid=2591/639274985320000000",
-      "name": "Newport News Fire Department Earns Virginia Municipal League's Top Innovation Honor",
-      "category": "Local News",
-      "date": "10/13/2026",
-      "location": "Newport News, VA",
-      "description": "",
-      "link": "https://www.nnva.gov/CivicAlerts.aspx?aid=2591"
     }
   ],
   "benefits": [
